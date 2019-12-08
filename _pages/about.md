@@ -7,7 +7,7 @@ You can find my CV here, if you're interested in my career story.
 
 I thought it would be entertaining to write up my About using "ice breakers".
 Googling "ice breakers" leads to results like, "If you were a vegetable...",
-so I googled "normal ice breakers" instead.
+so I searched for "[normal ice breakers](https://www.icebreakers.ws/small-group/icebreaker-questions.html)" instead.
 I still get, "If you were an animal...", but that's better, somehow.
 
 Here we go:
@@ -148,7 +148,3 @@ Here we go:
 * <u> If you had to describe yourself using three words, they would be… </u>
 
   Human. Creator. Bioinformatician.
-
----
-
-Questions adapted from [www.icebreakers.ws](https://www.icebreakers.ws/small-group/icebreaker-questions.html).
