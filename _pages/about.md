@@ -14,26 +14,26 @@ Here we go:
 
 * <u> If you could have an endless supply of any food, what would you get? </u>
 
-  Maybe venison. This is a hard question, because I keep thinking about all of the downsides of having an endless supply of a single food.
+  Maybe venison. This is a hard question because I keep thinking about all of the downsides of having an endless supply of a single food.
 
 * <u> If you were an animal, what would you be and why?</u>
 
   A sloth, apparently.
   My wife came up with this analogy, because she thinks I move so slowly.
-  Enough people either agreed or thought it was funny that the joke has stuck around.
-  One time, I was gifted sloth socks as a wedding party gift.
+  Enough people either agreed or thought it was funny enough that the joke stuck around.
+  Once, I was gifted sloth socks as a wedding party favor.
   I love those socks.
 
 * <u> What is one goal you’d like to accomplish during your lifetime? </u>
 
-  To contribute something that's useful to humanity 100 years after I'm dead.
+  To contribute something that is useful to humanity 100 years after I'm dead.
   Because, why aim low, right?
 
 * <u> When you were little, who was your favorite super hero? </u>
 
-  As an adult, I like the MCU as much as the next guy.
+  As an adult, I like the MCU as much as the next person.
   As a kid, I didn't particularly care for super heroes.
-  There were no rule. If the Hulk fights Wolverine, who wins?
+  There are no rule. If the Hulk fights Wolverine, who wins?
   Who knows, because the physics of the world adapts, on the fly, to the plot.
   It's all magic, in the end.
   Incidentally, I love a rules based magic system, à la Brandon Sanderson.
@@ -45,13 +45,14 @@ Here we go:
   "Never meet your heroes."
   My hipster defense is that I independently learned about Tesla while browsing the web as a kid.
   This was back when Tesla was duct taping laptop batteries to the bottom of a Lotus Elise.
+
   Three random reasons I like Musk:
-  * He tweeted about _Superintelligence_ by Nick Bostrum, and has clearly digested the book himself. _Superintelligence_ is one of my favorite books. There's a thoughtfulness in that book that I've rarely seen elsewhere.
+  * He tweeted about _Superintelligence_ by Nick Bostrum, and has clearly digested the book himself. _Superintelligence_ is one of my favorite reads. There's a thoughtfulness in that book that I've rarely seen elsewhere.
   * He taught me to think in orders of magnitude.
   "It's more than 10 and less than 1000, so about 100."
   The world is complicated, and it's often (usually?) difficult to provide accurate estimates.
-  I've found this technique useful for my own thoughts,
-  and for communicating how I consider variance to people who don't know what the word variance means.
+  I've found this technique useful for clarifying my own thoughts,
+  and for communicating how I consider variance to people who don't know the word variance.
   * He cares about the future of humanity enough to put effort into increasing the likelihood that we survive.
   I don't know many who spend more than fleeting moments thinking about either the future or humanity.
   Of those that do, even fewer care.
@@ -76,7 +77,7 @@ Here we go:
   I briefly considered [Waldo](https://en.wikipedia.org/wiki/The_Waldo_Moment),
   as general homage to Black Mirror.
   Mulan seems like a good choice, cause she's a badass. Plus, good music.
-  And, even though I haven't seen it all [Aang](https://en.wikipedia.org/wiki/Aang) keeps popping into my head.
+  And even though I haven't seen it all [Aang](https://en.wikipedia.org/wiki/Aang) keeps popping into my head.
 
 * <u> If you could visit any place in the world, where would you choose to go? </u>
 
@@ -96,14 +97,14 @@ Here we go:
   I don't know how you'd measure it,
   but I hypothesize that VCs have outsized influence over humanity's trajectory.
   Even compared to CEOs, politicians, etc.
-  There's a lot more I'd want to say about this,
+  There's a lot more I want to say about this,
   but I don't have all the words yet.
-  I'll leave a full explanation and defense to a post.
+  I'll leave a full explanation and defense to a later post.
 
 * <u> Are you a morning or night person? </u>
 
   Night.
-  My routine is basically, work, gym, dinner, time with my wife, followed by a couple of silent hours at the end of the night to work on whatever I'm interested in at the time. Some weeks, more gets done in the ~10 hours at night than in the ~40 hours at work.
+  My routine is basically, work, gym, dinner, time with my wife, followed by a couple of silent hours at the end of the night to work on whatever I'm interested in at the time. Some weeks, more gets accomplished in the ~10 hours at night than in the ~40 hours at work.
 
 * <u> What are your favorite hobbies? </u>
 
@@ -123,7 +124,7 @@ Here we go:
 * <u> Name one of your favorite things about someone in your family. </u>
 
   My brother has always intuitively known how to generate fun.
-  That may seem like a boring answer that most people can do.
+  That may seem like a boring and non-unique answer.
   But most people only know how to enjoy entertainment that's provided to them.
   Mahlon knows how to generate entertainment from nothing.
   That's a rare skill.
@@ -139,11 +140,10 @@ Here we go:
   Along any individual axis, people aren't nearly as unique as they pretend.
 
   I've never heard anyone else called out for holding their breath while they're thinking.
-  This means I tend to exhale loudly at semi-regular intervals while working.
-  I didn't know it was something I did until one of my friends on the Academic Team yelled at me to stop, because it was bothering them.
-  Since then, multiple other people have asked me kindly reminded me to "keep breathing".
+  This means I tend to exhale heavily at semi-regular intervals while working.
+  I didn't know this was something I do until one of my friends on the high school's Academic Team yelled at me to stop, because it was bothering them. Since then, multiple other people have kindly reminded me to "keep breathing".
   I suspect other people also do this,
-  but I've never noticed, nor overheard someone mention it to someone else.
+  but I've never noticed, nor overheard someone mention it to another.
 
 * <u> If you had to describe yourself using three words, they would be… </u>
 
