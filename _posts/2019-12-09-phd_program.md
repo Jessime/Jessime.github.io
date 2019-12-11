@@ -1,0 +1,106 @@
+---
+title: "PhD Reflections"
+categories:
+  - Blog
+tags:
+  - Life
+---
+
+I finished my PhD less than a year ago.
+
+Now is the perfect time to spend a few days thinking over what I did and learned in the last five years. Originally, I wanted to title this post something along the lines of "What getting a PhD is like". That's a preposterous title. PhD programs vary wildly by both discipline and school. Even within my own cohort, our journeys seemed marked more by their _dis_-similarities. Even this version of my own story is  different than what it would have been if I had written these notes in real time.
+
+Instead, here are some things I remember about graduate school.
+
+The rest of this post is broken down into events on a per-semester basis (it's a good way to make sure I don't skip over those middle chunks). The purpose of each anecdote is reflect some value I extracted out of my time as a PhD student. Overall, I had a great time in graduate school, and generally feel like I learned a lot. Most students don't say that. They'll likely tell you it was [depressing and anxiety inducing](https://www.insidehighered.com/news/2018/03/06/new-study-says-graduate-students-mental-health-crisis). Perhaps some of these details will shed light on what made my experience a net positive.
+
+## 1st year, Fall Semester (2014)
+
+I have a disproportionate number of memories from this semester, because everything was new. Besides starting graduate school, I had just gotten married, and moved from Kentucky to North Carolina. My wife and I decided to get a dog. I mention this because neither I nor graduate school are good at separating work and life. They're the same thing. This fact is reflected in my writing.
+
+One of the cool things about graduate school is that you start with a cohort. It's like getting handed free friends. They're a group of people of similar ages, who have similar interests, and few of them have outside obligations because they're also starting something new. Then, you're all forced to go on this adventure together. There's nothing better for building strong friendships than a good adventure.
+
+An amusing observation I made within the first few weeks of school that still sticks with me is that all of the graduate students (myself included, I'm sure) we're trying to figure out where they ranked in the intelligence/success/social hierarchy. Nothing surprising there, all groups of people do that. What made it amusing was, there seemed to be a large amount of confusion about exactly _how_ to do the ranking. In undergrad and high school, class difficulties and grades were a solid heuristic. And it probably goes without saying that grades were something graduate students cared about a lot. All of that was taken away. Instead, it manifested itself in silly conversations like, "Have you found your rotation PI yet? Oh, me? Yea, I signed last week. I got my first choice! Pretty exciting, right?!"
+
+I mention this observation not only because it was one of my first, but because it became even more relevant over the next few years, not less. To stereotype, graduate students are fiercely competitive people. In many ways, a PhD is a terrible place for competing:
+
+1. There's a lot of competition. People are good.
+2. More importantly, there are few clear measurements of success, especially since everyone has slightly different priorities than you.
+3. The solid benchmarks, like passing orals and having a paper accepted can be years apart. There are no weekly quizzes to get 100s on.
+
+I wonder what fraction of grad student anxiety is driven by people who have been able to rely on grades for validation their entire life abruptly living in a world where it's fairly unclear how successful you are.
+
+### Rotations
+
+As I alluded to already, my program had us do rotations. We had to pair with three PIs over the course of our first year, and spend about three months working in their lab. At the end of our first year, we would join one of those three labs. I began my rotations with Tim Elston for a few reasons. First and foremost, Tim seemed like a great guy to know on a professional and personal level. I'm not going to belabor the point here (but will elsewhere), but people make or break everything. Second, I really wanted to do something like [whole cell modeling](cell.com/action/showPdf?pii=S0092-8674%2812%2900776-3), and Tim was doing some really interesting systems biology. Third, if I'm being really honest, was that even though I had joined the bioinformatics curriculum I was nervous about joining a purely computational lab. On the account that I... you know... basically didn't have any programming experience.
+
+Two things I learned from the Elston lab: the importance of writing things down, and the difficulty of doing both wet and dry lab.
+
+I spent most of the time working with Lior, another graduate student. Lior was smart, serious, and open. And at the risk of oversimplifying, she didn't like grad school that much. We were running delicate microfluidic experiements that would take a long time to set up. And we were using fairly expensive microscopes. In other words, we were working in an environment where mistakes were costly. I did everything I knew to do to minimize the likelihood of making mistakes. When she would show me some procedure, I'd pay close attention, and absorb as much as I could. But I never wrote anything down, because I naturally find it distracting. Fairly quickly though, I tried to replicated a task she'd shown me and I couldn't remember some basic step. New things are hard. I went back to Lior and asked her my question. She said, "You know, I'm not really looking forward to repeating myself a bunch of times. You should take notes when I show you something."
+
+Since then, I've gotten in the habit of scratching out bare bone notes in a non-distracting way during things (meetings, tutorials, etc.), going back as soon as possible afterwards, and fleshing things out. It's not a perfect system, but it's a major improvement. Especially as the scope of my responsibilities increase, I find the benefit of note taking grows proportionately.
+
+I also learned that it's hard to balance a multi-part project like splitting your time between wet- and dry- lab projects. My dream was to collect my own data, and also be able to analyze it. That was a major appeal of the Elston lab and my project. In the end, I spent all of my time collecting data. Many of my colleagues tried to pull off this duality. I estimate that maybe one or two of them managed it well. The price of context switching is high. It's higher than most people account for. By the time you're back from the lab with your data, you've forgotten all of the nitty gritty details of the analysis that turn out to be essential for any real forward progress and insights.
+
+People who can context switch with minimal penalties are magicians.
+
+For my second rotation, I knew I had to take the leap of faith a do a computational project. I rotated with Mauro Calabrese, who I had heard give a compelling talk about lncRNAs. He was a recently hired molecular biologist, who had some preliminary data showing that a simple computational technique might provide insights into lncRNAs. Spoiler alert: these are the opening lines from my PhD defense:
+
+> On November 10th, 2014--which is an easy date for me to remember, because it was my 22nd birthday--I walked into Mauro’s office for the very first time.
+We sat down at the little round table in his office and he said,
+"I have this idea about kmers."
+Over the next hour, he described this idea that:
+There is a class of molecules, found in almost every living organism that help form life as we know it.
+But, we don't understand how these molecules work, or more importantly, what sort of diseases arise when they malfunction.
+He thought it might be possible to write a computer program to describe these molecules in a way no one else had.
+By describing the molecules in this new way, we might be able to predict what they do,
+and even help other scientist find ways of stopping them from causing disease.
+
+What makes this story a bit crazy is that a couple days after that, Mauro was showing me how to `ssh` into UNC's cluster and `cd` around the filesystem. I _must_ have used a terminal terminal before that, but I can't recall any specific instances. I had taken an Intro to Python class in undergrad, and made a game on my own over the summer, but that was likely all done in IDLE. I was using [Spyder](https://www.spyder-ide.org/) by the time I got to Mauro's lab. This I know for sure, because I still a couple of `.py` files on Google Drive (what's `git`?) that look like:
+
+```python
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Nov 11 11:39:57 2014
+
+@author: Jessime
+"""
+
+nucleo = ["A", "G", "T", "C"]
+...
+```
+
+That docstring is a hallmark of Spyder.
+
+Mauro had two graduate students, David and Megan. I don't know two other people I would have rather had as lab mates. My initial impression of the two over the first week or so... was that they were probably dating... In retrospect, that was a goofy thought, given that David had a wedding ring on and Megan didn't. But they worked so well together, were so close, and would bicker so much, that I couldn't think of any other explanation. They're Exhibit A for people making or breaking grad school. Even before winter break, I had a pretty good idea I was going to join Mauro's lab.
+
+### Classes
+
+Even though rotations accounted for about 40h/week, they were only half of our responsibilities. Classes weren't as memorable, but they were a lot of work that first semester. My transcript says I took:
+
+```
+BBSP 901 RESEARCH IN BBSP 3.00 3.00 H
+BBSP 902 SEMINAR IN BBSP 2.00 2.00 P
+BBSP 903A RESEARCH IN BBSP - PART I 1.50 1.50 H
+BCB 710 BIOINFORMATICS COLLOQ 1.00 1.00 P
+BCB 716 BIOINFO/SEQ ANALYSIS 1.00 1.00 P
+BCB 720 INTRO STATISTICAL MODELING 2.00 2.00 P
+NBIO 729 NEURAL INFO PROC 3.00 3.00 H
+```
+
+* `RESEARCH IN BBSP`: This covered our rotations.
+* `SEMINAR IN BBSP`: We had a weekly colloquium, which mostly served as a way for PIs to advertise their research. It's where I heard Mauro talk.
+* `RESEARCH IN BBSP - PART I`: "First Year Group" was everyone's favorite thing to complain about. It was basically a year long orientation. A decent amount of busy work was involved, but I generally found it worthwhile. It was a chill time to do things like discuss research ethics.
+* `BIOINFO/SEQ ANALYSIS`: Given that a majority of my project was sequence analysis, you might guess that this was my favorite class. You'd be wrong. It was fairly dysfunctional from start to finish. Neither of the two instructors showed up to the final, because they each thought the other was covering it.
+* `NEURAL INFO PROC`: Have you ever seen a student fall asleep in class and feel a little embarrassed for them? Now, have you ever seen a student fall asleep in a two student class? I have. I'm going to abstain from going into details, because there's no take home lesson here.
+* `INTRO STATISTICAL MODELING`: This class single handedly made up for the lack of rigor of all the other classes. I probably spent 20 hours a week learning stats and `R` the entire semester. In the end it was worth it. Stats is still my weakest subject, but I used variations of what I learned in that class on a weekly basis for the rest of grad school. If you're in any sort of data driven field, take a decent stats course. Take it!
+  
+## 1st year, Spring Semester (2015)
+## 2nd year, Fall Semester (2015)
+## 2nd year, Spring Semester (2016)
+## 3rd year, Fall Semester (2016)
+## 3rd year, Spring Semester (2017)
+## 4th year, Fall Semester (2017)
+## 4th year, Spring Semester (2018)
+## 5th year, Fall Semester (2018)
+## 5th year, Spring Semester (2019)
