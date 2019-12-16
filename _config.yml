@@ -76,6 +76,9 @@ author:
     - label: "Employer"
       icon: "fas fa-fw fa-link"
       url: "http://invitae.com/"
+    - label: "Reading List"
+      icon: "fas fa-fw fa-book"
+      url: "https://docs.google.com/spreadsheets/d/1kBg7HFRH3IsAlnUTrbNOFwwulTfv_G8h_OqBmVkbJUs/edit?usp=sharing"
 
 footer:
   links:
@@ -91,6 +94,10 @@ footer:
     - label: "Employer"
       icon: "fas fa-fw fa-link"
       url: "http://invitae.com/"
+    - label: "Reading List"
+      icon: "fas fa-fw fa-book"
+      url: "https://docs.google.com/spreadsheets/d/1kBg7HFRH3IsAlnUTrbNOFwwulTfv_G8h_OqBmVkbJUs/edit?usp=sharing"
+
 
 defaults:
   # _posts
