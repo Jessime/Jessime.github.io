@@ -1,5 +1,6 @@
 ---
 title: "PhD Reflections"
+last_modified_at: 2019-12-15
 categories:
   - Blog
 tags:
@@ -78,29 +79,107 @@ Mauro had two graduate students, David and Megan. I don't know two other people 
 
 Even though rotations accounted for about 40h/week, they were only half of our responsibilities. Classes weren't as memorable, but they were a lot of work that first semester. My transcript says I took:
 
-```
-BBSP 901 RESEARCH IN BBSP 3.00 3.00 H
-BBSP 902 SEMINAR IN BBSP 2.00 2.00 P
-BBSP 903A RESEARCH IN BBSP - PART I 1.50 1.50 H
-BCB 710 BIOINFORMATICS COLLOQ 1.00 1.00 P
-BCB 716 BIOINFO/SEQ ANALYSIS 1.00 1.00 P
-BCB 720 INTRO STATISTICAL MODELING 2.00 2.00 P
-NBIO 729 NEURAL INFO PROC 3.00 3.00 H
+* `BBSP 901 RESEARCH IN BBSP`: This covered our rotations.
+* `BCB 710 BIOINFORMATICS COLLOQ`: We had a weekly colloquium, which mostly served as a way for PIs to advertise their research. It's where I heard Mauro talk.
+* `BBSP 903A RESEARCH IN BBSP - PART I`: "First Year Group" was everyone's favorite thing to complain about. It was basically a year long orientation. A decent amount of busy work was involved, but I generally found it worthwhile. It was a chill time to do things like discuss research ethics.
+* `BCB 710 BIOINFO/SEQ ANALYSIS`: Given that a majority of my project was sequence analysis, you might guess that this was my favorite class. You'd be wrong. It was fairly dysfunctional from start to finish. Neither of the two instructors showed up to the final, because they each thought the other was covering it.
+* `BCB 716 NEURAL INFO PROC`: Have you ever seen a student fall asleep in class and feel a little embarrassed for them? Now, have you ever seen a student fall asleep in a two student class? I have. I'm going to abstain from going into details, because there's no take home lesson here.
+* `BCB 720 INTRO STATISTICAL MODELING`: This class single handedly made up for the lack of rigor of all the other classes. I probably spent 20 hours a week learning stats and `R` the entire semester. In the end it was worth it. Stats is still my weakest subject, but I used variations of what I learned in that class on a weekly basis for the rest of grad school. If you're in any sort of data driven field, take a decent stats course. Take it!
+
+For me, each semester of grad school was easier than the semester before it (with the possible exception of the final semester, which had a lot going on). Between lab and 720, I basically did nothing except grad school. I very quickly fell into a routine of:
+
+1. Go to school from 9:30 to 6:00
+2. Go home, eat dinner, hang out with Laura for an hour
+3. Start on 720 homework. I'd give up on it around midnight.
+4. Write some code for an hour or two in the early AM.
+
+## 1st year, Spring Semester (2015)
+
+One of the things that really paid off for me in grad school was that I spent more time exploring the ecosystem of scientific computing than any other grad student. Mostly, I just thought Python was really cool. But even the more computationally minded students were still coming out of a pure CS background, and there were a lot of tools that existed that none of us knew about. Not until I found them, anyway. To be a total hipster about it, I found out about Jupyter notebooks before they were cool by browsing the [r/Python](https://reddit.com/r/Python). My grad school story would have been fundamentally worse if I hadn't found notebooks.
+
+Not all of my explorations were quite so fruitful. Over winter break, I was exploring the idea of learning C, since some of my Python code was slow. My goal was to write the C equivalent of:
+
+```python
+with open('infile.txt') as infile;
+    for line in infile:
+        print(line)
 ```
 
-* `RESEARCH IN BBSP`: This covered our rotations.
-* `SEMINAR IN BBSP`: We had a weekly colloquium, which mostly served as a way for PIs to advertise their research. It's where I heard Mauro talk.
-* `RESEARCH IN BBSP - PART I`: "First Year Group" was everyone's favorite thing to complain about. It was basically a year long orientation. A decent amount of busy work was involved, but I generally found it worthwhile. It was a chill time to do things like discuss research ethics.
-* `BIOINFO/SEQ ANALYSIS`: Given that a majority of my project was sequence analysis, you might guess that this was my favorite class. You'd be wrong. It was fairly dysfunctional from start to finish. Neither of the two instructors showed up to the final, because they each thought the other was covering it.
-* `NEURAL INFO PROC`: Have you ever seen a student fall asleep in class and feel a little embarrassed for them? Now, have you ever seen a student fall asleep in a two student class? I have. I'm going to abstain from going into details, because there's no take home lesson here.
-* `INTRO STATISTICAL MODELING`: This class single handedly made up for the lack of rigor of all the other classes. I probably spent 20 hours a week learning stats and `R` the entire semester. In the end it was worth it. Stats is still my weakest subject, but I used variations of what I learned in that class on a weekly basis for the rest of grad school. If you're in any sort of data driven field, take a decent stats course. Take it!
-  
-## 1st year, Spring Semester (2015)
+I imagined it would probably be about 6 lines, and run 50x faster. The latter may be true, I never got around to testing it. We were at my wife's house and I was describing this goal to a friend of ours who was doing is undergrad in CS at the time. He chuckled and told me that it was probably going to be more than 6 lines. He kindly explained a number of the implementation details I would need to consider to do what I wanted. I don't recall them all, but I do remember being fully convinced that I wouldn't be learning C that break. Maybe next year.
+
+### Rotations
+
+I spent a month or so of the spring with Mauro, and it was largely unremarkable. I continued working on my kmer project. My spring semester rotation was defined by Brian Kuhlman's lab. I worked on a protein-folding problem using a software program called Rosetta, written in C++. This was the computational experience I had been gunning for, and the protein folding problem is what introduced me to research my sophomore year of high school.
+
+Most of my time was spent working with another grad student named Tim. Tim was a saint. As he patiently watch me fumble my way around the terminal, he explained both the CS and bio as clearly as one could hope for. Plus, he introduced me to as many cool tools as he could without overwhelming me. Tim taught me `git`. He showed me how to use `tmux`. He helped me write my first for-loop in bash. He pointed me to (vim adventures)[https://vim-adventures.com/] so I could stop using `nano`. He didn't even make fun of me when he saw my homebrewed and python-based `tree` script. Though, he did rightly point out that, "If all you have is a hammer, everything is going to look like a nail." I'm sure I could add to this list if I thought more.
+
+There was just one problem with Tim. He and another grad student in the lab, Ryan, were both 5th years. They were going to graduate and start a company together in the coming year. Selfishly, I had to ask myself, "What good does that do me?" Even though I knew that I didn't want to stay in the lab, given that the friends I had made were leaving, my rotation in the Kuhlman lab was a crucial learning experience.
+
+### Classes
+
+Several classes (`RESEARCH IN BBSP`, `BIOINFORMATICS COLLOQ`, and `RESEARCH IN BBSP - PART II`) were the same as first semester. The new ones were:
+
+* `BCB 712 BIOINFO/DATABASES`: The professor for this class was a super chill guy who was married to the mayor of Chapel Hill. My wife and I ran into them at several of my wife's work events. It was always awkward because the professor never remembered who I was despite the fact that I not only took his course, but I also was is TA the next year... Anyway, the class we also super chill. I almost wish it had been more intense; I could use a little more competence in SQL. But, we learned just enough that I have a basic understanding of things like:
+  * How to write simple SQL
+  * How to design a reasonable multi-table database schema
+  * I was really into OOP during this class, so I spent a lot of time thinking about the relationship between real world things, tables, rows, columns, classes, objects, and attributes. This has paid off pretty nicely while using Django's ORM, for example.
+* `BCB 715 BIOINFO/MATH MODELING`: This was co-taught by Tim and Jeremy Purvis. 715 was basically systems biology using differential equations, and a little bit of statistical modeling. In principle, this class should been really interesting. In practice, the material _was_ interesting, but largely overshadowed by trying to figure out what the hell was going on with Matlab. Whenever I finally got programs working, I always found an immense sense of satisfaction from watching whatever toy system evolve over time. Thankfully, I wasn't the only one who struggled with Matlab though. This was when I really became friends with Wes and Sherif. Not that they were any real help with Matlab, but the pain was a lasting bonding experience. Five years later, we still joke about how mad Wes was about the final homework assignment.
+* `BCB 717 STRUCTURAL BIOINFO`: This class was taught by Kuhlman the same time I was rotating, and focused on demonstrating principles of structural bioinformatics using PyRosetta, which was/is a janky python wrapper around Rosetta. This was the first and last time I felt like an expert in a class. Others certainly didn't feel the same, since this was the birthplace of the How To Learn to Code summer course that I ended up teaching each summer.
+* `BCB 722 TOPICS IN POPULATION GENETICS`: Pedagogically, Praveen made this the best class of the semester. He was one of the few PIs who cared as much about instruction as he did research. One of the things he focused on most was teaching from a first-principles approach. "Given these three basic assumptions, let's see if we can calculate this value you've always been told to memorize." It would have been amazing to have him in a class I personally had more use for, like Sequence Analysis.
+* `BCB 725 INTRO TO STATISTICAL GENETICS`: I remember so little about this class that I'm genuinely unsure who the instructor(s) was/were.
+
+Overall, first year classes were neither a waste of time, nor overly useful. They seemed to have been structured around the philosophy that Bioinformatics is at the cross-section of many fields, therefore, each student should at least _know that these subjects exist_. 80% of the students will never use SQL again, but the 20% that do will at least know enough to start reading tutorials they find on Google. The curriculum writers set a low, but reasonable bar.
+
 ## 2nd year, Fall Semester (2015)
+
+The main event of the summer was Written Qualifying Exams (Quals). Every program has their own structure for Quals. Ours was that you had four days to answer four of six questions. Each question was basically an exam from one of the BCB modules we had taken over the last year. I had an entertaining incident where my hot water heater broke at the beginning of the four days, but overall, Quals did not live up to the hype. Sure, you had to work on them for eight hours a day for four days; but there was no real chance of failing.
+
+### NSF GRFP
+
+Writing the NSF was fun. I believe I'd say that even if I didn't get it, but it was also a massive amount of work. Two things made it fun. The first was that I got to work closely with Mauro on it. He's one of the few people I'd readily admit is a better writer than I am; and we work well together. The second is that I found a writing process that works for me. I started to describe the process as part of this post, but it turns out that I have a lot of thoughts on the matter, and it deserves its own space:
+
+[A Method for Writing Persuasively]({% post_url 2019-12-15-writing-persuasively %})
+
+This process is a lot of effort, so I only use it for high stakes things like grants or pitches. As I mentioned previously, I'd spend a few hours each night working something. That semester my nights were NSF. Once I had a solid working draft, I'd send Mauro my edits once every few days. He would have edits back to me before I woke up in the morning. The first thing I'd do when I woke up was read the latest round of edit, and let them sit in the back of my mind while I went about my day. By the time I sat down in the evening, I'd have a pretty good idea how I wanted to start addressing them. By the end of the semester, I felt like it was probably the best thing I've ever written. A paper and a thesis later, I still feel that way.
+
+### Class
+
+I only took one class this semester, `COMP 790 Machine Learning`.
+[Final report](https://drive.google.com/open?id=0B0vJr0M-2sGXOHBIWFhsWXVNcTBNZmFHa2x4eGxmdzVGY09Z).
+
 ## 2nd year, Spring Semester (2016)
+
+### Research
+
+In some programs, classes remain a significant requirement for many years. This was not the case for me. By my second year, and for the rest of my graduate school career, lab was 80-90% of my time. Here's what "research" meant.
+
+
 ## 3rd year, Fall Semester (2016)
+
+Orals in the summer. The summer where nothing worked.
+
+Fall, the first semester of entirely research. Very mundane, but things start to come together.
+
+Mazeday? (want to mention?)
+
 ## 3rd year, Spring Semester (2017)
+
+
+Let's submit this month!
+
 ## 4th year, Fall Semester (2017)
+
+NCBI hackathon.
+Startup class. Also mostly falls outside of the scope of this, and should get its own post.
+
 ## 4th year, Spring Semester (2018)
+
+Edits on the paper
+
 ## 5th year, Fall Semester (2018)
+
+Summer at Google. Feeling "done" for the first time.
+
 ## 5th year, Spring Semester (2019)
+
+Thesis writing, dissertation prep, and job hunting.
