@@ -144,14 +144,35 @@ This process is a lot of effort, so I only use it for high stakes things like gr
 
 ### Class
 
-I only took one class this semester, `COMP 790 Machine Learning`.
-[Final report](https://drive.google.com/open?id=0B0vJr0M-2sGXOHBIWFhsWXVNcTBNZmFHa2x4eGxmdzVGY09Z).
+I only took one class this semester, `COMP 790 Machine Learning`. Both the class and the professor were fast-paced and intense. While I admittedly couldn't keep pace with some of the later mathematics, having a chance to think about machine learning from the ground up was a solid balance to the ML hype that was happening at the time. We started with linear regression and worked our way up from there.
+
+I managed to track down my [final report](https://drive.google.com/open?id=0B0vJr0M-2sGXOHBIWFhsWXVNcTBNZmFHa2x4eGxmdzVGY09Z). If you skim quickly enough, it looks like I'm doing math.  
 
 ## 2nd year, Spring Semester (2016)
 
+### Class
+
+My last class for BCB was `STOR 893 Object Oriented Data Analysis`. I was _so excited_ for this class. I didn't know was OODA was, but it sounded rad. Turns out, the entire class was about [PCA](https://en.wikipedia.org/wiki/Principal_component_analysis). Up until that point, I'd been under the impression that one of the downsides of PCA was that it wasn't particularly interpretable. This PI's entire career was telling stories about datasets he had done PCA (or some slight variation) on. The first week or two of lectures were captivating. Past that, however, it lost its appeal for most people, including myself.
+
 ### Research
 
-In some programs, classes remain a significant requirement for many years. This was not the case for me. By my second year, and for the rest of my graduate school career, lab was 80-90% of my time. Here's what "research" meant.
+In some programs, classes remain a significant requirement for many years. This was not the case for me. By my second year, and for the rest of my graduate school career, lab was 80-90% of my time. Here's what "research" meant for me.
+
+We'd always start with a hypothesis.
+
+> lncRNAs with higher GC content are more likely to be found in the nucleus.
+
+People say that "80% of data science is cleaning data." Those people are right. It's a lot of work.
+
+This is a bit of a toy example, but we'd have to figure out:
+
+* Which lncRNA transcripts do we want to use?
+* Which cell types are we interested in?
+* What type of RNAseq do we want to analyze?
+
+I'd do some exploration and settle on a first estimate of the data we wanted. Then, I'd settle in to that month's jupyter notebook and start hacking away. Unsurprisingly, I have a lot of thoughts about the right way to use a notebook:
+
+[10 Rules for Falling in Love with Jupyter Notebooks]({% post_url 2019-12-16-notebook-rules %})
 
 
 ## 3rd year, Fall Semester (2016)
@@ -160,7 +181,10 @@ Orals in the summer. The summer where nothing worked.
 
 Fall, the first semester of entirely research. Very mundane, but things start to come together.
 
-Mazeday? (want to mention?)
+Mazeday. This was one of a few side projects I now have on github. They'll get their own section, but they were critical to my success in a more general sense. They're the way I continued to learn.
+* How do you make a webapp?
+* How do you program in a team?
+*
 
 ## 3rd year, Spring Semester (2017)
 
