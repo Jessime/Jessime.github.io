@@ -158,7 +158,7 @@ My last class for BCB was `STOR 893 Object Oriented Data Analysis`. I was _so ex
 
 In some programs, classes remain a significant requirement for many years. This was not the case for me. By my second year, and for the rest of my graduate school career, lab was 80-90% of my time. Here's what "research" meant for me.
 
-We'd always start with a hypothesis.
+We'd always start with a hypothesis. For example:
 
 > lncRNAs with higher GC content are more likely to be found in the nucleus.
 
@@ -174,6 +174,26 @@ I'd do some exploration and settle on a first estimate of the data we wanted. Th
 
 [10 Rules for Falling in Love with Jupyter Notebooks]({% post_url 2019-12-16-notebook-rules %})
 
+Gathering the data would usually take longer than expected. I'd hit some bug half way through that'd cause me to lose like 10% of my data somewhere, or something goofy like that. But I'd eventually have a solid dataset. After that, I'd start applying different algorithms. Should I use regression, or create two classes? If I create GC-rich and AT-rich classes, should I use a t-test to compare means, or would a KS-test comparing distributions be more appropriate? Let's try all three options.
+
+First attempts always fail. Maybe in this example, we think that transcript length is a factor we need to consider, and I should subsample my classes so that the distributions of transcript lengths are approximately equal. Again, this is just a toy example. But you can see where this leads. I now need to create a view on my dataset, then reapply my algorithms. The process was very cyclical. Maybe on one cycle, we'd realize that we needed to bring in another dataset, to spice things up.
+
+Eventually, we'd find a signal we believed to be real. Usually, we would confirm our signal by coming up with another experiment. "If this signal is real, then biologically, this measurable fact should also occur." If the confirmation checked out, we'd spend a bit of time tweaking things. Maybe there was some way to make the signal to noise ratio better. Finally, we'd put effort into visualization. I would make graphs everyday. A general rule I learned from Mauro was that the sooner you visualized your data, the sooner you understood it. But the graphs themselves were "in-house" and never provided enough context to tell the whole story. Plot making was also a very iterative process, and could either be frustrating or a nice break, depending on the day.
+
+Here's an algorithm that summarizes what I just said and how we did research:
+
+1. Create a hypothesis
+2. Gather a dataset
+3. Build a view on the data
+4. Apply a number of analyses to the view
+5. Come up with a hypothesis about why your analysis failed, and how to correct it.
+6. Repeat 2-5, bringing in new data as necessary. Eventually, find a signal, or reject the hypothesis.
+7. Once a signal is found, tweak the analysis and dataset to increase signal to noise.
+8. Create a graph that best exemplifies your data's story.
+
+When I write it in a neat list like that, it sounds like that might be achievable in a day or two. Nope. This is on the timescale of a month to a semester. There were a couple of times when Mauro and I thought we had a plan that would take a week or two. Nope. Going from 1 to 8 always took at least a month.
+
+That's research.  
 
 ## 3rd year, Fall Semester (2016)
 
