@@ -197,11 +197,34 @@ That's research.
 
 ## 3rd year, Fall Semester (2016)
 
-Orals in the summer. The summer where nothing worked.
+Primarily because Mauro wanted to get them over with, I was the first of my cohort to take my Orals. I knocked them out in the beginning of summer. I wish I could say that I also knocked them out of the ballpark; that they were as easy as Quals. Sadly, words are hard.
+
+There was never any chance of me failing Orals, that's not how my program operated. My proposal was well written, my slides had a reasonable amount of data, and I knew what I was talking about. That's enough to pass. Nevertheless, I had a short debrief with Mauro after the event. The only sentence I remember was:
+
+> Praveen says we need to work on your speaking skills, and I agree.
+
+Speaking isn't a natural skill for me. Classic engineer, am I right? I'd given a decent number of presentations in high school and undergrad, but I still sucked at them. In retrospect there were two obvious reasons why:
+
+1. Presentations are deceptively difficult. I was always underprepared.
+2. I'd never had a tight feedback loop on a presentation. Even though I had presented before, I had never put myself in a situation where I could realize my mistakes and practice implementing a solution.
+
+It wasn't until my favorite class in grad school that I remedied this shortcoming. LINK
+
+### Failures
+
+The other thing that happened throughout the summer and into early fall was that... **nothing** worked.
+
+Most of this post focuses on the highlights of grad school, and my successes. But there were certainly frustrating days. This period was about 100 of them back-to-back. Most of the summer was spent trying to show that we could find a subset of Xist-like lncRNAs which had a local, Xist-like effect on epigenetics. It was a straightforward and reasonable hypothesis. Despite trying dozens of different datasets and variations on that primary hypothesis, I never found any signal strong enough to be confident in.
+
+Given the success of my preliminary work, this summer was aggravating. More importantly, it raised a lot of doubt in myself (_We would find something interesting if I were better at statistics_) and my project (_Kmers might be too simple to uncover anything truly insightful_). I'm certain that people with more skill and perseverance than me, working on more high-profile and impactful research than me, have dropped out of PhD programs because they were unfortunate enough to get stuck in this period too long. There is certainly an element of luck to these ventures.
+
+Always remember that; _especially_ when things are going well.
+
+### No classes
 
 Fall, the first semester of entirely research. Very mundane, but things start to come together.
 
-Mazeday. This was one of a few side projects I now have on github. They'll get their own section, but they were critical to my success in a more general sense. They're the way I continued to learn.
+Mazeday. This was one of a few side projects I now have on Github. They'll get their own section, but they were critical to my success in a more general sense. They're the way I continued to learn.
 * How do you make a webapp?
 * How do you program in a team?
 *
