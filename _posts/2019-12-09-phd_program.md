@@ -222,12 +222,50 @@ Always remember that; _especially_ when things are going well.
 
 ### No classes
 
-Fall, the first semester of entirely research. Very mundane, but things start to come together.
+For the first time since I was four, August rolled around and I didn't start any classes. The first semester consisted entirely of research. Since full days of research were also how I spent my summers, it wasn't a novel routine. Yet, it felt different psychologically. It felt like routine and stagnation.
 
-Mazeday. This was one of a few side projects I now have on Github. They'll get their own section, but they were critical to my success in a more general sense. They're the way I continued to learn.
-* How do you make a webapp?
-* How do you program in a team?
-*
+My saving grace was that I had a lightbulb moment. The thought was something along the lines of, _"What if, instead of splitting a phenotype into two groups and measuring if lncRNAs within either of those groups are significantly more Xist-like, I do the opposite? What if I find the most and least Xist-like lncRNAs and check if they have a distinguishing  phenotype?"_ Here's the thing about my "lightbulb moment". At the time, if felt like one more attempt to make something (i.e. anything) work. It wasn't until several months later when several separate experiments panned out of this approach that I realized how pivotal this simple inversion was.
+
+I don't know how much to read into this insight. It makes me wonder, however, how often the "lightbulb thoughts" of our lives are considered mundane at the time. If my life were a movie, there would have been dramatic music playing in the background so I could know that this was a crucial moment. In reality, I had no evidence to support thinking that this idea was any better than any of my other recently failed ideas. Follow up question: if this discrepancy between Hollywood-manufactured expectations (that I'll recognize my own good ideas) and reality is real, does it matter? It most likely does.
+
+### Side projects
+
+My second saving grace was working on side projects. Working on side projects can be controversial. Personally, I find them enjoyable, they fit into the current rhythm of my life, and they are a great way to learn. But that's me. This section is in no way prescriptive.
+
+My favorite side projects are ones where I recognize a skill deficient I want to explore, and come up with a fun thing to build within that domain. As I mentioned above, the lack of classes in the Fall and the routine of research made me feel like I was stagnating. Two of the projects I worked on that directly related to skills I wanted to learn were (MazeDay)[https://github.com/Jessime/MazeDay2017] and [LunchApp](https://github.com/Jessime/LunchApp).
+
+#### MazeDay
+
+How do you program in a team?
+
+That's what I wanted to know. I'd been using `git` as a code backup, but all of my development experience had been solo. I couldn't imagine how you'd coordinate writing code in a group. I wanted to give it a try, so in early August, I made this Facebook post:
+
+> Is anyone interested in working on a collaborative coding project together?
+> This concept isn't very mature, but I thought if people tossed some ideas around, maybe something would stick. Here, in order of "seriousness," are a few ideas I've had to get the conversation going:
+> 1. Video game: Nothing specific, just a fun game.
+> 2. Machine learning bot: This could be for a large variety of things. Maybe learning to play an existing video game.
+> 3. Adventure game: This would probably be a combination of Excision (the game I made last year) and Rosalind [http://rosalind.info/problems/locations/].
+> 4. Code battle: This could involves making a high level language that kids could use to learn programming... and fight each other.
+> 5. Beer tester: A cheap, portable device to test beer. Comes with a corresponding web app.
+> 6. Biometric app: Collects and analyzes biometric data of some kind. This could be simple (like reaction speeds) or complicated (saliva testing).
+>
+> Does anyone have any projects they've been interested in trying? I'm open to any suggests beyond the half-thought-out ideas I've mentioned. The goals for this are pretty much just to practice coding with other people and making some sort of program that other people would be interested in using.
+>
+> I'm only tagging the people who have specifically said they're interested, but everyone should feel free to comment!
+
+#### LunchApp
+
+How do you make a webapp?
+
+Web technologies were another thing I desperately wanted to know about. For me, the draw of the web has always been about software distribution. I love showing my programs to people (usually more than they enjoy seeing it), but Python **sucks** at packaging/distribution. The web is the way around that.
+
+Anyway, I knew web was something I was never going to touch in my PhD (turns out I was wrong about that!), so I decided to solve another problem I was having. Where should my friends and I go to lunch each week? I'll skip describing how the app works, since that's been written elsewhere, and jump straight to the results.
+
+1. Despite knowing nothing, I got the app up and running smoothly. Behind the scenes, the code is technically a train-wreck. But I was able to hide most of the mess from the enduser. I learned a lot of important lessons about the difference between UI/UX and implementation details.
+2. I learned how hard the web is. There's a chance that wrapping my head around everything from hosting to HTTP requests to HTML/CSS/JS to cookies and authentication, all of which seem required for even a basic webapp as far as I can tell, was more difficult that my first forays into programming. It was hard.
+3. Everyone hated the app, myself included. Just because I could make an app that decides where we go to lunch doesn't mean I _should_ make an app that decides where we go to lunch. I totally underestimated how important the psychology of the experience would be. My friends used the app for five or six weeks, and each week we felt like the choice would have been better if we had fought it out like normal. The app "worked", but only made the experience worse. A story as old as software.
+
+
 
 ## 3rd year, Spring Semester (2017)
 
