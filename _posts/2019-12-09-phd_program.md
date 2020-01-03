@@ -9,11 +9,13 @@ tags:
 
 I finished my PhD less than a year ago.
 
-Now is the perfect time to spend a few days thinking over what I did and learned in the last five years. Originally, I wanted to title this post something along the lines of "What getting a PhD is like". That's a preposterous title. PhD programs vary wildly by both discipline and school. Even within my own cohort, our journeys seemed marked more by their _dis_-similarities. Even this version of my own story is  different than what it would have been if I had written these notes in real time.
+Now is the perfect time to spend some time thinking over what I did and learned in the last five years. I briefly considered entitling this post something along the lines of "What getting a PhD is like". That's a preposterous title. PhD programs vary wildly by both discipline and school. Even within my own cohort, our journeys seemed marked more by their _dis_-similarities. Even this version of my own story is  different than what it would have been if I had written these notes in real time.
 
 Instead, here are some things I remember about graduate school.
 
 The rest of this post is broken down into events on a per-semester basis (it's a good way to make sure I don't skip over those middle chunks). The purpose of each anecdote is reflect some value I extracted out of my time as a PhD student. Overall, I had a great time in graduate school, and generally feel like I learned a lot. Most students don't say that. They'll likely tell you it was [depressing and anxiety inducing](https://www.insidehighered.com/news/2018/03/06/new-study-says-graduate-students-mental-health-crisis). Perhaps some of these details will shed light on what made my experience a net positive.
+
+Finally, five years is a long time to cover in a single post. Links are sprinkled throughout the semesters as I ran into sections that deserved their own space. A collection of these spinout posts can be found at the bottom of the post.
 
 ## 1st year, Fall Semester (2014)
 
@@ -230,55 +232,72 @@ I don't know how much to read into this insight. It makes me wonder, however, ho
 
 ### Side projects
 
-My second saving grace was working on side projects. Working on side projects can be controversial. Personally, I find them enjoyable, they fit into the current rhythm of my life, and they are a great way to learn. But that's me. This section is in no way prescriptive.
+My second saving grace was working on side projects. Talking about working on side projects can be controversial. Personally, I find them enjoyable, they fit into the current rhythm of my life, and they are a great way to learn. But that's me (for now). This section is in no way prescriptive.
 
-My favorite side projects are ones where I recognize a skill deficient I want to explore, and come up with a fun thing to build within that domain. As I mentioned above, the lack of classes in the Fall and the routine of research made me feel like I was stagnating. Two of the projects I worked on that directly related to skills I wanted to learn were (MazeDay)[https://github.com/Jessime/MazeDay2017] and [LunchApp](https://github.com/Jessime/LunchApp).
+My favorite side projects are ones where I recognize a skill deficient I want to explore, and come up with a fun thing to build within that domain. As I mentioned above, the lack of classes in the Fall and the routine of research made me feel like I was stagnating. Two of the projects I worked on that directly related to skills I wanted to learn were [MazeDay](https://github.com/Jessime/MazeDay2017) and [LunchApp](https://github.com/Jessime/LunchApp).
 
-#### MazeDay
+TODO LINKS
 
-How do you program in a team?
+In a sentence, `LunchApp` was my first foray into the web; it taught me how much more difficult programming is when you have to think about a stack of languages and technologies, but also how powerful the web is as a software distribution platform. Similarly, `MazeDay` was the first time I programmed anything while leading a group; I got my first taste of how tricky it is to manage and inspire people, while getting to see what it looks like to build something you couldn't have accomplished alone.
 
-That's what I wanted to know. I'd been using `git` as a code backup, but all of my development experience had been solo. I couldn't imagine how you'd coordinate writing code in a group. I wanted to give it a try, so in early August, I made this Facebook post:
+I can't quantify this feeling, but my impression is that these two projects had a huge influence on my career trajectory. First, they gave me experience that I never would have gotten if I'd continued focusing on scientific programming. More entertainingly, they were a major source of material during interviews. People love a good story, and it was easy to turn these projects into stories while discussing difficult debugging situations or architectures like Model-View-Controller.
 
-> Is anyone interested in working on a collaborative coding project together?
-> This concept isn't very mature, but I thought if people tossed some ideas around, maybe something would stick. Here, in order of "seriousness," are a few ideas I've had to get the conversation going:
-> 1. Video game: Nothing specific, just a fun game.
-> 2. Machine learning bot: This could be for a large variety of things. Maybe learning to play an existing video game.
-> 3. Adventure game: This would probably be a combination of Excision (the game I made last year) and Rosalind [http://rosalind.info/problems/locations/].
-> 4. Code battle: This could involves making a high level language that kids could use to learn programming... and fight each other.
-> 5. Beer tester: A cheap, portable device to test beer. Comes with a corresponding web app.
-> 6. Biometric app: Collects and analyzes biometric data of some kind. This could be simple (like reaction speeds) or complicated (saliva testing).
->
-> Does anyone have any projects they've been interested in trying? I'm open to any suggests beyond the half-thought-out ideas I've mentioned. The goals for this are pretty much just to practice coding with other people and making some sort of program that other people would be interested in using.
->
-> I'm only tagging the people who have specifically said they're interested, but everyone should feel free to comment!
-
-#### LunchApp
-
-How do you make a webapp?
-
-Web technologies were another thing I desperately wanted to know about. For me, the draw of the web has always been about software distribution. I love showing my programs to people (usually more than they enjoy seeing it), but Python **sucks** at packaging/distribution. The web is the way around that.
-
-Anyway, I knew web was something I was never going to touch in my PhD (turns out I was wrong about that!), so I decided to solve another problem I was having. Where should my friends and I go to lunch each week? I'll skip describing how the app works, since that's been written elsewhere, and jump straight to the results.
-
-1. Despite knowing nothing, I got the app up and running smoothly. Behind the scenes, the code is technically a train-wreck. But I was able to hide most of the mess from the enduser. I learned a lot of important lessons about the difference between UI/UX and implementation details.
-2. I learned how hard the web is. There's a chance that wrapping my head around everything from hosting to HTTP requests to HTML/CSS/JS to cookies and authentication, all of which seem required for even a basic webapp as far as I can tell, was more difficult that my first forays into programming. It was hard.
-3. Everyone hated the app, myself included. Just because I could make an app that decides where we go to lunch doesn't mean I _should_ make an app that decides where we go to lunch. I totally underestimated how important the psychology of the experience would be. My friends used the app for five or six weeks, and each week we felt like the choice would have been better if we had fought it out like normal. The app "worked", but only made the experience worse. A story as old as software.
-
-
+I wouldn't trade the time I spent on these projects for twice as much time back to spent on my main PhD project.  
 
 ## 3rd year, Spring Semester (2017)
 
+### Foobar
 
-Let's submit this month!
+Research was going well enough at this point that Mauro was convinced we would be able to submit a Nature paper at the beginning of February. Instead, on February 3rd, I got an email that began with:
+
+> Hi Jessime,
+>
+> Congratulations, you passed level 3 within Google's coding challenge! Keep playing!
+
+This was a pretty crazy moment. I had been spending weekends playing [Google foobar](https://medium.com/magentacodes/things-you-should-know-about-google-foobar-invitation-703a535bf30f). During the week, I was spending every possible moment trying to make figures in `matplotlib`. That meant I had one or two days a week that I could spend learning all about algorithms and data structures.
+
+I don't have much exposure to competitive programming, so I don't know how standard my process was, but this is basically how I went about solving Google's coding problems:
+
+1. Brute force the problem to check for understanding. Your code had to run in a certain amount of time which pretty much ensured that you used a reasonable combination data structures and algorithms. But, just to make sure I understood what the problem wanted me to achieve, I'd write some O<sup>2</sup> algorithm that would pass the first couple of test cases.
+2. Figure out where my first try was spending too much time. Usually, it'd be possible to identify some spot in the code that was duplicating work necessarily.
+3. Read through a bunch of Wikipedia pages to figure out which algorithm or data structure made sense for the problem. This is where my experience possibly differed from other applicants. By this point, I'd casually come across enough CS fundamentals to know which half dozen Wikipedia pages might be relevant to a given problem, but I still had to go through those six, actually understand them, and decide which to implement. "Oh! This is definitely a dynamic programming problem". "Oh! I need to build a graph and do depth first search!" That kind of thing.
+4. Debug. Of course, debugging really occurred throughout the process, but most of the problems contained tiny variations on a core concept like DFS. So, there would always be a stage where you had to figure out edge cases.
+
+Even without the internship, the exercise of working through CS basics was a wonderful learning experience.
+
+### Pressure
+
+I already knew this, but the spring semester highlight was easily motivated I am by pressure and deadlines. Mauro was laser focused on getting the paper out since it would be his lab's first. He had me _almost_ as focused. It's a feat to be as focused as him for any period of time... Anyway, part of what helped highlight the positive effect of Mauro's pressure on me was witnessing and discussing how much it didn't help Megan and David. Megan in particular started needing a different type of management style than Mauro was providing, and we spent a lot of lunch times talking about it.
+
+People default to attempting to motivate people the way they would be motivated. One of my aspirations in life is to understand how to identify what drives individuals how how I can provide that style of encouragement and management.
 
 ## 4th year, Fall Semester (2017)
 
-NCBI hackathon.
-Startup class. Also mostly falls outside of the scope of this, and should get its own post.
+The Spring of 2017 blended into the Summer, as we went through a series of rejections. Each time we'd send off to a journal, I'd switch gears and try to make progress on "mega communities". We had some ideas for a follow-up paper which had potential, but I never had enough time to work on it before we'd have to go back to polishing the original paper for the next resubmission. A few weeks of not working on something is enough time for me to completely lose my flow.
+
+### NCBI Hackathon
+
+August kicked off with a three day trip to the National Library of Medicine with Wes, Sherif, and Kimiko (another BCB student a year below us).
+
+### How to Start a Startup
+
+[Startup UNC](http://startup.unc.edu/index.php/about/) was the best class I've ever taken. I still got research done, but this class is where my brain was this semester.  
+
+TODO LINK
+
+Opportunities like this are the reason I don't think my PhD was a waste, despite not going into academia. Did I learn and grow during my PhD? Absolutely. Did I learn and grow more than I would have in industry? Who knows. Could I have taken a class like this in industry? Absolutely not.
+
+Well, maybe if I got into YC.
+
+### Peter
+
+I was co-mentored.
+
+Peter and Mauro chatting.
 
 ## 4th year, Spring Semester (2018)
 
+Again, half of my brain was on the startup class this semester. 
 Edits on the paper
 
 ## 5th year, Fall Semester (2018)
