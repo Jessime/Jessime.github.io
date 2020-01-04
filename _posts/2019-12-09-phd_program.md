@@ -258,7 +258,7 @@ This was a pretty crazy moment. I had been spending weekends playing [Google foo
 
 I don't have much exposure to competitive programming, so I don't know how standard my process was, but this is basically how I went about solving Google's coding problems:
 
-1. Brute force the problem to check for understanding. Your code had to run in a certain amount of time which pretty much ensured that you used a reasonable combination data structures and algorithms. But, just to make sure I understood what the problem wanted me to achieve, I'd write some O<sup>2</sup> algorithm that would pass the first couple of test cases.
+1. Brute force the problem to check for understanding. Your code had to run in a certain amount of time which pretty much ensured that you used a reasonable combination data structures and algorithms. But, just to make sure I understood what the problem wanted me to achieve, I'd write some O(n<sup>2</sup>) algorithm that would pass the first couple of test cases.
 2. Figure out where my first try was spending too much time. Usually, it'd be possible to identify some spot in the code that was duplicating work necessarily.
 3. Read through a bunch of Wikipedia pages to figure out which algorithm or data structure made sense for the problem. This is where my experience possibly differed from other applicants. By this point, I'd casually come across enough CS fundamentals to know which half dozen Wikipedia pages might be relevant to a given problem, but I still had to go through those six, actually understand them, and decide which to implement. "Oh! This is definitely a dynamic programming problem". "Oh! I need to build a graph and do depth first search!" That kind of thing.
 4. Debug. Of course, debugging really occurred throughout the process, but most of the problems contained tiny variations on a core concept like DFS. So, there would always be a stage where you had to figure out edge cases.
@@ -291,14 +291,41 @@ Well, maybe if I got into YC.
 
 ### Peter
 
-I was co-mentored.
+I was co-mentored. Peter Mucha was an applied mathematics professor who liked to tell stories using networks. It's how he made his living.
+
 
 Peter and Mauro chatting.
 
 ## 4th year, Spring Semester (2018)
 
-Again, half of my brain was on the startup class this semester. 
-Edits on the paper
+Again, half of my brain was on the startup class this semester. But, the semester was an incredibly productive in terms of research as well. There were two reasons for this productivity. First, Mauro and I had our TODO list. TODO lists are great, and a rare commodity in research. We had gotten back review comments from Nature Genetics. They were extensive yet favorable. We went through the comments and found every addressable action item we could find. That became our TODO list. I handled the items that required more analysis, Mauro tackled ones that were restricted to writing. Having a checklist arguably means you aren't even doing research; either way, it made things much easier.
+
+The second reason I was so efficient was because I was under a strict deadline...
+
+"Well, crap. I actually gotta tell him." That was my first thought when I read the email from Google telling me I needed my PI's contact information. When your paper is in the middle of the review process and it's the lab's first paper, telling your PI that you want to disappear for four months is intimidating. It was one of the only hard conversations I had to have in those five years. When I finished explaining the situation, his response was:
+
+> As a person, I'm really excited for you. As a PI, this is really hard.
+
+Flawless. And catchy.
+
+### PIs and Grad Students
+
+**If you're reading these posts to learn about graduate school, this is an important section.**
+
+Mentor/student relationships in grad school are notoriously difficult. I've read a lot of articles complaining about this issue, but few seem to understand exactly why the relationship is complicated. There are three reasons, which I'll list in order of their generality:
+
+1. The power ratio is highly skewed. This is the case in most boss/employee relationships. Here however, it's worse than average. Beyond the valid complaints that PIs have excessive control over when students can defend, they also control recommendations. In most companies, if your direct boss is someone you happen to not work well with, you likely have other people you can use as references (e.g. a project manager instead of your technical lead). Graduate students about to enter the workforce are always going to be asked for their PI's contact information.
+2. To stereotype, PIs are intelligent, they're driven, they love science. PIs are PIs because they were excellent students, then excellent graduate students, then excellent postdocs. They were the best in their field at doing research, and they did research for a long time. Then, they got a professorship. As professors, they are immediately expected to stop doing research themselves and start managing graduate students and postdocs who are doing research instead. Doing good research yourself is literally worse than useless for being a good manager of other scientists. At best they're orthogonal skills. To continue stereotyping, it turns out that the jokes about scientists and engineers being poor at people skills are largely based in reality. We've ended up with a system where the selection criteria for who should be working as PIs has little to do with the day to day realities of what PIs are expected to do. To summarize, most PIs are naturally bad managers who have little to no experience managing. A trivially obvious consequence of this is that the graduate students the PIs are managing don't enjoy the experience.
+  * As an aside, this is in no way an accusation towards PIs. It's the system that's broken. The silver lining is that it seems like more effort is going in to providing PIs with managerial training.
+ 3. TODO Misaligned incentives. Older students are valuable. Make them stick around longer, but you can't offer them more pay. PIs are rewarded for students staying in academia, but most students are necessarily going to end up elsewhere. The PI wants you to do nothing but focus on writing papers, students want a holistic education. 
+
+### How to Learn to Code
+
+How to Learn to Code marked my favorite weeks of each summer. The class spawned out of a couple of students complaining about Structural Bioinformatics our first year, and grew into a campus wide organization. I was lucky enough to get to teach all four years.
+
+TODO LINK
+
+Even the summer of 2018 I taught a couple of weeks. The rest of the class was taught by Kimiko. She and I managed to find a reasonable amount of time to prep the full curriculum for the class before I left.
 
 ## 5th year, Fall Semester (2018)
 
