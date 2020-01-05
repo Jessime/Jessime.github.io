@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-You can find my CV here, if you're interested in my career story.
+You can find my [resume here](https://drive.google.com/file/d/1C13CJkXqMgaY502JOgk-FFflkOks1PY4/view?usp=sharing), if you're interested in my career story.
 
 I thought it would be entertaining to write up my About using "ice breakers".
 Googling "ice breakers" leads to results like, "If you were a vegetable...",
