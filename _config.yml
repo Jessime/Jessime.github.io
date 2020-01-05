@@ -64,6 +64,9 @@ author:
   avatar : "/assets/images/me_small_square.jpg"
   bio    : "Bioinformatics Engineer. Building things that make life sciences easier."
   links:
+    - label: "Resume"
+      icon: "fas fa-fw fa-link"
+      url: "https://drive.google.com/file/d/1C13CJkXqMgaY502JOgk-FFflkOks1PY4/view?usp=sharing"
     - label: "Current Project"
       icon: "fas fa-fw fa-link"
       url: "http://bit.ly/hierapp"
@@ -82,21 +85,12 @@ author:
 
 footer:
   links:
-    - label: "Current Project"
-      icon: "fas fa-fw fa-link"
-      url: "http://bit.ly/hierapp"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Jessime/"
     - label: "Reddit"
       icon: "fab fa-fw fa-reddit"
       url: "https://www.reddit.com/user/LifeIsBio/"
-    - label: "Employer"
-      icon: "fas fa-fw fa-link"
-      url: "http://invitae.com/"
-    - label: "Reading List"
-      icon: "fas fa-fw fa-book"
-      url: "https://docs.google.com/spreadsheets/d/1kBg7HFRH3IsAlnUTrbNOFwwulTfv_G8h_OqBmVkbJUs/edit?usp=sharing"
 
 
 defaults:
