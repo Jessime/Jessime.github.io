@@ -5,16 +5,12 @@ title: "About"
 
 You can find my [resume here](https://drive.google.com/file/d/1C13CJkXqMgaY502JOgk-FFflkOks1PY4/view?usp=sharing), if you're interested in my career story.
 
-I thought it would be entertaining to write up my About using "ice breakers".
+I thought it would be informative to write the rest of my About page using "ice breakers".
 Googling "ice breakers" leads to results like, "If you were a vegetable...",
 so I searched for "[normal ice breakers](https://www.icebreakers.ws/small-group/icebreaker-questions.html)" instead.
 I still get, "If you were an animal...", but that's better, somehow.
 
 Here we go:
-
-* <u> If you could have an endless supply of any food, what would you get? </u>
-
-  Maybe venison. This is a hard question because I keep thinking about all of the downsides of having an endless supply of a single food.
 
 * <u> If you were an animal, what would you be and why?</u>
 
@@ -31,7 +27,7 @@ Here we go:
 
 * <u> When you were little, who was your favorite super hero? </u>
 
-  As an adult, I like the MCU as much as the next person.
+  As an adult, I like Marvel movies as much as the next person.
   As a kid, I didn't particularly care for super heroes.
   There are no rule. If the Hulk fights Wolverine, who wins?
   Who knows, because the physics of the world adapts, on the fly, to the plot.
@@ -59,9 +55,14 @@ Here we go:
   Sure, there's the argument that Musk is just saying these things because he's a savvy businessman. But I don't think that's the case.
 
 
+* <u> If you could have an endless supply of any food, what would you get? </u>
+
+    Maybe venison. This is a hard question because I keep thinking about all of the downsides of having an endless supply of a single food.
+
+
 * <u> What’s your favorite thing to do in the summer? </u>
 
-  The beach. If it's not broken, don't fix it.
+  Go to the beach. If it's not broken, don't fix it.
   * Water
   * Sunshine
   * Reading time
