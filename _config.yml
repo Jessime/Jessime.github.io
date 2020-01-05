@@ -65,7 +65,7 @@ author:
   bio    : "Bioinformatics Engineer. Building things that make life sciences easier."
   links:
     - label: "Resume"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-file"
       url: "https://drive.google.com/file/d/1C13CJkXqMgaY502JOgk-FFflkOks1PY4/view?usp=sharing"
     - label: "Current Project"
       icon: "fas fa-fw fa-link"
