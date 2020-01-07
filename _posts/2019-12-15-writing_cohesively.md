@@ -1,5 +1,5 @@
 ---
-title: "A Method for Writing Persuasively"
+title: "A Method for Writing Cohesively"
 last_modified_at: 2019-12-15
 categories:
   - Blog
