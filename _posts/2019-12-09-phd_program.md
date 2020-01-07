@@ -140,7 +140,7 @@ The main event of the summer was Written Qualifying Exams (Quals). Every program
 
 Writing the NSF was fun. I believe I'd say that even if I didn't get it, but it was also a massive amount of work. Two things made it fun. The first was that I got to work closely with Mauro on it. He's one of the few people I'd readily admit is a better writer than I am; and we work well together. The second is that I found a writing process that works for me. I started to describe the process as part of this post, but it turns out that I have a lot of thoughts on the matter, and it deserves its own space:
 
-[A Method for Writing Persuasively]({% post_url 2019-12-15-writing-persuasively %})
+[A Method for Writing Persuasively]({% post_url 2019-12-15-writing-cohesively %})
 
 This process is a lot of effort, so I only use it for high stakes things like grants or pitches. As I mentioned previously, I'd spend a few hours each night working something. That semester my nights were NSF. Once I had a solid working draft, I'd send Mauro my edits once every few days. He would have edits back to me before I woke up in the morning. The first thing I'd do when I woke up was read the latest round of edit, and let them sit in the back of my mind while I went about my day. By the time I sat down in the evening, I'd have a pretty good idea how I wanted to start addressing them. By the end of the semester, I felt like it was probably the best thing I've ever written. A paper and a thesis later, I still feel that way.
 
@@ -246,13 +246,13 @@ I wouldn't trade the time I spent on these projects for twice as much time back 
 
 ## 3rd year, Spring Semester (2017)
 
-### Foobar
-
 Research was going well enough at this point that Mauro was convinced we would be able to submit a Nature paper at the beginning of February. Instead, on February 3rd, I got an email that began with:
 
 > Hi Jessime,
 >
 > Congratulations, you passed level 3 within Google's coding challenge! Keep playing!
+
+### Foobar
 
 This was a pretty crazy moment. I had been spending weekends playing [Google foobar](https://medium.com/magentacodes/things-you-should-know-about-google-foobar-invitation-703a535bf30f). During the week, I was spending every possible moment trying to make figures in `matplotlib`. That meant I had one or two days a week that I could spend learning all about algorithms and data structures.
 
@@ -275,9 +275,7 @@ People default to attempting to motivate people the way they would be motivated.
 
 The Spring of 2017 blended into the Summer, as we went through a series of rejections. Each time we'd send off to a journal, I'd switch gears and try to make progress on "mega communities". We had some ideas for a follow-up paper which had potential, but I never had enough time to work on it before we'd have to go back to polishing the original paper for the next resubmission. A few weeks of not working on something is enough time for me to completely lose my flow.
 
-### NCBI Hackathon
-
-August kicked off with a three day trip to the National Library of Medicine with Wes, Sherif, and Kimiko (another BCB student a year below us).
+The beginning of Fall was marked by a fantastic trip up to Washington D.C. with Wes, Sherif and Kimiko (another BCB student, a year below us). We participated in an [NCBI hackathon](https://ncbi-codeathons.github.io/), which was a great way of getting out of our UNC shell and seeing what other people were working on. While that weekend was memorable, it was also a bit upstaged by a trip to Egypt in September. Laura, Wes, and I went for 10 days to go to Sherif's wedding. It was a lovely adventure. I even curated a [photo album](https://photos.app.goo.gl/a91Y7luMsCGO7wIJ3) afterwards.  
 
 ### How to Start a Startup
 
@@ -291,10 +289,13 @@ Well, maybe if I got into YC.
 
 ### Peter
 
-I was co-mentored. Peter Mucha was an applied mathematics professor who liked to tell stories using networks. It's how he made his living.
+I was co-mentored. Peter Mucha was an applied mathematics professor who liked telling stories using networks. It's how he made his living. While Peter made a number of superb technical contributions to my work over the years, it was listening to him and Mauro chat that was my favorite part of our dynamic.
 
+I've talked to graduate students who had problems with their PIs because sometime the PIs would text them too much about non-work related topics. Mauro, if anything, had the opposite issue. He made sure to keep his relationship with his students as professional as humanly possible. Peter was a gregarious guy and any meeting the three of us had together involved a decent bit of chatting. It wouldn't be an exaggeration to say that 80% of the personal things Mauro and I knew about each other were mediated by the 0.1% of my time in grad school spent in Peter's office. And yes, Peter did catch onto this dynamic and jokingly call it out once.  
 
-Peter and Mauro chatting.
+One take away here is how wildly different PIs are. This isn't an insightful comment. Humans are wildly different along many different axes. Anyone who's starting graduate school should strongly consider weighting their potential PI's personality as their most important factor for joining a lab.
+
+I don't know of any factor more correlated with a student's success in graduate school than a good working relationship with their PI.
 
 ## 4th year, Spring Semester (2018)
 
@@ -317,20 +318,54 @@ Mentor/student relationships in grad school are notoriously difficult. I've read
 1. The power ratio is highly skewed. This is the case in most boss/employee relationships. Here however, it's worse than average. Beyond the valid complaints that PIs have excessive control over when students can defend, they also control recommendations. In most companies, if your direct boss is someone you happen to not work well with, you likely have other people you can use as references (e.g. a project manager instead of your technical lead). Graduate students about to enter the workforce are always going to be asked for their PI's contact information.
 2. To stereotype, PIs are intelligent, they're driven, they love science. PIs are PIs because they were excellent students, then excellent graduate students, then excellent postdocs. They were the best in their field at doing research, and they did research for a long time. Then, they got a professorship. As professors, they are immediately expected to stop doing research themselves and start managing graduate students and postdocs who are doing research instead. Doing good research yourself is literally worse than useless for being a good manager of other scientists. At best they're orthogonal skills. To continue stereotyping, it turns out that the jokes about scientists and engineers being poor at people skills are largely based in reality. We've ended up with a system where the selection criteria for who should be working as PIs has little to do with the day to day realities of what PIs are expected to do. To summarize, most PIs are naturally bad managers who have little to no experience managing. A trivially obvious consequence of this is that the graduate students the PIs are managing don't enjoy the experience.
   * As an aside, this is in no way an accusation towards PIs. It's the system that's broken. The silver lining is that it seems like more effort is going in to providing PIs with managerial training.
- 3. TODO Misaligned incentives. Older students are valuable. Make them stick around longer, but you can't offer them more pay. PIs are rewarded for students staying in academia, but most students are necessarily going to end up elsewhere. The PI wants you to do nothing but focus on writing papers, students want a holistic education. 
+ 3. TODO Misaligned incentives. Older students are valuable. Make them stick around longer, but you can't offer them more pay. PIs are rewarded for students staying in academia, but most students are necessarily going to end up elsewhere. The PI wants you to do nothing but focus on writing papers, students want a holistic education.
 
 ### How to Learn to Code
 
-How to Learn to Code marked my favorite weeks of each summer. The class spawned out of a couple of students complaining about Structural Bioinformatics our first year, and grew into a campus wide organization. I was lucky enough to get to teach all four years.
+How to Learn to Code marked my favorite weeks of each summer. The class spun out of a couple of students complaining about Structural Bioinformatics our first year and grew into a campus wide organization. I was lucky enough to get to teach all four years.
 
 TODO LINK
 
-Even the summer of 2018 I taught a couple of weeks. The rest of the class was taught by Kimiko. She and I managed to find a reasonable amount of time to prep the full curriculum for the class before I left.
+Even the summer of 2018 I taught a couple of weeks. The rest of the class was taught by Kimiko. She and I managed to find a reasonable amount of time to prep the full curriculum for the class before I left. Having explicit time set aside for teaching is one of the things I miss most about grad school.
 
 ## 5th year, Fall Semester (2018)
 
-Summer at Google. Feeling "done" for the first time.
+I spent approximately four months away from grad school interning in Waterloo Canada. It was the definition of a career changing experience. Actually, working there was surprisingly similar to grad school. My team was full of smart, talented people who were interested in building useful tools for the life science community. Just like my colleagues in grad school.
+
+To be honest, the "career changing experience" part was the line item on my resume. Regardless of whether it's fair or useful, it's the truth. While I was interview, I literally had a person tell me that a large reason I got the interview was because Google was on my resume. It was an awkward but insightful moment for me.
+
+I also don't want to downplay my time there. The summer was full of new experiences, both technically and generally. I would advice anyone doing a PhD to spent a month or four in an industry internship, even if students planning on doing a postdoc. The perspective is worth the delay.
+
+### Done
+
+Coming back from Waterloo wasn't great. I had a continual sense of regression—like replaying an already beaten level in a video game—which I never managed to shake. Most of my friends had been feeling like they were ready to graduate for years, so I didn't get a lot of sympathy.
+
+Mauro did his best to motivate me. I was working with Dan, a new graduate student in our lab, to write both a book chapter we'd been invited to publish and potentially a second paper. There were days when I truly believed we'd be able to get it done in a year. But those days never carried into weeks.
+
+Within a few short months, I start panicking about Google jerking me around about a job offer. Every few weeks they would call me and tell me that they needed a few more weeks to decide about my situation. By the beginning of December, I decided I needed to get other offers.
+
+### The Trailer
+
+Most days, Megan, David and I, along with the rest of the crew (by this point, Mauro also had Dan, Rachel and Keenan as grad students) would eat lunch at The Trailer. Technically, the establishment was called "The Courtyard Cafe", but we never referred to it as such, given that it was literally housed in a trailer. Over the years, many good things happened at The Trailer. It was where:
+
+* MazeDay was born
+* my friend Mac and I would joke about our smart-toilet startup
+* I developed my reputation for hoarding plastic cutlery
+* burrito bowl dice was played (diarrhea, or not?)
+* we witnessed David's steadfast dedication to his single lunch
+* Megan occasionally vented
+* I became known as "the cheese guy"
+
+Before I left for Waterloo, I started making friends with one of the servers. Maybe we were friends, but that seems a bit presumptuous given that I don't know his name. He didn't speak much English, so most of our interactions were based on jokes about how much I like cheese. I'd always ask for extra with my burrito bowl. He turned it into a game where he would see if he could give me _too much_ cheese. He could. He'd usually do it while maintaining aggressively strong eye contact, and everyone in line was laughing.
+
+When I came back, he was so excited that he filled a to-go container full of cheese and gave it to me as a gift.
+
+Go to lunch with your colleagues; interact with the people around you. It's worth your time. Make it worth theirs too.
 
 ## 5th year, Spring Semester (2019)
+
+Every semester of graduate school was easier than the semester before it. That was true up until the last semester. The last semester was stressful.
+
+I ended up sending out applications to 23 companies.
 
 Thesis writing, dissertation prep, and job hunting.
