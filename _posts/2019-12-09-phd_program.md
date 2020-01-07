@@ -140,7 +140,7 @@ The main event of the summer was Written Qualifying Exams (Quals). Every program
 
 Writing the NSF was fun. I believe I'd say that even if I didn't get it, but it was also a massive amount of work. Two things made it fun. The first was that I got to work closely with Mauro on it. He's one of the few people I'd readily admit is a better writer than I am; and we work well together. The second is that I found a writing process that works for me. I started to describe the process as part of this post, but it turns out that I have a lot of thoughts on the matter, and it deserves its own space:
 
-[A Method for Writing Persuasively]({% post_url 2019-12-15-writing-cohesively %})
+[A Method for Writing Persuasively]({% post_url 2019-12-15-writing_cohesively %})
 
 This process is a lot of effort, so I only use it for high stakes things like grants or pitches. As I mentioned previously, I'd spend a few hours each night working something. That semester my nights were NSF. Once I had a solid working draft, I'd send Mauro my edits once every few days. He would have edits back to me before I woke up in the morning. The first thing I'd do when I woke up was read the latest round of edit, and let them sit in the back of my mind while I went about my day. By the time I sat down in the evening, I'd have a pretty good idea how I wanted to start addressing them. By the end of the semester, I felt like it was probably the best thing I've ever written. A paper and a thesis later, I still feel that way.
 
@@ -174,7 +174,7 @@ This is a bit of a toy example, but we'd have to figure out:
 
 I'd do some exploration and settle on a first estimate of the data we wanted. Then, I'd settle in to that month's jupyter notebook and start hacking away. Unsurprisingly, I have a lot of thoughts about the right way to use a notebook:
 
-[10 Rules for Falling in Love with Jupyter Notebooks]({% post_url 2019-12-16-notebook-rules %})
+[10 Rules for Falling in Love with Jupyter Notebooks]({% post_url 2019-12-16-notebook_rules %})
 
 Gathering the data would usually take longer than expected. I'd hit some bug half way through that'd cause me to lose like 10% of my data somewhere, or something goofy like that. But I'd eventually have a solid dataset. After that, I'd start applying different algorithms. Should I use regression, or create two classes? If I create GC-rich and AT-rich classes, should I use a t-test to compare means, or would a KS-test comparing distributions be more appropriate? Let's try all three options.
 
