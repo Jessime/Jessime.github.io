@@ -360,12 +360,51 @@ Before I left for Waterloo, I started making friends with one of the servers. Ma
 
 When I came back, he was so excited that he filled a to-go container full of cheese and gave it to me as a gift.
 
-Go to lunch with your colleagues; interact with the people around you. It's worth your time. Make it worth theirs too.
+Go to lunch with your colleagues; interact with the people around you. It's worth your time. Make it worth their time too.
 
 ## 5th year, Spring Semester (2019)
 
 Every semester of graduate school was easier than the semester before it. That was true up until the last semester. The last semester was stressful.
 
-I ended up sending out applications to 23 companies.
+### Job hunting
 
-Thesis writing, dissertation prep, and job hunting.
+Here are my "stats":
+
+* I sent out applications to 23 companies.
+* I had approximately 14 phone calls, though some companies doubled up.
+* I had 4 on-sites (1 in Boston, 3 in California, 1 in Durham).
+* I ended up with 3 offers.
+
+On the one hand, I want to say I'm pretty comfortable with interviews at this point and almost enjoy them. On the other hand, I smelled like stress sweat (which is an order of magnitude worse than smelling like normal sweat) after even the shortest phone interview. Job hunting is a physically and mentally draining process. Even without nerves, interviews mean 100% focus and engagement for an extended period of time.
+
+Despite the amount of effort it took (and I skipped over the hundreds of websites I looked at to come up with those 23 applications), the shotgun approach to job hunting was totally worth it. Grad school had provided me minimal exposure to the bioinformatics industry. Job searching was a phenomenal way to get a lay of the land by doing everything for reading company websites to being flown out to talk to people and tour labs. Getting to see all of the amazing work life scientists are doing all over the country was informative and inspiring. If you're about to graduate, even if you're pretty sure where you're going to end up, I'd advocate for shopping around. You might be surprised.
+
+Of course, I also thought a lot, and learned a lot about job interviewing during this time. Interviewing certainly falls into the "practice makes perfect" category of activities. There are already lots of good resources about how to interview, so I'm not going to detail about my thoughts on interviewing here. I will say that if you are going to interview, it's certainly worth taking the time to plan ahead. Be intentional and strategic about how you present and sell yourself.
+
+There's no excuse for winging an interview.
+
+#### Choosing a job
+
+With three job offers (and Google still hanging around in the background), making a final decision on an offer was its own source of stress. Many factors went into the decision; it's overkill to get into all of them. There was one moment in particular, however, that was memorably influential.
+
+The Durham company interview was wonderful. The company was doing amazing work, I enjoyed every individual I spoke with, and could see myself making valuable contributions to the small company. The hiring lead was doing a stellar job pitching the company. He knew I already had other offers, and was fairly close to making a decision, but I wanted to hear him out. Truth be told, he nearly convinced me. Accounting for cost of living, his offer was the best (by some margin). Near the end of the conversation though, he said something that unwittingly turned the tables on himself. He knew I was thinking about San Francisco and said:
+
+> Here's the thing. San Francisco is always going to be there. If, for whatever reason, you decided this job isn't for you in a few years, you can just go to San Fran. It'll still be there. This company though is growing. In a few years, it'll be impossible to get a position like this, because we'll have already filled it.
+
+Initially, I agreed with him. After all, his logic is sound. The follow up thought derailed everything though. Even though San Francisco won't change in a few years, my ability to get there likely will. North Carolina is a good place to settle down; things like buying a home and having kids makes it exponentially harder to pack up your life and move across the country. In essence, making it to California as this point was a once in a lifetime opportunity; not because California was going to move on, but because my life was. I had a mini existential crisis in the middle of the interview.
+
+I think about the passage of time, and the speed at which that passage occurs, often. "Life is short" blah, blah, you've heard it all before. In a conversation Mauro and I had, he framed the sentiment in way that especially resonated with me:
+
+> I've had a fairly success and productive scientific career. One of the reasons I've been successful is because, we all have an internal clock; and mine ticks just a little bit faster than everyone else's.
+
+Since I've heard that line, thinking about mortality has become more visceral. "Ugh, I just wasted two hours on that goofy movie." _Tick tock, tick tock._ "Do I want to commit to writing a blog?" _Tick tock, tick tock._ "Should I take this job opportunity in California now or take the safe, comfortable bet?" _Tick tock, tick tock._
+
+_Tick tock, tick tock._
+
+## Thesis writing
+
+Before I left for California, or any other place, I needed to do a couple other _small_ things first.
+ 
+> Whenever you're writing, it's important to keep your audience in mind. In the cases of a thesis... that's no one.
+
+, dissertation prep
