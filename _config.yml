@@ -92,6 +92,11 @@ footer:
       icon: "fab fa-fw fa-reddit"
       url: "https://www.reddit.com/user/LifeIsBio/"
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-156025453-1"
+    anonymize_ip: false # default
 
 defaults:
   # _posts
