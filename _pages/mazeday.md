@@ -1,11 +1,5 @@
----
-title: "MazeDay"
-last_modified_at: 2019-12-31
-categories:
-  - Blog
-tags:
-  - Projects
----
+
+
 
 How do you program in a team?
 

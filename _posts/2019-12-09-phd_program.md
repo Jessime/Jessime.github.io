@@ -1,11 +1,13 @@
 ---
-title: "PhD Reflections"
+title: "PhD Reflections I (The Start)"
 last_modified_at: 2019-12-15
 categories:
   - Blog
 tags:
   - Life
 ---
+
+# The First Three Semesters
 
 I finished my PhD less than a year ago.
 
@@ -401,10 +403,20 @@ Since I've heard that line, thinking about mortality has become more visceral. "
 
 _Tick tock, tick tock._
 
-## Thesis writing
+### Thesis writing
 
-Before I left for California, or any other place, I needed to do a couple other _small_ things first.
- 
+Before I left for California, or any other place, I needed to do a couple other _small_ things first. I needed to write a thesis. Thesis writing is one of those things that varies widely among PhD programs. Some of my friends spent months on theirs. My philosophy on the task was shaped by a quote I heard from one of my interviewers:
+
 > Whenever you're writing, it's important to keep your audience in mind. In the cases of a thesis... that's no one.
 
-, dissertation prep
+Mauro completely agreed with the sentiment since it left more time for research. Oddly, my mental state kicked back into high gear, and some of the coolest pieces of data I found during grad school were found in the last few weeks before submitting my dissertation. My retrospective hypothesis is I knew I wouldn't have to do the leg work of getting the results out the door, so I simply had fun with it instead, which allowed me to focus more than I had in the previous semester.
+
+For two painful weeks, I pulled together all of my chapters (putting in legitimate effort into the intro, conclusion, and the new research chapter). I mucked through formatting, citations, and the like. Then I submitted. I was done.
+
+
+### Departmental Retreats
+
+Well, I was done with dissertation writing, which meant I had a single weekend to relax and enjoy our departmental retreat. Retreats were always one of my favorite times of the year. For me they consisted of:
+* Spending all day listening to fascinating science
+* Spending all night hanging out with friends
+* Winning things. I'm a sucker for some
