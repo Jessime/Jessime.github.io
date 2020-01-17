@@ -7,6 +7,8 @@ tags:
   - Python
 ---
 
+## Put some sort of subtitle here.
+
 [Jupyter Notebooks](https://jupyter.org/) saved my sanity in graduate school. I genuinely don't know how I wouldn't have stayed organized without them. In fact, I didn't know about them for the first few month of graduate school, and ran into multiple issues during that time.
 
 On the other hand, people have a lot of legitimate concerns and issues with programming in notebooks. The global mutable state is probably the biggest. There are plenty of other issues, some of which I don't address because they didn't effect my workflow (e.g. playing nice with `git`). Again, these concerns are legitimate, but a lot of them come from professional software developers who have only recently tried notebooks. In practice, I don't find any of these concerns reasons to not use notebooks.

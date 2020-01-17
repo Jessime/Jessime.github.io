@@ -7,7 +7,6 @@ tags:
   - Projects
 ---
 
-# The Most Important Thing I Learned in Graduate School
 
 ## 2nd year, Spring Semester (2016)
 

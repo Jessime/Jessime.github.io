@@ -7,7 +7,7 @@ tags:
   - Life
 ---
 
-# The First Three Semesters
+## Starting a PhD in Bioinformatics at UNC Chapel Hill
 
 I finished my PhD less than a year ago.
 

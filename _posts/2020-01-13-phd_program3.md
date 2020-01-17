@@ -8,7 +8,6 @@ tags:
 ---
 
 
-
 ## 4th year, Spring Semester (2018)
 
 Again, half of my brain was on the startup class this semester. But, the semester was an incredibly productive in terms of research as well. There were two reasons for this productivity. First, Mauro and I had our TODO list. TODO lists are great, and a rare commodity in research. We had gotten back review comments from Nature Genetics. They were extensive yet favorable. We went through the comments and found every addressable action item we could find. That became our TODO list. I handled the items that required more analysis, Mauro tackled ones that were restricted to writing. Having a checklist arguably means you aren't even doing research; either way, it made things much easier.

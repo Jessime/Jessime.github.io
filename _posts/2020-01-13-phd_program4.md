@@ -7,4 +7,4 @@ tags:
   - Projects
 ---
 
-# The Most Important Thing I Learned in Graduate School
+## The Most Important Thing I Learned in Graduate School
