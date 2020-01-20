@@ -31,10 +31,10 @@ feature_row:
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
-  - image_path: assets/images/projects_splash.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+  - image_path: assets/images/lunch_app.jpg
+    alt: "LunchApp"
+    title: "LunchApp"
+    excerpt: 'A web app to help groups make decisions one where to go to lunch. My first web app. (Summer, 2017)'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -52,6 +52,6 @@ feature_row1:
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row2" type="center" %}
 
 {% include feature_row id="feature_row1" type="center" %}
