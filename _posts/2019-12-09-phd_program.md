@@ -11,7 +11,7 @@ tags:
 
 I finished my PhD less than a year ago.
 
-Now is the perfect time to reflect on what I did and what I learned in those five years. I briefly considered entitling this post something like, "What getting a PhD is like". That's a preposterous title. PhD programs vary wildly by both discipline and university. Even between the individuals of my own cohort, our journeys seemed marked primarily by their _dis_-similarities. Even this version of my story is different than what it would have been if I had written these notes in real time.
+Now's a perfect time to reflect on what I did and what I learned in those five years. I briefly considered entitling this post something like, "What getting a PhD is like". That's a preposterous title. PhD programs vary wildly by both discipline and university. Even between the individuals of my own cohort, our journeys seemed marked primarily by their _dis_-similarities. Even this version of my story is different than what it would have been if I had written these notes in real time.
 
 Instead, these posts simply chronicle some of the moments I recall most vividly about graduate school.
 
