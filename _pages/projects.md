@@ -30,7 +30,15 @@ feature_row:
   - image_path: assets/images/projects_splash.jpg
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-feature_row2:
+feature_row_mazeday:
+  - image_path: assets/images/binball_small.jpg
+    alt: "MazeDay"
+    title: "MazeDay"
+    excerpt: 'A collection of arcade-style audio games for UNC's MazeDay 2017. My first group coding. (Fall, 2017)'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"    
+feature_row_lunch:
   - image_path: assets/images/lunch_app.jpg
     alt: "LunchApp"
     title: "LunchApp"
@@ -38,7 +46,7 @@ feature_row2:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row1:
+feature_row_revenge:
   - image_path: assets/images/revenge_start_screen.png
     alt: "The Revenge of Arius"
     title: "The Revenge of Arius"
@@ -50,8 +58,8 @@ feature_row1:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
+{% include feature_row id="feature_row_mazeday" type="center" %}
 
-{% include feature_row id="feature_row2" type="center" %}
+{% include feature_row id="feature_row_lunch" type="center" %}
 
-{% include feature_row id="feature_row1" type="center" %}
+{% include feature_row id="feature_row_revenge" type="center" %}
