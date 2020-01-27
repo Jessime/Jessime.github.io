@@ -34,7 +34,7 @@ feature_row_mazeday:
   - image_path: assets/images/binball_small.png
     alt: "MazeDay"
     title: "MazeDay"
-    excerpt: "A collection of arcade-style audio games for UNC's MazeDay 2017. My first group coding. (Fall, 2017)"
+    excerpt: "A collection of arcade-style audio games for MazeDay 2017. My first group coding. (Fall, 2017)"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
