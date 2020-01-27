@@ -7,7 +7,7 @@ tags:
   - Python
 ---
 
-## Put some sort of subtitle here.
+## Conventions I established while using a Notebook everyday during my PhD
 
 [Jupyter Notebooks](https://jupyter.org/) saved my sanity in graduate school. I genuinely don't know how I wouldn't have stayed organized without them. In fact, I didn't know about them for the first few month of graduate school, and ran into multiple issues during that time.
 
