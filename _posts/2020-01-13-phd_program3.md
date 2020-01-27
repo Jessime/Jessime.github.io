@@ -8,13 +8,19 @@ tags:
 ---
 
 
+## A hodgepodge of things I haven't mentioned yet and thinking about what's next
+
+While this post is ostensibly about the final portion of grad school, much of it covers critically influential aspects of grad school that didn't fit cleanly into the first two posts.
+
+I jump from "How to Learn to Code" to "The Trailer" to "Departmental Retreats", all against the backdrop of trying to decide what I want to do after I graduate.
+
 ## 4th year, Spring Semester (2018)
 
-Again, half of my brain was on the startup class this semester. But, the semester was an incredibly productive in terms of research as well. There were two reasons for this productivity. First, Mauro and I had our TODO list. TODO lists are great, and a rare commodity in research. We had gotten back review comments from Nature Genetics. They were extensive yet favorable. We went through the comments and found every addressable action item we could find. That became our TODO list. I handled the items that required more analysis, Mauro tackled ones that were restricted to writing. Having a checklist arguably means you aren't even doing research; either way, it made things much easier.
+Half of my brain was again on the startup class this semester. But the semester was also incredibly productive in terms of research. There were two reasons for this productivity. First, Mauro and I had our TODO list. TODO lists are great and a rare commodity in research. We had gotten back review comments from Nature Genetics. The comments were extensive yet favorable. We went through each individual remark and noted every addressable action item we could find. That became our TODO list. I handled the items that required more analysis, Mauro tackled ones that were restricted to writing. Having a checklist arguably indicates you aren't even doing research; either way, it made things much easier.
 
 The second reason I was so efficient was because I was under a strict deadline...
 
-"Well, crap. I actually gotta tell him." That was my first thought when I read the email from Google telling me I needed my PI's contact information. When your paper is in the middle of the review process and it's the lab's first paper, telling your PI that you want to disappear for four months is intimidating. It was one of the only hard conversations I had to have in those five years. When I finished explaining the situation, his response was:
+_"Well, crap. I actually gotta tell him."_ That was my first thought when I read the email from Google telling me I needed my PI's contact information. When your paper is in the middle of the review process and it's the lab's first paper, telling your PI that you want to disappear for four months is intimidating. It was one of the only hard conversations I had to have in those five years. When I finally steeled myself, went to tell Mauro, and finished explaining the situation, his response was:
 
 > As a person, I'm really excited for you. As a PI, this is really hard.
 
@@ -24,20 +30,22 @@ Flawless. And catchy.
 
 **If you're reading these posts to learn about graduate school, this is an important section.**
 
-Mentor/student relationships in grad school are notoriously difficult. I've read a lot of articles complaining about this issue, but few seem to understand exactly why the relationship is complicated. There are three reasons, which I'll list in order of their generality:
+Mentor/student relationships in grad school are notoriously difficult. I've read a lot of articles complaining about this issue, but few seem to understand exactly why the relationship is complicated. There are three reasons, which I'll list in order from the most general in working relationships to the most specific to mentor/student:
 
 1. The power ratio is highly skewed. This is the case in most boss/employee relationships. Here however, it's worse than average. Beyond the valid complaints that PIs have excessive control over when students can defend, they also control recommendations. In most companies, if your direct boss is someone you happen to not work well with, you likely have other people you can use as references (e.g. a project manager instead of your technical lead). Graduate students about to enter the workforce are always going to be asked for their PI's contact information.
-2. To stereotype, PIs are intelligent, they're driven, they love science. PIs are PIs because they were excellent students, then excellent graduate students, then excellent postdocs. They were the best in their field at doing research, and they did research for a long time. Then, they got a professorship. As professors, they are immediately expected to stop doing research themselves and start managing graduate students and postdocs who are doing research instead. Doing good research yourself is literally worse than useless for being a good manager of other scientists. At best they're orthogonal skills. To continue stereotyping, it turns out that the jokes about scientists and engineers being poor at people skills are largely based in reality. We've ended up with a system where the selection criteria for who should be working as PIs has little to do with the day to day realities of what PIs are expected to do. To summarize, most PIs are naturally bad managers who have little to no experience managing. A trivially obvious consequence of this is that the graduate students the PIs are managing don't enjoy the experience.
+2. To stereotype, PIs are intelligent, they're driven, they love science. PIs are PIs because they were excellent students, then excellent graduate students, then excellent postdocs. They were the best in their field at doing research, and they did research for a long time. Then, they got a professorship. As professors, they are immediately expected to stop doing research themselves and start managing graduate students and postdocs who are doing research instead. Doing good research yourself is literally worse than useless for being a good manager of other scientists. At best they're orthogonal skills. To continue stereotyping, it turns out that the jokes about scientists and engineers being poor at people skills are largely based in reality. We've ended up with a system where the selection criteria for who should become a PI has little to do with the day-to-day realities of how PIs are expected to spend their time. To summarize, most PIs are naturally bad managers who have minimal experience managing. A trivially obvious consequence of this is that the graduate students the PIs are managing don't enjoy the experience.
   * As an aside, this is in no way an accusation towards PIs. It's the system that's broken. The silver lining is that it seems like more effort is going in to providing PIs with managerial training.
- 3. TODO Misaligned incentives. Older students are valuable. Make them stick around longer, but you can't offer them more pay. PIs are rewarded for students staying in academia, but most students are necessarily going to end up elsewhere. The PI wants you to do nothing but focus on writing papers, students want a holistic education.
+ 3. More than anything else, the relationship is strained by misaligned incentives. PIs are rewarded for a certain set of circumstances, grad students for another. There are several ways this plays out, but an easy example to explain is how older graduate students are more valuable to a PI. A PhD is a training environment; when students start grad school they know close to nothing. The student's PI (and other members of the lab) spend an enormous amount of resources, primarily in the form of time, educating new students on how to conduct high quality research. A few years later, when the student has finally started to become independent, they're ready to leave. A PI can't help but think, _"Wait a minute. If I can get this student to stick around for another year or two, maybe I can get another paper out of them. After all, I've put all of this time and energy into them."_. It's a logical thought, and not particularly sinister. Industry does this too. The difference is, industry incentives an employee to stay by offering them a raise each year or a promotion after a few years. PIs have neither of these options. Because they have no reward mechanisms at their disposal, they only have threats. The threats aren't explicit, they're subtle. Academia is full of circulating stories of PIs who imply that students need to finish "one more paper" if they want to defend successfully or find a prestigious job. Occasionally these stories stem from an overeager student but more often a ringing endorsement from a PI has significantly more influence on the outcome of a job application than the difference between two or three papers.
+ Personally, I never ran into this problem. I did struggle some with the fact that PIs are rewarded for students staying in academia, while most students (myself included) are necessarily going to end up elsewhere. Even if you assume the number of professorships double each generation, each PI usually trains _dozens_ of students in their lifetimes. PIs want students to do nothing but focus on writing papers; students want a holistic education. For me, learning a second programming language like R might have roughly doubled the number of job prospects I would have in the future, but it would have zero net effect on the measured productivity of Mauro's lab. On the other hand, if I had produced a second paper, that would have been twice the measured productivity for Mauro, and likely not mattered one iota for any of the industry jobs I wound up applying for. How should we have come to an agreement on how to spend my time when the incentive structures don't match?
+   * As a second aside, this bullet point is slightly an accusation towards PIs. But it's primarily still an accusation against the system. Humans aren't built for altruistically fighting against institutionalized incentives. Some PIs are much better than others, but the root of the problem is still the underlying incentive structure.
 
 ### How to Learn to Code
 
-How to Learn to Code marked my favorite weeks of each summer. The class spun out of a couple of students complaining about Structural Bioinformatics our first year and grew into a campus wide organization. I was lucky enough to get to teach all four years.
+How to Learn to Code marked my favorite weeks of each summer. The class spun out of a couple of students struggling with the difficulty of simultaneously learning structural biology and Python during Structural Bioinformatics our first year. It grew into a campus wide organization and I was lucky enough to get to teach all four years.
 
 TODO LINK
 
-Even the summer of 2018 I taught a couple of weeks. The rest of the class was taught by Kimiko. She and I managed to find a reasonable amount of time to prep the full curriculum for the class before I left. Having explicit time set aside for teaching is one of the things I miss most about grad school.
+Even the summer of 2018 I taught a couple of weeks before heading to Canada. The rest of that year's class was taught by Kimiko. She and I managed to find a reasonable amount of time to prep the full curriculum for the class before I left. Having explicit time set aside for teaching is one of the things I miss most about grad school.
 
 ## 5th year, Fall Semester (2018)
 
@@ -49,11 +57,11 @@ I also don't want to downplay my time there. The summer was full of new experien
 
 ### Done
 
-Coming back from Waterloo wasn't great. I had a continual sense of regression—like replaying an already beaten level in a video game—which I never managed to shake. Most of my friends had been feeling like they were ready to graduate for years, so I didn't get a lot of sympathy.
+Coming back from Waterloo wasn't great. I had a continual sense of regression—like replaying an already beaten level in a video game—which I never managed to shake. Most of my friends had felt like they were ready to graduate for years, so I didn't get a lot of sympathy.
 
 Mauro did his best to motivate me. I was working with Dan, a new graduate student in our lab, to write both a book chapter we'd been invited to publish and potentially a second paper. There were days when I truly believed we'd be able to get it done in a year. But those days never carried into weeks.
 
-Within a few short months, I start panicking about Google jerking me around about a job offer. Every few weeks they would call me and tell me that they needed a few more weeks to decide about my situation. By the beginning of December, I decided I needed to get other offers.
+Within a few short months, I start panicking about Google jerking me around about a job offer. Every few weeks they would call me and tell me that they needed a few more weeks to decide about my situation. By the beginning of December, I decided I needed to get other offers. I spent a lot of time talking about it at the trailer.
 
 ### The Trailer
 
@@ -76,6 +84,8 @@ Go to lunch with your colleagues; interact with the people around you. It's wort
 ## 5th year, Spring Semester (2019)
 
 Every semester of graduate school was easier than the semester before it. That was true up until the last semester. The last semester was stressful.
+
+It was the standard stress of life transitions. I had to figure out what I wanted to do next, I had to interview, I had to write a thesis, defend it, and generally wrap things up. The semester involved a lot of deadlines, though nothing particularly extraordinary. 
 
 ### Job hunting
 
