@@ -13,8 +13,8 @@ header:
   caption: "Embarcadero Plaza"
 excerpt: "The Menagerie"
 intro:
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
-feature_row:
+  - excerpt: "These are a majority of projects I've worked on over the years. Those pinned at the top are the ones I currently am most invested in and/or most proud of. The rest are listed in chronological order."
+feature_row_pinned:
   - image_path: assets/images/projects_splash.jpg
     alt: "placeholder image 1"
     title: "Placeholder 1"
@@ -46,6 +46,14 @@ feature_row_lunch:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row_excision:
+  - image_path: assets/images/excision.png
+    alt: "Excision"
+    title: "Excision"
+    excerpt: 'A notpron-like treasure hunt to teach computer skills. My first project to have users. (Fall, 2015)'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 feature_row_revenge:
   - image_path: assets/images/revenge_start_screen.png
     alt: "The Revenge of Arius"
@@ -58,8 +66,12 @@ feature_row_revenge:
 
 {% include feature_row id="intro" type="center" %}
 
+{% include feature_row id="feature_row_pinned" type="center" %}
+
 {% include feature_row id="feature_row_mazeday" type="center" %}
 
 {% include feature_row id="feature_row_lunch" type="center" %}
+
+{% include feature_row id="feature_row_excision" type="center" %}
 
 {% include feature_row id="feature_row_revenge" type="center" %}
