@@ -30,6 +30,14 @@ feature_row_pinned:
   - image_path: assets/images/projects_splash.jpg
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."   
+feature_row_logo:
+  - image_path: assets/images/fractal_logo_tiny.png
+    alt: "Fractal Logo"
+    title: "Fractal Logo"
+    excerpt: "How and why I designed the fractal tree logo for the blog using Turtle and Seaborn. (Spring, 2020)"
+    url: "fractal_tree_logo"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 feature_row_mazeday:
   - image_path: assets/images/binball_small.png
     alt: "MazeDay"
@@ -59,7 +67,7 @@ feature_row_revenge:
     alt: "The Revenge of Arius"
     title: "The Revenge of Arius"
     excerpt: 'A two player, turn based, tower defense game. My first independent coding project. (Summer, 2014)'
-    url: "#test-link"
+    url: "revenge_of_arius"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
@@ -67,6 +75,8 @@ feature_row_revenge:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row id="feature_row_pinned" type="center" %}
+
+{% include feature_row id="feature_row_logo" type="center" %}
 
 {% include feature_row id="feature_row_mazeday" type="center" %}
 

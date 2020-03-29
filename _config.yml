@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Jessime"
-  avatar : "/assets/images/me_small_square.jpg"
+  avatar : "/assets/images/fractal_logo_tiny.png"
   bio    : "Bioinformatics Engineer. Building things that make life sciences easier."
   links:
     - label: "Resume"
