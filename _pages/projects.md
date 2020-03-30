@@ -13,7 +13,7 @@ header:
   caption: "Embarcadero Plaza"
 excerpt: "The Menagerie"
 intro:
-  - excerpt: "These are a majority of projects I've worked on over the years. Those pinned at the top are the ones I currently am most invested in and/or most proud of. The rest are listed in chronological order."
+  - excerpt: "These are a majority of side projects I've worked on over the years, listed in chronological order. The one(s) pinned at the top are projects under active development."
 feature_row_pinned:
   - image_path: assets/images/projects_splash.jpg
     alt: "placeholder image 1"
@@ -43,7 +43,7 @@ feature_row_mazeday:
     alt: "MazeDay"
     title: "MazeDay"
     excerpt: "A collection of arcade-style audio games for MazeDay 2017. My first group coding. (Fall, 2017)"
-    url: "#test-link"
+    url: "https://github.com/Jessime/MazeDay2017"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row_lunch:
@@ -51,7 +51,15 @@ feature_row_lunch:
     alt: "LunchApp"
     title: "LunchApp"
     excerpt: 'A web app to help groups make decisions one where to go to lunch. My first web app. (Summer, 2017)'
-    url: "#test-link"
+    url: "https://github.com/Jessime/LunchApp"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row_mazeday:
+  - image_path: assets/images/youtube_history.png
+    alt: "Youtube History"
+    title: "Youtube History"
+    excerpt: "A quick analysis of all Youtube videos in a user's history. Surprisingly popular. (Summer, 2016)"
+    url: "https://github.com/Jessime/youtube_history/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row_excision:
@@ -59,7 +67,7 @@ feature_row_excision:
     alt: "Excision"
     title: "Excision"
     excerpt: 'A notpron-like treasure hunt to teach computer skills. My first project to have users. (Fall, 2015)'
-    url: "#test-link"
+    url: "excision"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row_revenge:
@@ -74,7 +82,7 @@ feature_row_revenge:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="feature_row_pinned" type="center" %}
+<!-- {% include feature_row id="feature_row_pinned" type="center" %} -->
 
 {% include feature_row id="feature_row_logo" type="center" %}
 
