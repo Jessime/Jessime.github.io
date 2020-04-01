@@ -4,7 +4,7 @@ last_modified_at: 2020-01-12
 categories:
   - Blog
 tags:
-  - Projects
+  - Life
 ---
 
 
@@ -85,7 +85,7 @@ Go to lunch with your colleagues; interact with the people around you. It's wort
 
 Every semester of graduate school was easier than the semester before it. That was true up until the last semester. The last semester was stressful.
 
-It was the standard stress of life transitions. I had to figure out what I wanted to do next, I had to interview, I had to write a thesis, defend it, and generally wrap things up. The semester involved a lot of deadlines, though nothing particularly extraordinary. 
+It was the standard stress of life transitions. I had to figure out what I wanted to do next, I had to interview, I had to write a thesis, defend it, and generally wrap things up. The semester involved a lot of deadlines, though nothing particularly extraordinary.
 
 ### Job hunting
 

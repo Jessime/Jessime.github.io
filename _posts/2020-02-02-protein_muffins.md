@@ -7,7 +7,7 @@ tags:
   - Recipe
 ---
 
-A surprisingly tasty way to
+A tasty way to supplement a classic baked good with some extra protein.
 
 ## Ingredients
 
@@ -58,3 +58,7 @@ I wanted to make some chocolate chip cookies, but also wanted to sneak some prot
 When I was in undergrad, I spent a year and a half working in a plant biochemistry lab studying chia seeds. So I know more than I ever wanted to about how adding water to them can make them turn into a glue. It turns out that chia seeds need a while to produce their [mucilage](https://en.wikipedia.org/wiki/Mucilage), which is why I recommend adding the water to the seeds before doing anything else. Why the cookies turned into muffins is something other people might be able to explain but I don't have a clear reason. If I had to guess, it was the combination of beating the eggs (including the extra egg) a lot, with the extra structure provided by the chia mucilage.
 
 In the end, these muffins turned out to be light and tasty. They're not overly dense or gritty, they have the right amount of sweetness, and they're a nice quick breakfast or bedtime snack.
+
+## Results
+
+{% include figure image_path="/assets/images/protein_muffins_small.jpg" alt="Muffins in a container" %}

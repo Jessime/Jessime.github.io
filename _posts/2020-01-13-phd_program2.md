@@ -4,7 +4,7 @@ last_modified_at: 2020-01-12
 categories:
   - Blog
 tags:
-  - Projects
+  - Life
 ---
 
 ## The large center chunk where things start to feel routine
