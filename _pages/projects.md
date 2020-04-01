@@ -38,6 +38,22 @@ feature_row_logo:
     url: "fractal_tree_logo"
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row_hier:
+  - image_path: assets/images/hier_logo_v3_crop.png
+    alt: "Hier"
+    title: "Hier"
+    excerpt: ". My first low-code app. (Fall, 2019)"
+    url: "http://bit.ly/hierapp"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row_codestories:
+  - image_path: assets/images/codestories_stacked_3_jk.png
+    alt: "CodeStories"
+    title: "CodeStories"
+    excerpt: " (Fall, 2019)"
+    url: "http://bit.ly/hierapp"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 feature_row_mazeday:
   - image_path: assets/images/binball_small.png
     alt: "MazeDay"
@@ -54,7 +70,7 @@ feature_row_lunch:
     url: "https://github.com/Jessime/LunchApp"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row_mazeday:
+feature_row_youtube:
   - image_path: assets/images/youtube_history.png
     alt: "Youtube History"
     title: "Youtube History"
@@ -86,9 +102,15 @@ feature_row_revenge:
 
 {% include feature_row id="feature_row_logo" type="center" %}
 
+{% include feature_row id="feature_row_hier" type="center" %}
+
+{% include feature_row id="feature_row_codestories" type="center" %}
+
 {% include feature_row id="feature_row_mazeday" type="center" %}
 
 {% include feature_row id="feature_row_lunch" type="center" %}
+
+{% include feature_row id="feature_row_youtube" type="center" %}
 
 {% include feature_row id="feature_row_excision" type="center" %}
 
