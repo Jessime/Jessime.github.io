@@ -39,7 +39,7 @@ I started off the same way I do when making chocolate chip cookies:
 * Also incorporate the protein powder and about half of the chia seed gel from earlier.
 * Check the consistency of the mixture at this point. If the protein powder still looks fairly separated from the rest of the ingredients, add another 1/8 to 1/4 cup of water to the remaining chia seeds and let sit for a minute before adding the other half of the seeds.
   * If the protein powder seems integrated, just added the rest of the chia seeds without extra water.
-* Quickly mix in the bag of chocolate chips
+* Quickly mix in the bag of chocolate chips.
 
 ### Baking
 
