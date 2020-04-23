@@ -51,7 +51,7 @@ feature_row_codestories:
     alt: "CodeStories"
     title: "CodeStories"
     excerpt: " (Fall, 2019)"
-    url: "http://bit.ly/hierapp"
+    url: "https://mycodestories.com/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row_mazeday:
