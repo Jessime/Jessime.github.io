@@ -15,7 +15,7 @@ Even though this post covers the largest period of time, it was the most difficu
 
 ### Class
 
-My last class for BCB was `STOR 893 Object Oriented Data Analysis`. I was _so excited_ for this class. I didn't know was OODA was, but it sounded rad. Turns out, the entire course was about [PCA](https://en.wikipedia.org/wiki/Principal_component_analysis). Until that class, I'd been under the impression that a downside of PCA was its lack of interpretability. This PI's entire career was built on telling stories about datasets on which he had applied PCA (or some slight variation). The first week or two of lectures were captivating. Past that, however, it lost its appeal for most people, including myself.
+My last class for BCB was `STOR 893 Object Oriented Data Analysis`. I was _so excited_ for this class. I didn't know what OODA was, but it sounded rad. Turns out, the entire course was about [PCA](https://en.wikipedia.org/wiki/Principal_component_analysis). Until that class, I'd been under the impression that a downside of PCA was its lack of interpretability. This PI's entire career was built on telling stories about datasets on which he had applied PCA (or some slight variation). The first week or two of lectures were captivating. Past that, however, it lost its appeal for most people, including myself.
 
 ### Research
 
