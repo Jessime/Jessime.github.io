@@ -187,7 +187,7 @@ Stripe's Checkout page should look something like this:
 
 But getting paid is only half of the deal. Now, we need to alert our Django app that a customer has paid. Stripe is _very_ explicit that you should **not** use a customer landing on `my_project.com/pay_success` as a method of detecting payment. See [here](https://stripe.com/docs/payments/checkout/fulfillment) for more info. Stripe lists a variety of ways to fulfill a purchase. We implemented a webhook.
 
-#### 4.1 Webhooks
+#### 4.1) Webhooks
 
 Stripe's documentation for webhooks is alright, if _currently_ a little inconsistent (depending on the page). Mostly, you can follow the documentation [here](https://stripe.com/docs/payments/checkout/fulfillment#webhooks). One notable exception are the lines
 
