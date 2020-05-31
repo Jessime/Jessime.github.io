@@ -78,7 +78,7 @@ At first glance, this isn't a terrible idea...at least until you realize that:
 2. You'd need a way to draw the 10,000-100,000 circles.
 3. Most importantly, even the algorithms that render the visualization where _visual_ distance is representative of _relationship_ distance are estimates and often suboptimal.
 
-### thank you louvain for your algorithm
+### "thank you louvain for your algorithm"
 
 Finally, this is where Louvain comes in. The Louvain algorithm will take your "giant Excel spreadsheet" and describe the communities within that data so that we can find groups of virus transmitters.
 
