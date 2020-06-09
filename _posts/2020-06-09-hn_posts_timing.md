@@ -1,5 +1,5 @@
 ---
-title: "When are HackerNews Stories Posted?"
+title: "Post to HN on Sundays for the most points."
 last_modified_at: 2020-06-09
 categories:
   - Blog
@@ -8,7 +8,7 @@ tags:
   - Marketing
 ---
 
-## All the time, but mostly at 1600 hours on Tuesdays.
+## A quick analysis of when HN stories are posted.
 
 I wanted to get a better sense of when people post stories to HN. Thankfully, the fact that every post ever submitted is available on BigQuery makes this really easy to figure out. My write up is just long enough to cover what I wanted to know. If you're interested in doing your own in-depth analysis, I've uploaded my notebook to this [GitHub Gist](https://gist.github.com/Jessime/ee3f29cc0b73bcc17ad15f38d8dcd270) to get you started.
 
@@ -42,4 +42,23 @@ This is the meat of what I wanted to get to in this analysis. What time of day d
 
 I suppose the "results" of this graph are open for interpretation depending on your strategy. Do you want to submit when the firehose is strongest and the engagement is highest? Or, would you prefer waiting until those off-hours when things are a little more calm?
 
-Either way, one conclusion that can definitely be drawn is: that curve is very pleasing.
+Or, do you just want to maximize points?
+
+#### Points by Hour
+
+A few caveats to mention about this graph:
+
+1. It shows the mean number of points for each time period.
+2. Point distributions are incredibly skewed.
+  1. `std_dev = 52`
+  2. `median = 2`
+  3. `max = 6015`
+  4. If you get 3 points, you're doing well.
+3. You could think about other informative views here, like number of posts with more than 10 or 100 points.
+
+<figure>
+	<a href="https://i.imgur.com/sy97k1U.png"><img src="https://i.imgur.com/sy97k1U.png"></a>
+</figure>
+
+Proving how much or little of these results are due to explosive Sunday news is a task for another day.
+Intuition says that there's less overall activity on the weekend, so people are more likely to interactive with and upvote your post.
