@@ -1,5 +1,5 @@
 ---
-title: "A Marketing Retrospective: what the hell?"
+title: "A Retrospective of InPyBio-20"
 last_modified_at: 2020-08-22
 categories:
   - Blog
