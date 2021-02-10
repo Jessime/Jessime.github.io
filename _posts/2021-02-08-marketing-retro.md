@@ -28,6 +28,7 @@ A company that will remain nameless (unless someone convinces me otherwise) rece
 The wanted me to make a hour long presentation as part of the interview.
 The last time I made a talk that long, I practiced it for weeks.
 Given that they gave me a week's heads up total, I took the weekend and put together what I could.
+I'd say I put in a dozen hours, realistically.
 I was pretty excited about the product and was kinda looking forward to giving the talk.
 The day before my interview, I got this email:
 
@@ -39,7 +40,7 @@ The day before my interview, I got this email:
 The recruiter called me and we talked briefly.
 They said that I interviewed extremely well, but that they decided to go with another candidate.
 That's fair, I suppose.
-They were looking for someone with a few years of technical experience I didn't have.
+They were looking for someone with a few years of experience working with a specific technology I had never used.
 But... they knew that from my resume.
 
 And from my first interview.
