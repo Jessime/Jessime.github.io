@@ -11,7 +11,7 @@ tags:
 A company that will remain nameless (unless someone convinces me otherwise) recently sent me this email:
 
 
-> Thanks so much for agreeing to your virtual on-site interview for a position in the <redacted>!
+> Thanks so much for agreeing to your virtual on-site interview for a position in the \<redacted\>!
 >
 > Beforehand, please take a look at the comments below:
 >
@@ -25,11 +25,11 @@ A company that will remain nameless (unless someone convinces me otherwise) rece
 > 8.  Please install Zoom and Microsoft Teams on your laptop prior to the seminar.  We will use Microsoft Teams as default and Zoom as backup.
 > We greatly look forward to meeting you!
 
-The wanted me to make a hour long presentation as part of the interview.
+They wanted me to make a hour long presentation as part of the interview.
 The last time I made a talk that long, I practiced it for weeks.
-Given that they gave me a week's heads up total, I took the weekend and put together what I could.
+Given that they gave me a week's heads-up total, I took the weekend and put together what I could.
 I'd say I put in a dozen hours, realistically.
-I was pretty excited about the product and was kinda looking forward to giving the talk.
+I was pretty excited about the final product and was kinda looking forward to giving the talk.
 The day before my interview, I got this email:
 
 > Good Morning Jessime,
@@ -50,7 +50,7 @@ And from my second interview.
 And when they told me that I needed to prep a talk.
 
 The recruiter told me, "Don't be shy about reapplying for another position."
-Thank you, but no thank you.
+Thank you, but I'm probably good.
 
 Anyway, I wanted to share my presentation somewhere, so I guess I'll share it here.
 
