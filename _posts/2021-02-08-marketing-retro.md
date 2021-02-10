@@ -1,5 +1,5 @@
 ---
-title: "A Marketing Retrospective: what just happened?"
+title: "Interview frustrations"
 last_modified_at: 2021-02-08
 categories:
   - Blog
