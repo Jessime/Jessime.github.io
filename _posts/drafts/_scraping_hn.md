@@ -20,7 +20,7 @@ When I first started my personal site, I was thinking about blogs in general. I'
 5. Create a similarity network between sites
 6. Visualize the graph
 
-Maybe unsurprisingly, each step was harder than imagined. But it turned out alright in the end.
+It's a cool idea, but it turns out step 3 is really hard. There's no full proof way to know if a url is a blog or not without either building an AI, or looking at each site individually.
 
 ## Get a list of all HN users
 

@@ -1,0 +1,4 @@
+---
+permalink: /albums/
+title: "Albums"
+---
