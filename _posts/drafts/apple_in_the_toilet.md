@@ -4,8 +4,8 @@ last_modified_at: 2020-06-10
 categories:
   - Blog
 tags:
-  - CodeStories
-  - Marketing
+  - Story
+  - Life
 ---
 
 Our school wasn't super well taken care of and one day during lunch I had to pee. Because it was lunch period, there were a number of other guys in the bathroom and all the urinals were full. So I went into a stall and started peeing. As I was doing so, I started looking at what was going on in the toilet. It was a busy situation.

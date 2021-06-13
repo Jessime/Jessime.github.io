@@ -4,7 +4,7 @@ last_modified_at: 2020-06-09
 categories:
   - Blog
 tags:
-  - data analysis
+  - Data Analysis
   - Marketing
 ---
 
