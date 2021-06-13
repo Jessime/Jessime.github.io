@@ -1,5 +1,5 @@
 ---
-title: "Using git in a Paragraph"
+title: "Get your First Git Contribution"
 last_modified_at: 2021-06-13
 categories:
   - Blog
