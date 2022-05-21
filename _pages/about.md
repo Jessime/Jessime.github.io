@@ -13,14 +13,13 @@ I still get "If you were an animal...", but that's better, somehow.
 Here we go:
 
 * <u> If you were an animal, what would you be and why?</u>
+  My spirit animals:
+
+  1. An octopus
+  2. A sloth
+  3. A hummingbird
 
 {% include figure image_path="/assets/images/spirit_animal.png" alt="An octopus, sloth, hummingbird emoji" %}
-
-My spirt animals:
-
-1. An octopus
-2. A sloth
-3. A hummingbird
 
 * <u> What is one goal you’d like to accomplish during your lifetime? </u>
 
@@ -42,8 +41,8 @@ My spirt animals:
   I used to say "Elon Musk", but as of 2022, that ship has sailed.
   Or... sunk?
   As a temporary placeholder, I'm going to say Kurt Gödel.
-  Mostly so I can link out to one of the coolest blog post I've ever read,
-  [What Gödel Discovered](https://stopa.io/post/269)
+  Mostly so I can link out to one of the coolest blog post I've ever read:
+  [What Gödel Discovered](https://stopa.io/post/269).
 
 
 
