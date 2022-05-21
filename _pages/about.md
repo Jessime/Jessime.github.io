@@ -14,11 +14,13 @@ Here we go:
 
 * <u> If you were an animal, what would you be and why?</u>
 
-  A sloth, apparently.
-  My wife came up with this analogy because she thinks I move so slowly.
-  Enough people either agreed or thought it was funny enough that the joke stuck around.
-  Once, I was gifted sloth socks as a wedding party favor.
-  I love those socks.
+{% include figure image_path="/assets/images/spirit_animal.png" alt="An octopus, sloth, hummingbird emoji" %}
+
+My spirt animals:
+
+1. An octopus
+2. A sloth
+3. A hummingbird
 
 * <u> What is one goal you’d like to accomplish during your lifetime? </u>
 
@@ -36,23 +38,13 @@ Here we go:
 
 * <u> Who is your hero? </u>
 
-  Elon Musk, unfortunately.
-  I'll likely never meet him, but if I did I'm sure it would be the embodiment of
-  "Never meet your heroes."
-  My hipster defense is that I independently learned about Tesla while browsing the web as a kid.
-  This was back when Tesla was duct taping laptop batteries to the bottom of a Lotus Elise.
+  I don't know.
+  I used to say "Elon Musk", but as of 2022, that ship has sailed.
+  Or... sunk?
+  As a temporary placeholder, I'm going to say Kurt Gödel.
+  Mostly so I can link out to one of the coolest blog post I've ever read,
+  [What Gödel Discovered](https://stopa.io/post/269)
 
-  Three random reasons I like Musk:
-  * He tweeted about _Superintelligence_ by Nick Bostrum and has clearly digested the book himself. _Superintelligence_ is one of my favorite reads. There's a thoughtfulness in that book that I've rarely seen elsewhere.
-  * He taught me to think in orders of magnitude.
-  "It's more than 10 and less than 1000, so about 100."
-  The world is complicated, and it's often (usually?) difficult to provide accurate estimates.
-  I've found this technique useful for clarifying my own thoughts
-  and for communicating how I consider variance to people who don't know the word variance.
-  * He cares about the future of humanity enough to put effort into increasing the likelihood that we survive.
-  I don't know many who spend more than fleeting moments thinking about either the future or humanity.
-  Of those that do, even fewer care.
-  Sure, there's the argument that Musk is just saying these things because he's a savvy businessman. But I don't think that's the case.
 
 
 * <u> If you could have an endless supply of any food, what would you get? </u>
@@ -66,8 +58,7 @@ Here we go:
   * Water
   * Sunshine
   * Reading time
-  * Family
-  * Late-night Netflix
+  * Late-night conversations
   * Seafood
 
 
@@ -105,7 +96,8 @@ Here we go:
 * <u> Are you a morning or night person? </u>
 
   Night.
-  My routine is basically work, gym, dinner, and time with my wife, followed by a couple of silent hours at the end of the night to work on whatever I'm interested in at the time. Some weeks, more gets accomplished in the ~10 hours at night than in the ~40 hours at work.
+  My routine is basically work, gym, dinner, and time with my wife, followed by a couple of silent hours at the end of the night to work on whatever I'm interested in at the time.
+  Some weeks, more gets accomplished in the ~10 hours at night than in the ~40 hours at work.
 
 * <u> What are your favorite hobbies? </u>
 
