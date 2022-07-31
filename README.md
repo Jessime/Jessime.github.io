@@ -1,4 +1,28 @@
-# Minimal Mistakes remote theme starter
+# My site
+
+## Setup
+
+Roughly following [this post](https://www.earthinversion.com/blogging/how-to-install-jekyll-on-appple-m1-macbook/) with a few tweaks.
+
+
+```
+brew install rbenv ruby-build;
+rbenv install 3.0.0;rbenv global 3.0.0;ruby -v;rbenv rehash
+echo 'eval "$(rbenv init - zsh)"' >> ~/.zshrc
+gem install --user-install bundler jekyll
+echo 'export PATH="/usr/local/opt/ruby/bin:/usr/local/lib/ruby/gems/3.0.0/bin:$PATH"' >> ~/.zshrc
+bundle update
+bundle add webrick
+bundle install --redownload
+```
+
+### And run
+
+```
+bundle exec jekyll serve
+```
+
+## Minimal Mistakes remote theme starter
 
 Fork this repo for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
@@ -18,7 +42,7 @@ Replace sample content with your own and [configure as necessary](https://mmista
 
 ---
 
-## Troubleshooting
+### Troubleshooting
 
 If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
 
