@@ -1,6 +1,6 @@
 ---
 title: "Class night: T-tests and Linear Regression"
-last_modified_at: 2022-07-08
+last_modified_at: 2022-07-23
 categories:
   - Statistics
 tags:
