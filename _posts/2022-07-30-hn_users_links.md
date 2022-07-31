@@ -364,6 +364,9 @@ First, here's a bonus list of sites that struck my fancy for one reason or anoth
 * [http://adamierymenko.com/](http://adamierymenko.com/)
 * [https://www.zerotier.com/](https://www.zerotier.com/)
 
+### pcr910303 (karma=25610)
+* [https://daum.net](https://daum.net)
+
 ### rwmj (karma=25505)
 * [https://rwmj.wordpress.com/](https://rwmj.wordpress.com/)
 
@@ -500,6 +503,9 @@ First, here's a bonus list of sites that struck my fancy for one reason or anoth
 ### pron (karma=20389)
 * [https://pron.github.io/](https://pron.github.io/)
 
+### CPLX (karma=20359)
+* [https://fromdayone.co](https://fromdayone.co)
+
 ### dsr_ (karma=20267)
 * [https://blog.randomstring.org](https://blog.randomstring.org)
 
@@ -551,6 +557,9 @@ First, here's a bonus list of sites that struck my fancy for one reason or anoth
 
 ### chimeracoder (karma=19349)
 * [http://www.adityamukerjee.net/](http://www.adityamukerjee.net/)
+
+### mortenjorck (karma=19283)
+* [https://interuserface.net](https://interuserface.net)
 
 ### leephillips (karma=19229)
 * [https://lee-phillips.org](https://lee-phillips.org)
@@ -658,6 +667,10 @@ First, here's a bonus list of sites that struck my fancy for one reason or anoth
 ### matthewmacleod (karma=16954)
 * [https://matt-m.co.uk](https://matt-m.co.uk)
 * [https://botsandus.com](https://botsandus.com)
+
+### woodruffw (karma=16897)
+* [https://yossarian.net](https://yossarian.net)
+* [https://blog.yossarian.net](https://blog.yossarian.net)
 
 ### RyanMcGreal (karma=16891)
 * [http://quandyfactory.com](http://quandyfactory.com)
@@ -1119,6 +1132,9 @@ First, here's a bonus list of sites that struck my fancy for one reason or anoth
 ### alexandros (karma=11979)
 * [https://resin.io](https://resin.io)
 * [https://alexandros.balena.io](https://alexandros.balena.io)
+
+### baby (karma=11962)
+* [https://Cryptologie.net](https://Cryptologie.net)
 
 ### akkartik (karma=11954)
 * [http://akkartik.name/about](http://akkartik.name/about)
