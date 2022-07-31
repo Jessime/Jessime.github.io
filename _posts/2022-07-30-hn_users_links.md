@@ -17,7 +17,7 @@ It's been too long since I've had a little data exploration project. So I decide
 
 Past that, it was a pretty manual process. I've attempted to review everything, make sure links weren't stale, and verify that there was at least some small interesting thing on at one or more of the links. Some of these users have made it on the list from sites representing companies the user has founded. But, most of the sites are personal blogs of some sort. 
 
-This process took me from the 807370 who have ever commented/posted on HN, to a list of 335 unique and interesting corners of the internet! 🙂
+This process took me from the 807370 who have ever commented/posted on HN, to a list of 340 unique and interesting corners of the internet! 🙂
 
 _Disclaimer:_ Despite manual spotchecking along the way, there's a chance I didn't include everyone or that some links I've included are dead. If that's the case, feel free to reach out!
 
