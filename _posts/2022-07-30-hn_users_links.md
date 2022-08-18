@@ -7,6 +7,12 @@ tags:
   - Data Analysis
 ---
 
+---
+
+Update: Here's the link to the HN discussion about this post: [https://news.ycombinator.com/item?id=32291993](https://news.ycombinator.com/item?id=32291993)
+
+---
+
 It's been too long since I've had a little data exploration project. So I decided to track down the HN users with the most karma and explore their personal sites. More specifically, I:
 
 1. Downloaded all HN users from BigQuery
