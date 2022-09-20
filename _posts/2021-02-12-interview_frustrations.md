@@ -8,14 +8,12 @@ tags:
   - Marketing
 ---
 
-
-
-
 ---
 
 Update: Here's the link to the HN discussion about this post: [https://news.ycombinator.com/item?id=26092964](https://news.ycombinator.com/item?id=26092964)
 
 ---
+
 A company that will remain nameless (unless someone convinces me otherwise) recently sent me this email:
 
 
