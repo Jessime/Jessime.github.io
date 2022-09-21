@@ -1,6 +1,6 @@
 ---
 title: "My Erdős Number"
-last_modified_at: 2022-07-30
+last_modified_at: 2022-09-21
 categories:
   - Blog
 tags:
