@@ -21,6 +21,11 @@ Here we go:
 
 {% include figure image_path="/assets/images/spirit_animal.png" alt="An octopus, sloth, hummingbird emoji" %}
 
+  Enough separate friend groups have established versions of the joke that I get ready slowly,
+  that I've incorporated being a sloth as a small part of my identity.
+  Once, I was gifted sloth socks as a wedding party favor.
+  I love those socks.
+
 * <u> What is one goal you’d like to accomplish during your lifetime? </u>
 
   To contribute something that is useful to humanity 100 years after I'm dead.
@@ -95,7 +100,8 @@ Here we go:
 * <u> Are you a morning or night person? </u>
 
   Night.
-  My routine is basically work, gym, dinner, and time with my wife, followed by a couple of silent hours at the end of the night to work on whatever I'm interested in at the time.
+  This has shifted over the years, but my most of my favorite memories are at night,
+  and many of my most productive hours are in the latest hours of the day.
   Some weeks, more gets accomplished in the ~10 hours at night than in the ~40 hours at work.
 
 * <u> What are your favorite hobbies? </u>
