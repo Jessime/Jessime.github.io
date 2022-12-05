@@ -19,13 +19,13 @@ Here we go:
   2. A sloth
   3. A hummingbird
 
-{% include figure image_path="/assets/images/spirit_animal.png" alt="An octopus, sloth, hummingbird emoji" %}
+  {% include figure image_path="/assets/images/spirit_animal.png" alt="An octopus, sloth, hummingbird emoji" %}
 
   Enough separate friend groups have established versions of the joke that I get ready slowly,
   that I've incorporated being a sloth as a small part of my identity.
   Once, I was gifted sloth socks as a wedding party favor.
   I love those socks.
-
+  
 * <u> What is one goal you’d like to accomplish during your lifetime? </u>
 
   To contribute something that is useful to humanity 100 years after I'm dead.
