@@ -27,4 +27,6 @@ Instead, I've been completely unprepared for how little my dad seems to care abo
 * We've taken a couple trips to see family and he's refused to go. This point is slightly complicated by some family drama, but he seems unconcerned with maintaining relationships. 
 * The many hours he spends on the computer are completely mindless. He goes to Facebook and clicks whatever he sees: boxing, cute dogs, women, Ukraine war videos, old westerns. I suppose we're all guilty of too much screen time, but this is an extreme.
 
+---
 
+__Note:__ I didn't finish writing this post in December, and I don't want to finish it now (6 months later). But it has some value to me as is, so I'm leaving it up.
