@@ -11,9 +11,12 @@ rbenv install 3.0.0;rbenv global 3.0.0;ruby -v;rbenv rehash
 echo 'eval "$(rbenv init - zsh)"' >> ~/.zshrc
 gem install --user-install bundler jekyll
 echo 'export PATH="/usr/local/opt/ruby/bin:/usr/local/lib/ruby/gems/3.0.0/bin:$PATH"' >> ~/.zshrc
+cd ~/Code/me/Jessime.github.io/
+mkdir /Users/jessime/Data/bundle
+bundle config path /Users/jessime/Data/bundle
 bundle update
-bundle add webrick
-bundle install --redownload
+# bundle add webrick  # Probably not needed anymore
+# bundle install --redownload  # Probably not needed anymore
 ```
 
 ### And run
