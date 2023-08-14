@@ -13,7 +13,7 @@ Anyway, it's a pretty simple dish.
 
 ## Ingredients
 
-* 1 pound of Gnocci
+* 1 pound of Gnocchi
 * 1 Onion
 * Butter
 * 1lb Beef
@@ -33,5 +33,5 @@ Anyway, it's a pretty simple dish.
 3. Chop the greens up as fine as you can
 4. Combine the beef, onions, milk and greens into the pan and cook for another five minutes
 5. Add the lemon pesto and cook for another two minutes
-6. Cook the gnocci according to instructions
+6. Cook the gnocchi according to instructions
 7. Plate with some garnish
