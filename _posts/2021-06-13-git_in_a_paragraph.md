@@ -5,6 +5,7 @@ categories:
   - Blog
 tags:
   - Tutorial
+  - Code
 ---
 
 I had a friend transition from her PhD to industry recently, and she messaged me expressing some annoyance at learning `git`.
