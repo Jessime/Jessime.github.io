@@ -5,6 +5,7 @@ categories:
   - Blog
 tags:
   - "Old Blogger"
+  - Grad School
 ---
 This post contains the last three question. The final two concern the phrase "your scientific approach", which I found a bit vague. I asked my PI for clarification, and he responded:<br />
 <blockquote class="tr_bq">

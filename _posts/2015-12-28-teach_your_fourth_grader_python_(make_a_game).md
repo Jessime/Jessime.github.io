@@ -5,6 +5,7 @@ categories:
   - Blog
 tags:
   - "Old Blogger"
+  - Code
 ---
 Welcome to the second post on introducing your child to Python! You should have Anaconda (or another version of Python) installed on your computer before continuing. As I mentioned before, I wrote this code for and with a class of 4th graders. Did all of them understand all of the concepts? No, of course not; that wasn't really the point. All of the students thought that the game was fun. All of the students gained a little bit of insight into the technology they use everyday. That's the point.<br />
 <br />

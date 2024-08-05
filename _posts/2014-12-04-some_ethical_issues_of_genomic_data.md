@@ -5,6 +5,7 @@ categories:
   - Blog
 tags:
   - "Old Blogger"
+  - Genomics
 ---
 Yesterday I spent several hours attending an ethics class as well as a ethics/policy seminary. Both were great, and while I haven't had a large amount of time to process the information myself, I thought it might be useful to reflect on it here and share what I learned. The sessions were on some of the issues and implications of high throughput sequencing and genomic data. While the lecture was interesting, it's the class discussion I've been thinking about most .<br />
 <br />

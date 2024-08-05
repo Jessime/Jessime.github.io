@@ -5,6 +5,7 @@ categories:
   - Blog
 tags:
   - "Old Blogger"
+  - Grad School
 ---
 <link href="http://alexgorbatchev.com/pub/sh/current/styles/shCore.css" rel="stylesheet" type="text/css"></link> 
 <link href="http://alexgorbatchev.com/pub/sh/current/styles/shThemeDefault.css" rel="stylesheet" type="text/css"></link> 

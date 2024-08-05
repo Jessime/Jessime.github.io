@@ -5,6 +5,7 @@ categories:
   - Blog
 tags:
   - "Old Blogger"
+  - Code
 ---
 I had to follow a few different explanations on how to employ syntax highlighting on Blogger before I found a set of instructions that worked. In case anyone else is interested in posting some code onto their site, I would highly recommend checking out <a href="http://oneqonea.blogspot.com/2012/04/how-do-i-add-syntax-highlighting-to-my.html">this blog</a>, which has a nice visual walk through and the necessary code available. It only took me a few minutes to set up. Below are a couple of brief examples (including the one on the post) of what the highlighting looks like.
 

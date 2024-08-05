@@ -5,6 +5,7 @@ categories:
   - Blog
 tags:
   - "Old Blogger"
+  - Code
 ---
 It's really never too early to start teaching your child to code. You may think, "What's the point of teaching my kid to code so long before they have any idea what they want to do with their life?" The topic is worth a post of its own, but here are a couple of articles by <a href="http://www.connectionsacademy.com/blog/posts/2014-12-04/Why-Learning-to-Code-Benefits-Kids-Regardless-of-Future-Career-Choice.aspx" target="_blank">Beth Werrell</a> and <a href="http://www.theguardian.com/technology/2014/feb/07/year-of-code-dan-crow-songkick" target="_blank">Dan Crow</a> that address how useful "computational thinking" is in a world where everything relies on software. Another possible issue that might come to mind is, "How do I teach my child to code when I don't even know how?" Thankfully, there are already some really great resources out there to help you learn and teach at the same time. One of my favorite books is&nbsp;<u><a href="http://inventwithpython.com/chapters/" target="_blank">Invent Your Own Computer Games with Python</a>&nbsp;</u>which is free online. Another resource, which I haven't used at all but generally gets good reviews is&nbsp;<a href="http://www.amazon.com/Teach-Your-Kids-Code-Parent-Friendly/dp/1593276141" style="text-decoration: underline;" target="_blank">Teach Your Kids to Code: A Parent-Friendly Guide to Python Programming</a>.<br />
 <div>

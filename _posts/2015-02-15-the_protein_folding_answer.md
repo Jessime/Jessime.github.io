@@ -5,6 +5,7 @@ categories:
   - Blog
 tags:
   - "Old Blogger"
+  - Excision
 ---
 I need to issue a disclaimer before anything else. The script below is most definitely NOT the answer to protein folding. In fact, I make no claims at all about the efficacy of this code beyond it's rudimentary ability to fold the beta-hairpin shown here. This code is just a homework assignment and learning experience for me. I believe the code is decently well commented for anyone who's working with PyRosetta themselves. MAYBE this can be used at a starting point.<br />
 <br />

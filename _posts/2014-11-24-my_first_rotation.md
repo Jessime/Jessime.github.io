@@ -5,6 +5,7 @@ categories:
   - Blog
 tags:
   - "Old Blogger"
+  - Grad School
 ---
 &nbsp; &nbsp; &nbsp;I'm giving my first poster talk of my graduate school career tomorrow, along with approximately half of my cohort (the other half had their posters today). We are supposed to present what we accomplished over the past 10 weeks, during our first rotation. Though I understand that the real purpose of this poster session is to practice our communication skills and have the to opportunity to see what our peers have been doing, it's still mildly frustrating to feel like you don't have enough material to work with. Let's be honest, it's basically impossible to do enough novel research, in a field you're new to, in 10 weeks, to adequately fill an entire poster.<br />
 <br />

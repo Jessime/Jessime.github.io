@@ -5,6 +5,7 @@ categories:
   - Blog
 tags:
   - "Old Blogger"
+  - Code
 ---
 I may have mentioned it before, but I love the Jupyter Notebook. It's the only way I come close to keeping my code and analyses organized. I'm not a huge fan of R, mostly because I'm not great at it, but I have to use it sometimes. Today was my third attempt at integrating the R kernel into the Notebook, and it took several hours. I figured it would be worthwhile to chronicle what finally worked, in case I need it later.<br />
 <br />

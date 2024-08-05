@@ -5,6 +5,7 @@ categories:
   - Blog
 tags:
   - "Old Blogger"
+  - Excision
 ---
 I take things too seriously sometimes. As far as I'm aware, I've always been like that. When I was a kid, I knew, deep down, that walkthroughs were bad. Maybe they weren't quite morally wrong, but they were certainly pushing it. You can probably ask my brother how I felt about walkthroughs. He was often on the receiving end of my scorn when he used a website to figure out a particularly difficult puzzle. "That's not the way you're SUPPOSED to do it!" Children can be so vicious. Little did I know I would eventually be publishing my own walkthrough.<br />
 <br />

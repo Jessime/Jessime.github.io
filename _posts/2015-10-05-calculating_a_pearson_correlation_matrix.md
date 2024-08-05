@@ -5,6 +5,7 @@ categories:
   - Blog
 tags:
   - "Old Blogger"
+  - Math
 ---
 &nbsp; &nbsp; &nbsp;One of the great things about graduate school is you get to constantly realize how ignorant you are about how things work. If the domain name weren't already taken, I would think about moving my stuff over to&nbsp;<a href="http://seriously.dontusethiscode.com/" target="_blank">seriously.dontusethiscode.com</a>. It can get a bit depressing thinking about all the stuff there is to know. But if you think about it a bit more, it's really just awesome how exciting our world is. I'm glad I've got this opportunity to learn and explore.<br />
 <br />

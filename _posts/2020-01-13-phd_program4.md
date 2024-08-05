@@ -8,3 +8,7 @@ tags:
 ---
 
 ## The Most Important Thing I Learned in Graduate School
+
+...
+
+Whoa, I'm looking at this in 2024 and just realizing that it's been 5 years and I never filled out this blog. Guess it's going to remain a mystery forever at this point. 

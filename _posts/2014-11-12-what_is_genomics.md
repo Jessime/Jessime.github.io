@@ -5,6 +5,7 @@ categories:
   - Blog
 tags:
   - "Old Blogger"
+  - Grad School
 ---
 I just began my second of three rotations this week, so it's been a busy transition time. But I thought I would share this short genomics video. It's really basic, which may or may not be appealing to you.<br />
 <br />

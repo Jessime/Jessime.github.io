@@ -5,6 +5,7 @@ categories:
   - Blog
 tags:
   - "Old Blogger"
+  - Grad School
 ---
 <div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
 <span style="background-color: transparent; color: black; font-family: Arial; font-size: 14.6667px; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">It's rarely fun to admit your failures, but here's a list of things I didn't mange to pull off in 2015.</span></div>

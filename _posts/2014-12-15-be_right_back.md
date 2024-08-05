@@ -5,6 +5,7 @@ categories:
   - Blog
 tags:
   - "Old Blogger"
+  - Life
 ---
 I'm usually not a huge fan of television, but recently it has been convenient to watch an episode of something or other with my wife after dinner. I reason that it gives me a bit of time to digest and unwind before I start in on homework or whatever project I'm working on. Usually Laura chooses what we watch, since it doesn't matter to me. But after reading&nbsp;<a href="http://www.theverge.com/tldr/2014/12/1/7315405/black-mirror-sci-fi-finally-streaming-netflix">this review</a>&nbsp;of Black Mirror, I suggested we watch it.<br />
 <br />

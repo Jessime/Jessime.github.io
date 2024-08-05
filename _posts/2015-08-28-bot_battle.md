@@ -5,6 +5,7 @@ categories:
   - Blog
 tags:
   - "Old Blogger"
+  - Code
 ---
 For those of you who don't program, it may be hard to understand just how slow a process it usually is. Movies and other media don't help this misunderstanding. As Mark Zuckerberg put it, "If they were really making a movie, it would have been of me, sitting at a computer coding for two hours straight". Similarly, here's a <a href="http://imgur.com/gallery/Kgz562w" target="_blank">visual representation of the difference</a>.<br />
 <br />

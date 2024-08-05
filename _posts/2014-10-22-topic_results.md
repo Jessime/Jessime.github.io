@@ -5,6 +5,7 @@ categories:
   - Blog
 tags:
   - "Old Blogger"
+  - Grad School
 ---
 For anyone who's curious how the survey is going, below is the current average with error bars showing one standard deviation.<br />
 <br />

@@ -5,6 +5,7 @@ categories:
   - Blog
 tags:
   - "Old Blogger"
+  - Code
 ---
 I've mostly refrained from posting any of the code that I've been writing in the past months because the code seems scraped together in a "just get it done" method that wouldn't be particularly interesting or useful to anyone but me. The programs are simple scripts only applicable to the single task at hand. But I've finally gained enough confidence to show off a few lines that I've been using recently.<br />
 <br />

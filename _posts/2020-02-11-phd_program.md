@@ -5,6 +5,7 @@ categories:
   - Blog
 tags:
   - Life
+  - Grad School
 ---
 
 ## Starting a PhD in Bioinformatics at UNC-Chapel Hill

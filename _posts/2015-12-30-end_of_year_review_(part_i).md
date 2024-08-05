@@ -5,6 +5,7 @@ categories:
   - Blog
 tags:
   - "Old Blogger"
+  - Grad School
 ---
 My PI has requested that we answer a few questions as a reflection of the past year and as a mental preparation for the coming year. I figured it would be worthwhile to record at least a few of my answers here. This seems like a useful exercise and my answers are decently in depth. So the post isn't overwhelming, I'm going to dedicate a different post for each question.<br />
 <br />

@@ -5,6 +5,7 @@ categories:
   - Blog
 tags:
   - "Old Blogger"
+  - Genomics
 ---
 First, if you've never had the opportunity to visit <a href="http://xkcd.com/">xkcd</a>, I highly suggest you do it. It's a wonderful website. My personal favorite is the <a href="http://what-if.xkcd.com/">What If?</a> feature. Read one of them; you'll like it. The comic relevant to this post is:<br />
 <br />

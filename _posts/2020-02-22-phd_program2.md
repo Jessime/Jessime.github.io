@@ -5,6 +5,7 @@ categories:
   - Blog
 tags:
   - Life
+  - Grad School
 ---
 
 ## The large center chunk where things start to feel routine

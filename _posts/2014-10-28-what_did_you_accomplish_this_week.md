@@ -5,6 +5,7 @@ categories:
   - Blog
 tags:
   - "Old Blogger"
+  - Grad School
 ---
 A few weeks ago I was jokingly asked by a friend (who has never set foot in a lab) if I had made any great discoveries that week. I had just finished confirming a genetic transformation, so I laughed and replied, "Well, I did make a new type of yeast." You may or may not consider that a bit of a stretch, but I thought it was a clever answer to an unexpected question. Apparently my exaggeration was enough to impress my friend, since I found out later that he went on to tell others about my "accomplishment." This brief interaction made me think about a couple things...<br />
 <br />

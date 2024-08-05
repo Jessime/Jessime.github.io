@@ -5,6 +5,7 @@ categories:
   - Blog
 tags:
   - "Old Blogger"
+  - Grad School
 ---
 Today in lab meeting, during our bi-weekly "Idea Potluck", I dropped the ball while explaining how perceptrons work. We were running short on time, so I rushed and straight-up got flustered. It was unfortunate, since perceptrons are really cool, and Wikipedia has a great example (<a href="https://en.wikipedia.org/wiki/Perceptron" target="_blank">here</a>).<br />
 <br />

@@ -5,6 +5,7 @@ categories:
   - Blog
 tags:
   - "Old Blogger"
+  - Grad School
 ---
 With my Birthday, Black Friday, and Christmas all right around the corner, I haven't been able to keep myself from thinking about the possibility of purchasing my first desktop upgrade. It's not that my computer needs work per se, I just built it in July, but I did stay under budget with the idea of upgrading in mind.<br />
 <br />

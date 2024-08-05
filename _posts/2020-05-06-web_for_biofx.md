@@ -5,7 +5,7 @@ categories:
   - Blog
 tags:
   - CodeStories
-  - Programming
+  - Code
 ---
 
 ## The web is amazing and amazingly complex

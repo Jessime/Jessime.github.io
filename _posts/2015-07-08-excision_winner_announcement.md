@@ -5,6 +5,7 @@ categories:
   - Blog
 tags:
   - "Old Blogger"
+  - Excision
 ---
 Congratulations to Ankur Sundara for being the first person to complete Excision! For his dedication and problem-solving abilities, he's won the first place price of $50! Ankur, a New Hampshire resident, is a rising senior in high school.  
 
