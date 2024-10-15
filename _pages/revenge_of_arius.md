@@ -15,7 +15,11 @@ Here's a quick timeline of how I came up with [The Revenge of Arius](https://git
 
 Given that this was my first project, there's significantly more wrong with the game and the code than right with it. But here are a few things that stand out now as being kind of impressive:
 
-* I did all the art myself. I'm a terrible artist, but this [game board looks pretty sweet](https://raw.githubusercontent.com/Jessime/revenge_of_arius/master/tut19.png).
+* I did all the art myself. I'm a terrible artist, but this game board looks pretty sweet:
+
+{% include figure image_path="https://raw.githubusercontent.com/Jessime/revenge_of_arius/master/tut19.png" alt="game board" %}
+
+
 * I had no idea how networking worked, but the game was turn-based, so I came up with a scheme wherein I:
   * serialize the entire game state to a string,
   * [email the string to a throwaway gmail account](https://github.com/Jessime/revenge_of_arius/blob/master/mails.py#L247) (ignore the password),
