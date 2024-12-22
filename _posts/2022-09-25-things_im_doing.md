@@ -27,4 +27,4 @@ If I imagine _someone else_ doing this list, it sounds pretty fulfilling! I'm ha
 4. Wood working, specifically to build some things for the office
 5. An actual programming project (library time?)
 
-Even though I've felt some pressure to keep my calendar full, I refuse to over do it. I want flexability. I want the space for creativity. I need the time for rest.
+Even though I've felt some pressure to keep my calendar full, I refuse to over do it. I want flexibility. I want the space for creativity. I need the time for rest.
