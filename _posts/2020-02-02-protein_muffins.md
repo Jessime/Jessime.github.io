@@ -25,12 +25,15 @@ A tasty way to supplement a classic baked good with some extra protein.
 
 ## Directions
 
+### Pre-prep
+
+* Dump chia seeds into a cup or small bowl, add the water, and mix well.
+  * Set the mixture aside until needed. It should be a gel by the time you're ready to use it.
+
 ### Mixing
 
 I started off the same way I do when making chocolate chip cookies:
 
-* Dump chia seeds into a cup or small bowl, add the water, and mix well.
-  * Set the mixture aside until needed. It should be a gel by the time you're ready to use it.
 * Chop the butter into slices in the mixing bowl; beat with sugar (both brown and white) until smooth.
 * Add eggs; beat on low until smooth
 * While the mixer continues, slowly add the vanilla.
