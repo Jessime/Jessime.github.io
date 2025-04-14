@@ -732,8 +732,6 @@ First, here's a bonus list of sites that struck my fancy for one reason or anoth
 ### ot (karma=16461)
 * [http://www.di.unipi.it/~ottavian/](http://www.di.unipi.it/~ottavian/)
 
-### daenz (karma=16426)
-* [https://www.arwmoffat.com/](https://www.arwmoffat.com/)
 
 ### weinzierl (karma=16410)
 * [https://weinzierlweb.com](https://weinzierlweb.com)
