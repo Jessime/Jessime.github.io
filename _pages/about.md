@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-You can find my resume [here](https://drive.google.com/file/d/1kJ6wXJwvHPXDNYo3vR8ntYa0-0cl7D7k/view?usp=sharing) if you're interested in my career story.
+You can find my resume [here](https://drive.google.com/file/d/1T996xjsHFyeypAWx3JLFswl3c2KL_e65/view?usp=sharing) if you're interested in my career story.
 
 I thought it would be informative to write the rest of my About page using "ice breakers".
 Googling "ice breakers" leads to results like "If you were a vegetable...",
