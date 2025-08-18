@@ -13,9 +13,9 @@ In alphabetical order:
 
 # Arches, Utah
 
-{% include figure image_path="/assets/images/national_parks/arches.jpg" alt="Arches" caption="Arches" %}
-
 **Date:** September, 2020
+
+{% include figure image_path="/assets/images/national_parks/arches.jpg" alt="Arches" caption="Coming back from KY to SF during covid." %}
 
 # Badlands,South Dakota
 # Big Bend,Texas
@@ -31,8 +31,19 @@ In alphabetical order:
 # Crater Lake, Oregon
 
 # Cuyahoga Valley,Ohio
+
 # Death Valley,California; Nevada
+
+**Date:** August, 2021
+
+{% include figure image_path="/assets/images/national_parks/death_valley.HEIC" alt="Olympic" caption="Driving through on the way back to AZ." %}
+
 # Denali,Alaska
+
+**Date:** July, 2022
+
+{% include figure image_path="/assets/images/national_parks/denali.webp" alt="Denali" caption="Visiting Drake's sister." %}
+
 # Dry Tortugas,Florida
 # Everglades,Florida
 # Gates of the Arctic,Alaska
@@ -65,13 +76,9 @@ In alphabetical order:
 
 # Olympic, Washington
 
-{% include figure image_path="/assets/images/national_parks/olympic.HEIC" alt="Olympic" caption="Olympic" %}
-
 **Date:** July, 2025
 
-## Details
-
-Went with Drake for a quick 4th of July trip.
+{% include figure image_path="/assets/images/national_parks/olympic.webp" alt="Olympic" caption="Went with Drake for a quick 4th of July trip." %}
 
 # Petrified Forest,Arizona
 # Pinnacles,California
