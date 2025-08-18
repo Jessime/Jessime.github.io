@@ -3,7 +3,7 @@ permalink: /national_parks/
 title: "Tracking National Parks I've Visited"
 ---
 
-I have a soft life goal of visiting every National Park in the US. I'm tracking my progress here.
+I have a soft life goal of visiting every National Park in the US. I'm tracking my progress here. I'm currently at **X of 63**. 
 
 In alphabetical order:
 
@@ -38,7 +38,7 @@ In alphabetical order:
 
 {% include figure image_path="/assets/images/national_parks/death_valley.HEIC" alt="Olympic" caption="Driving through on the way back to AZ." %}
 
-# Denali,Alaska
+# Denali, Alaska
 
 **Date:** July, 2022
 
@@ -47,10 +47,22 @@ In alphabetical order:
 # Dry Tortugas,Florida
 # Everglades,Florida
 # Gates of the Arctic,Alaska
-# Gateway Arch,Missouri
+
+# Gateway Arch, Missouri
+
+**Date:** Februrary, 2014
+
+{% include figure image_path="/assets/images/national_parks/gateway_arch.jpg" alt="Gateway Arch" caption="In St. Louis for my WashU grad school visit. Laura joined because a blizzard a day before had canceled my flight and it was faster to drive than wait for the next flight." %}
+
 # Glacier,Montana
 # Glacier Bay,Alaska
+
 # Grand Canyon,Arizona
+
+**Date:** November, 2024
+
+{% include figure image_path="/assets/images/national_parks/grand_canyon.webp" alt="Gateway Arch" caption="I've been to the Grand Canyon multiple times, but this Friendsgiving trip was particularly unique. Photo credit to my brother Mahlon." %}
+
 # Grand Teton,Wyoming
 # Great Basin,Nevada
 # Great Sand Dunes,Colorado
