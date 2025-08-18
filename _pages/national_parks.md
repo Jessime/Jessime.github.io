@@ -3,7 +3,7 @@ permalink: /national_parks/
 title: "Tracking National Parks I've Visited"
 ---
 
-I have a soft life goal of visiting every National Park in the US. I'm tracking my progress here. I'm currently at **X of 63**. 
+I have a soft life goal of visiting every National Park in the US. I'm tracking my progress here. I'm currently at **17 of 63**. 
 
 In alphabetical order:
 
@@ -42,7 +42,7 @@ In alphabetical order:
 
 **Date:** July, 2022
 
-{% include figure image_path="/assets/images/national_parks/denali.webp" alt="Denali" caption="Visiting Drake's sister." %}
+{% include figure image_path="/assets/images/national_parks/denali.webp" alt="Denali" caption="Visiting Drake's sister, Leiren." %}
 
 # Dry Tortugas,Florida
 # Everglades,Florida
@@ -81,10 +81,23 @@ I've been as a kid with my uncle, but I'll have to track down a photo.
 # Hot Springs,Arkansas
 # Indiana Dunes,Indiana
 # Isle Royale,Michigan
-# Joshua Tree,California
+# Joshua Tree, California
+
+**Date:** July, 2020
+
+{% include figure image_path="/assets/images/national_parks/joshua_tree.webp" alt="Joshua Tree" caption="My favorite memory of this trip was sitting on one of these rocks with Ray and some other friends, in perfect weather at 2am, watching the moon make it's nightly trip across the sky." %}
+
 # Katmai,Alaska
 # Kenai Fjords,Alaska
-# Kings Canyon,California
+
+**Date:** July, 2022
+
+{% include figure image_path="/assets/images/national_parks/kenai_fjords.webp" alt="Kenai Fjords" caption="Visiting Drake's sister, Leiren." %}
+
+# Kings Canyon, California
+
+I need to remember if the trip to Bishop took us through Kings Canyon. I think it did.
+
 # Kobuk Valley,Alaska
 # Lake Clark,Alaska
 # Lassen Volcanic,California
