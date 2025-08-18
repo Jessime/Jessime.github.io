@@ -36,7 +36,7 @@ In alphabetical order:
 
 **Date:** August, 2021
 
-{% include figure image_path="/assets/images/national_parks/death_valley.HEIC" alt="Olympic" caption="Driving through on the way back to AZ." %}
+{% include figure image_path="/assets/images/national_parks/death_valley.webp" alt="Death Valley" caption="Driving through on the way back to AZ." %}
 
 # Denali, Alaska
 
@@ -131,7 +131,7 @@ I went in 2020 for a hot (literally and figuratively) minute, but didn't take a 
 
 **Date:** April, 2021
 
-{% include figure image_path="/assets/images/national_parks/saguaro.webp" alt="Saguaro" caption="For having lived here for 5 years, I have surprising few photos in the park proper. But this particularly odd Saguaro is from one of my first trips to the park itself." %}
+{% include figure image_path="/assets/images/national_parks/saguaro_cactus.webp" alt="Saguaro Cactus" caption="For having lived here for 5 years, I have surprising few photos in the park proper. But this particularly odd Saguaro is from one of my first trips to the park itself." %}
 
 # Sequoia, California
 
