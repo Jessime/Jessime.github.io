@@ -57,7 +57,7 @@ In alphabetical order:
 # Glacier,Montana
 # Glacier Bay,Alaska
 
-# Grand Canyon,Arizona
+# Grand Canyon, Arizona
 
 **Date:** November, 2024
 
@@ -66,7 +66,15 @@ In alphabetical order:
 # Grand Teton,Wyoming
 # Great Basin,Nevada
 # Great Sand Dunes,Colorado
-# Great Smoky Mountains,North Carolina; Tennessee
+
+**Date:** November, 2021
+
+{% include figure image_path="/assets/images/national_parks/great_sanddunes.webp" alt="Great Sand Dunes" caption="On the 'Triple Birthday!' trip up to Denver." %}
+
+# Great Smoky Mountains, North Carolina; Tennessee
+
+I've been as a kid with my uncle, but I'll have to track down a photo. 
+
 # Guadalupe Mountains,Texas
 # Haleakalā,Hawaii
 # Hawai‘i Volcanoes,Hawaii
@@ -81,6 +89,11 @@ In alphabetical order:
 # Lake Clark,Alaska
 # Lassen Volcanic,California
 # Mammoth Cave,Kentucky
+
+**Date:** May, 2014
+
+{% include figure image_path="/assets/images/national_parks/mammoth_caves.jpg" alt="Mammoth Caves" caption="My camera was broken when Drake and I took this trip after graduating college." %}
+
 # Mesa Verde,Colorado
 # Mount Rainier,Washington
 # New River Gorge,West Virginia
@@ -94,10 +107,25 @@ In alphabetical order:
 
 # Petrified Forest,Arizona
 # Pinnacles,California
+
+I went in 2020 for a hot (literally and figuratively) minute, but didn't take a picture.
+
 # Redwood,California; Oregon
+
 # Rocky Mountain,Colorado
-# Saguaro,Arizona
-# Sequoia,California
+
+# Saguaro, Arizona
+
+**Date:** April, 2021
+
+{% include figure image_path="/assets/images/national_parks/saguaro.webp" alt="Saguaro" caption="For having lived here for 5 years, I have surprising few photos in the park proper. But this particularly odd Saguaro is from one of my first trips to the park itself." %}
+
+# Sequoia, California
+
+**Date:** August, 2020
+
+{% include figure image_path="/assets/images/national_parks/sequoia.webp" alt="Sequoia" caption="The detail of the sunset reflecting in the mountain lake makes this one of my favorite photos I've ever taken. This was after an 11 mile hike with Rishi and some other friends." %}
+
 # Shenandoah,Virginia
 # Theodore Roosevelt,North Dakota
 # Virgin Islands,Virgin Islands
@@ -106,5 +134,15 @@ In alphabetical order:
 # Wind Cave,South Dakota
 # Wrangell–St. Elias,Alaska
 # Yellowstone,Wyoming; Montana; Idaho
-# Yosemite,California
-# Zion,Utah
+
+# Yosemite, California
+
+**Date:** September, 2019
+
+{% include figure image_path="/assets/images/national_parks/yosemite.webp" alt="Yosemite" caption="Not the most beautiful of photographs, but this 'slightly before everyone is ready' captures both the vibe of the individuals and the collective feel of the trip." %}
+
+# Zion, Utah
+
+**Date:** September, 2020
+
+{% include figure image_path="/assets/images/national_parks/zion.jpg" alt="Zion" caption="Coming back from KY to SF during covid." %}
