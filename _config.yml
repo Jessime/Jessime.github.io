@@ -83,6 +83,9 @@ author:
     - label: "Reading List"
       icon: "fas fa-fw fa-book"
       url: "https://docs.google.com/spreadsheets/d/1kBg7HFRH3IsAlnUTrbNOFwwulTfv_G8h_OqBmVkbJUs/edit?usp=sharing"
+    - label: "National Parks"
+      icon: "fas fa-fw fa-tree"
+      url: "national_parks"
 
 footer:
   links:
