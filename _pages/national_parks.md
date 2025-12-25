@@ -143,7 +143,13 @@ I went in 2020 for a hot (literally and figuratively) minute, but didn't take a 
 # Theodore Roosevelt,North Dakota
 # Virgin Islands,Virgin Islands
 # Voyageurs,Minnesota
-# White Sands,New Mexico
+
+# White Sands, New Mexico
+
+**Date:** November, 2025
+
+{% include figure image_path="/assets/images/national_parks/white_sands.webp" alt="Yosemite" caption="Jack and I took a spontaneous Thanksgiving trip in Erin's van. White Sands was beautiful, if a little one dimensional, but it was entertaining finding other people's sand art." %}
+
 # Wind Cave,South Dakota
 # Wrangell–St. Elias,Alaska
 # Yellowstone,Wyoming; Montana; Idaho
