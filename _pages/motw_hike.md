@@ -236,6 +236,13 @@ author_profile: false
     margin-top: 1rem;
   }
 
+  .motw-base-roll {
+    margin: 0 0 0.35rem;
+    color: var(--motw-muted);
+    font-size: 0.95rem;
+    font-weight: 850;
+  }
+
   .motw-roll-result {
     display: grid;
     grid-template-columns: 1fr auto;
@@ -341,13 +348,18 @@ author_profile: false
       return value > 0 ? "+" + value : String(value);
     }
 
-    function rollForAttribute(stat) {
-      return rollD6() + rollD6() + stat;
-    }
-
     function rollPlayer(player) {
+      const firstDie = rollD6();
+      const secondDie = rollD6();
+      const baseTotal = firstDie + secondDie;
+
+      player.baseRoll = {
+        firstDie: firstDie,
+        secondDie: secondDie,
+        total: baseTotal
+      };
       player.results = attributes.map(function (attribute) {
-        const total = rollForAttribute(player.stats[attribute]);
+        const total = baseTotal + player.stats[attribute];
         const outcome = classifyMove(total);
 
         return {
@@ -402,6 +414,7 @@ author_profile: false
 
       return [
         '<div class="motw-roll-results" aria-label="Roll results for ' + escapeHtml(player.name) + '">',
+        '  <p class="motw-base-roll">Base roll: ' + player.baseRoll.firstDie + " + " + player.baseRoll.secondDie + " = " + player.baseRoll.total + '</p>',
         player.results.map(function (result) {
           return [
             '<div class="motw-roll-result">',

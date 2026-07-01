@@ -7,9 +7,6 @@ header:
   overlay_color: "#000"
   overlay_filter: "0"
   overlay_image: assets/images/projects_splash.jpg
-  actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Embarcadero Plaza"
 excerpt: "The Menagerie"
 intro:
@@ -39,7 +36,7 @@ feature_row_logo:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row_motw_hike:
-  - image_path: assets/images/projects_splash.jpg
+  - image_path: assets/images/micro_rpg.png
     alt: "Micro RPG"
     title: "Micro RPG"
     excerpt: "A tiny offline RPG helper for playing while hiking. (Summer, 2026)"
