@@ -22,7 +22,7 @@ bundle update
 ### And run
 
 ```
-bundle exec jekyll serve
+LC_ALL=en_US.UTF-8 bundle exec jekyll serve
 ```
 
 ## Minimal Mistakes remote theme starter

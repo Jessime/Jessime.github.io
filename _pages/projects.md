@@ -38,6 +38,14 @@ feature_row_logo:
     url: "fractal_tree_logo"
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row_motw_hike:
+  - image_path: assets/images/projects_splash.jpg
+    alt: "Micro RPG"
+    title: "Micro RPG"
+    excerpt: "A tiny offline RPG helper for playing while hiking. (Summer, 2026)"
+    url: "motw_hike"
+    btn_label: "Open App"
+    btn_class: "btn--primary"
 feature_row_hier:
   - image_path: assets/images/hier_logo_v3_crop.png
     alt: "Hier"
@@ -101,6 +109,8 @@ feature_row_revenge:
 <!-- {% include feature_row id="feature_row_pinned" type="center" %} -->
 
 {% include feature_row id="feature_row_logo" type="center" %}
+
+{% include feature_row id="feature_row_motw_hike" type="center" %}
 
 {% include feature_row id="feature_row_hier" type="center" %}
 
