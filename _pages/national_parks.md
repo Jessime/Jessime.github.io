@@ -3,7 +3,7 @@ permalink: /national_parks/
 title: "Tracking National Parks I've Visited"
 ---
 
-I have a soft life goal of visiting every National Park in the US. I'm tracking my progress here. I'm currently at **17 of 63**. 
+I have a soft life goal of visiting every National Park in the US. I'm tracking my progress here. I'm currently at **17 of 63**.
 
 In alphabetical order:
 
@@ -20,7 +20,12 @@ In alphabetical order:
 # Badlands,South Dakota
 # Big Bend,Texas
 # Biscayne,Florida
-# Black Canyon of the Gunnison,Colorado
+# Black Canyon of the Gunnison, Colorado
+
+**Date:** July, 2026
+
+{% include figure image_path="/assets/images/national_parks/black_canyon.webp" alt="Death Valley" caption="Zarina and I vacationed in Grand Junction for a week. We decided that being sick during the trip was going to make it a core memory." %}
+
 # Bryce Canyon,Utah
 # Canyonlands,Utah
 # Capitol Reef,Utah
@@ -73,7 +78,7 @@ In alphabetical order:
 
 # Great Smoky Mountains, North Carolina; Tennessee
 
-I've been as a kid with my uncle, but I'll have to track down a photo. 
+I've been as a kid with my uncle, but I'll have to track down a photo.
 
 # Guadalupe Mountains,Texas
 # Haleakalā,Hawaii
