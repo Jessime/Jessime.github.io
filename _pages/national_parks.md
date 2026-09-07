@@ -124,9 +124,12 @@ I need to remember if the trip to Bishop took us through Kings Canyon. I think i
 {% include figure image_path="/assets/images/national_parks/olympic.webp" alt="Olympic" caption="Went with Drake for a quick 4th of July trip." %}
 
 # Petrified Forest,Arizona
+
 # Pinnacles,California
 
-I went in 2020 for a hot (literally and figuratively) minute, but didn't take a picture.
+**Date:** Sept, 2026
+
+{% include figure image_path="/assets/images/national_parks/pinnacles.webp" alt="Olympic" caption="This day trip was way more successful than my first attempt at going to Pinnacles. We did some light climbing (my first time climbing outdoors somewhere other than Arizona), and hiked Moses Spring trail." %}
 
 # Redwood,California; Oregon
 
