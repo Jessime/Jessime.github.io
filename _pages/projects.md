@@ -104,7 +104,7 @@ feature_row_murray_genealogy:
     alt: "Murray Family History Explorer"
     title: "Murray Family History Explorer"
     excerpt: "This genealogy covers 244 years and nine generations from December 1, 1780 to December 11, 2024. Compiled by Sister Mary Lou Geraets."
-    url: "murray_genealogy"
+    url: "/genealogy/"
     btn_label: "Explore"
     btn_class: "btn--primary"
 ---
