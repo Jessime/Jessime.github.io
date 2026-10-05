@@ -99,11 +99,21 @@ feature_row_revenge:
     url: "revenge_of_arius"
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row_murray_genealogy:
+  - image_path: assets/images/genealogy.jpg
+    alt: "Murray Family History Explorer"
+    title: "Murray Family History Explorer"
+    excerpt: "This genealogy covers 244 years and nine generations from December 1, 1780 to December 11, 2024. Compiled by Sister Mary Lou Geraets."
+    url: "murray_genealogy"
+    btn_label: "Explore"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
 
 <!-- {% include feature_row id="feature_row_pinned" type="center" %} -->
+
+{% include feature_row id="feature_row_murray_genealogy" type="center" %}
 
 {% include feature_row id="feature_row_logo" type="center" %}
 

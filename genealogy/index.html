@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#243e35">
+  <meta name="description" content="Explore nine generations of the Steffen family, from the original family descendant report.">
+  <title>The Steffen family · Family archive</title>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="data.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#profile">Skip to selected person</a>
+  <header class="masthead">
+    <div>
+      <h1><a class="wordmark" href="#p0001" data-person="p0001" aria-label="Steffen family home">Steffen family</a></h1>
+      <p class="archive-stats" aria-label="Archive statistics"><span><strong id="people-count">—</strong> records</span><span><strong id="generation-count">9</strong> generations</span><span>49 pages</span></p>
+    </div>
+    <a class="source-top" href="source.pdf" target="_blank" rel="noopener">Original PDF ↗</a>
+  </header>
+  <main>
+    <nav class="view-nav" aria-label="Archive views">
+      <button type="button" class="active" data-view="directory" aria-pressed="true" aria-controls="directory"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><span>Find a person</span></button>
+      <button type="button" data-view="outline" aria-pressed="false" aria-controls="outline-panel"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="9" y="3" width="6" height="5" rx="1"/><rect x="2" y="16" width="6" height="5" rx="1"/><rect x="16" y="16" width="6" height="5" rx="1"/><path d="M12 8v4M5 16v-4h14v4"/></svg><span>Family outline</span></button>
+      <button type="button" data-view="about" aria-pressed="false" aria-controls="about-panel"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3h9l4 4v14H6zM15 3v5h4M9 12h7M9 16h7"/></svg><span>About the records</span></button>
+    </nav>
+    <div class="workspace" id="workspace">
+      <aside class="directory" id="directory" aria-label="Find a person">
+        <label for="search" class="search-label">Search</label>
+        <div class="search-wrap"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Name, place, or year…" autocomplete="off"><button type="button" id="clear-search" aria-label="Clear search" hidden>×</button></div>
+        <div class="filters"><label for="generation">Generation<select id="generation"><option value="">All generations</option></select></label><label for="sort">Sort by<select id="sort"><option value="name">Name A–Z</option><option value="report">Report order</option><option value="birth">Birth year</option></select></label></div>
+        <label class="review-filter"><input type="checkbox" id="review-only"> Needs review <span id="review-total"></span></label>
+        <div class="results-heading"><span id="result-count" role="status" aria-live="polite"></span><button id="reset" type="button" class="text-button">Reset</button></div>
+        <div id="results" class="results"></div>
+        <button id="load-more" type="button" class="load-more" hidden>Show more people</button>
+      </aside>
+      <section id="outline-panel" class="outline-panel" hidden aria-labelledby="outline-title">
+        <h2 id="outline-title">Family outline</h2><p class="muted">Use the arrows to expand a branch; select a name to view its record.</p>
+        <div class="outline-actions"><button type="button" id="show-lineage" class="small-button">Locate selected person</button><button type="button" id="collapse-tree" class="text-button">Collapse all</button></div>
+        <div id="family-tree" class="family-tree"></div>
+      </section>
+      <article id="profile" class="profile" tabindex="-1" aria-label="Selected person"><p>Loading family records…</p></article>
+    </div>
+    <section id="about-panel" class="about-panel" hidden aria-labelledby="about-title">
+      <h2 id="about-title">About the records</h2>
+      <div class="about-grid">
+        <div><h3>Source</h3><p><em>Outline Descendant Report for Johann (Jean) Baptiste Steffen.</em> Each record includes its original entry and PDF page. Dates and spellings are preserved; missing details were not recorded.</p><h3>Relationships</h3><p>Connections follow the report’s family groups, including adoption and stepchild notes. They do not establish biological parentage. Same-name entries remain separate records.</p></div>
+        <div><h3>Review notes</h3><p id="review-explanation"></p><p>Unresolved connections are listed separately. Interpretation notes explain entries whose placement was unclear.</p><div class="download-links"><a href="source.pdf" target="_blank" rel="noopener" class="small-button">Original PDF ↗</a><a href="data.json" download class="small-button">Download data ↓</a></div></div>
+      </div>
+    </section>
+  </main>
+  <div id="announcement" class="sr-only" role="status" aria-live="polite"></div>
+  <noscript><p class="noscript">This browser needs JavaScript to search and connect records. You can still <a href="source.pdf">read the original PDF</a>.</p></noscript>
+</body>
+</html>

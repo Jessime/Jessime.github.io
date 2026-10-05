@@ -1,0 +1,903 @@
+{
+  "summary": {
+    "people": 2144,
+    "descendants": 1492,
+    "partners": 652,
+    "generations": 9,
+    "pages": 49,
+    "sourceFile": "source.pdf",
+    "sourceSha256": "76b8b12f13dbce2867de8e28b10c6fab287c92969ceb967175b9db3beaf205a4",
+    "reviewCount": 35,
+    "sourceLines": 2699,
+    "excludedLines": [
+      [
+        1,
+        "1"
+      ],
+      [
+        1,
+        "Outline Descendant Report for Johann (Jean) Baptiste Steffen"
+      ],
+      [
+        2,
+        "2"
+      ],
+      [
+        3,
+        "3"
+      ],
+      [
+        4,
+        "4"
+      ],
+      [
+        5,
+        "5"
+      ],
+      [
+        6,
+        "6"
+      ],
+      [
+        7,
+        "7"
+      ],
+      [
+        8,
+        "8"
+      ],
+      [
+        9,
+        "9"
+      ],
+      [
+        10,
+        "10"
+      ],
+      [
+        11,
+        "11"
+      ],
+      [
+        12,
+        "12"
+      ],
+      [
+        13,
+        "13"
+      ],
+      [
+        14,
+        "14"
+      ],
+      [
+        15,
+        "15"
+      ],
+      [
+        16,
+        "16"
+      ],
+      [
+        17,
+        "17"
+      ],
+      [
+        18,
+        "18"
+      ],
+      [
+        19,
+        "19"
+      ],
+      [
+        20,
+        "20"
+      ],
+      [
+        21,
+        "21"
+      ],
+      [
+        22,
+        "22"
+      ],
+      [
+        23,
+        "23"
+      ],
+      [
+        24,
+        "24"
+      ],
+      [
+        25,
+        "25"
+      ],
+      [
+        26,
+        "26"
+      ],
+      [
+        27,
+        "27"
+      ],
+      [
+        28,
+        "28"
+      ],
+      [
+        29,
+        "29"
+      ],
+      [
+        30,
+        "30"
+      ],
+      [
+        31,
+        "31"
+      ],
+      [
+        32,
+        "32"
+      ],
+      [
+        33,
+        "33"
+      ],
+      [
+        34,
+        "34"
+      ],
+      [
+        35,
+        "35"
+      ],
+      [
+        36,
+        "36"
+      ],
+      [
+        37,
+        "37"
+      ],
+      [
+        38,
+        "38"
+      ],
+      [
+        39,
+        "39"
+      ],
+      [
+        40,
+        "40"
+      ],
+      [
+        41,
+        "41"
+      ],
+      [
+        42,
+        "42"
+      ],
+      [
+        43,
+        "43"
+      ],
+      [
+        44,
+        "44"
+      ],
+      [
+        45,
+        "45"
+      ],
+      [
+        46,
+        "46"
+      ],
+      [
+        47,
+        "47"
+      ],
+      [
+        48,
+        "48"
+      ],
+      [
+        49,
+        "49"
+      ],
+      [
+        49,
+        "THE END"
+      ]
+    ],
+    "reviewedPartnerReturns": 36
+  },
+  "reviewedPartnerReturns": [
+    {
+      "person": "p0026",
+      "partner": "p0021",
+      "page": 1,
+      "reason": "Partner linked to Jerome \"Jerry\" Ginsbach by review of the surrounding branch; this entry returns to an earlier generation."
+    },
+    {
+      "person": "p0259",
+      "partner": "p0256",
+      "page": 6,
+      "reason": "Partner linked to Shirley Jean Geraets-Thompson by review of the surrounding branch; this entry returns to an earlier generation."
+    },
+    {
+      "person": "p0299",
+      "partner": "p0296",
+      "page": 7,
+      "reason": "Partner linked to John Roger Redenius Sr by review of the surrounding branch; this entry returns to an earlier generation."
+    },
+    {
+      "person": "p0375",
+      "partner": "p0372",
+      "page": 9,
+      "reason": "Partner linked to Zachary Steffen Clark by review of the surrounding branch; this entry returns to an earlier generation."
+    },
+    {
+      "person": "p0407",
+      "partner": "p0404",
+      "page": 10,
+      "reason": "Partner linked to John Wayne \"Jack\" Steffen Jr by review of the surrounding branch; this entry returns to an earlier generation."
+    },
+    {
+      "person": "p0445",
+      "partner": "p0423",
+      "page": 11,
+      "reason": "Partner linked to Dolores Erlynn Kennedy-Johnson by review of the surrounding branch; this entry returns to an earlier generation."
+    },
+    {
+      "person": "p0463",
+      "partner": "p0460",
+      "page": 11,
+      "reason": "Partner linked to Katie Marie Matulonis (Slimmer) -Merrifeld by review of the surrounding branch; this entry returns to an earlier generation."
+    },
+    {
+      "person": "p0606",
+      "partner": "p0602",
+      "page": 14,
+      "reason": "Partner linked to Michelle Rene Young (Noreen) -Dockall by review of the surrounding branch; this entry returns to an earlier generation."
+    },
+    {
+      "person": "p0613",
+      "partner": "p0609",
+      "page": 15,
+      "reason": "Partner linked to Monica Suzanne Young by review of the surrounding branch; this entry returns to an earlier generation."
+    },
+    {
+      "person": "p0683",
+      "partner": "p0679",
+      "page": 16,
+      "reason": "Partner linked to Sara Anne Sparks Van Wyngarden by review of the surrounding branch; this entry returns to an earlier generation."
+    },
+    {
+      "person": "p0747",
+      "partner": "p0744",
+      "page": 18,
+      "reason": "Partner linked to Francis Aloysious \"Frank\" Steffen by review of the surrounding branch; this entry returns to an earlier generation."
+    },
+    {
+      "person": "p0765",
+      "partner": "p0748",
+      "page": 18,
+      "reason": "Partner linked to Miriam “Coleen” Steffen-Hilley-Turgeon by review of the surrounding branch; this entry returns to an earlier generation."
+    },
+    {
+      "person": "p0772",
+      "partner": "p0766",
+      "page": 18,
+      "reason": "Partner linked to Janine Hilley-Speiler-Leo by review of the surrounding branch; this entry returns to an earlier generation."
+    },
+    {
+      "person": "p0784",
+      "partner": "p0776",
+      "page": 18,
+      "reason": "Partner linked to Jeffrey King Barrows by review of the surrounding branch; this entry returns to an earlier generation."
+    },
+    {
+      "person": "p0813",
+      "partner": "p0806",
+      "page": 19,
+      "reason": "Partner linked to Patricia Ann \"Pam\" Murray-Vetter by review of the surrounding branch; this entry returns to an earlier generation."
+    },
+    {
+      "person": "p0832",
+      "partner": "p0828",
+      "page": 20,
+      "reason": "Partner linked to Linda Kay Murray-Kirk by review of the surrounding branch; this entry returns to an earlier generation."
+    },
+    {
+      "person": "p0845",
+      "partner": "p0835",
+      "page": 20,
+      "reason": "Partner linked to Andrew James \"Andy\" Murray by review of the surrounding branch; this entry returns to an earlier generation."
+    },
+    {
+      "person": "p0864",
+      "partner": "p0861",
+      "page": 20,
+      "reason": "Partner linked to Shawn Michael Pulver by review of the surrounding branch; this entry returns to an earlier generation."
+    },
+    {
+      "person": "p0882",
+      "partner": "p0879",
+      "page": 21,
+      "reason": "Partner linked to William Charles Metzger by review of the surrounding branch; this entry returns to an earlier generation."
+    },
+    {
+      "person": "p0980",
+      "partner": "p0977",
+      "page": 23,
+      "reason": "Partner linked to Matthew James Welter by review of the surrounding branch; this entry returns to an earlier generation."
+    },
+    {
+      "person": "p1001",
+      "partner": "p0983",
+      "page": 24,
+      "reason": "Partner linked to Ronald Frederick Hood by review of the surrounding branch; this entry returns to an earlier generation."
+    },
+    {
+      "person": "p1047",
+      "partner": "p1037",
+      "page": 25,
+      "reason": "Partner linked to Stephen Wayne Rogers by review of the surrounding branch; this entry returns to an earlier generation."
+    },
+    {
+      "person": "p1054",
+      "partner": "p1037",
+      "page": 25,
+      "reason": "Partner linked to Stephen Wayne Rogers by review of the surrounding branch; this entry returns to an earlier generation."
+    },
+    {
+      "person": "p1062",
+      "partner": "p1055",
+      "page": 25,
+      "reason": "Partner linked to Mark James Rogers by review of the surrounding branch; this entry returns to an earlier generation."
+    },
+    {
+      "person": "p1113",
+      "partner": "p1107",
+      "page": 26,
+      "reason": "Partner linked to Allan Ray Cozad by review of the surrounding branch; this entry returns to an earlier generation."
+    },
+    {
+      "person": "p1152",
+      "partner": "p1141",
+      "page": 27,
+      "reason": "Partner linked to James Alan Biegger by review of the surrounding branch; this entry returns to an earlier generation."
+    },
+    {
+      "person": "p1208",
+      "partner": "p1203",
+      "page": 28,
+      "reason": "Partner linked to Kevin Darnell Hein by review of the surrounding branch; this entry returns to an earlier generation."
+    },
+    {
+      "person": "p1255",
+      "partner": "p1250",
+      "page": 29,
+      "reason": "Partner linked to Donna Lee Roby -Branson by review of the surrounding branch; this entry returns to an earlier generation."
+    },
+    {
+      "person": "p1361",
+      "partner": "p1357",
+      "page": 31,
+      "reason": "Partner linked to Richard Lee Page by review of the surrounding branch; this entry returns to an earlier generation."
+    },
+    {
+      "person": "p1366",
+      "partner": "p1357",
+      "page": 31,
+      "reason": "Partner linked to Richard Lee Page by review of the surrounding branch; this entry returns to an earlier generation."
+    },
+    {
+      "person": "p1679",
+      "partner": "p1672",
+      "page": 38,
+      "reason": "Partner linked to Michael Allan Barclay Sr by review of the surrounding branch; this entry returns to an earlier generation."
+    },
+    {
+      "person": "p1681",
+      "partner": "p1672",
+      "page": 38,
+      "reason": "Partner linked to Michael Allan Barclay Sr by review of the surrounding branch; this entry returns to an earlier generation."
+    },
+    {
+      "person": "p1807",
+      "partner": "p1802",
+      "page": 41,
+      "reason": "Partner linked to Molly Jane McAreavy-Schwartz by review of the surrounding branch; this entry returns to an earlier generation."
+    },
+    {
+      "person": "p1917",
+      "partner": "p1914",
+      "page": 44,
+      "reason": "Partner linked to June Marie Steffen-Winske by review of the surrounding branch; this entry returns to an earlier generation."
+    },
+    {
+      "person": "p1932",
+      "partner": "p1929",
+      "page": 44,
+      "reason": "Partner linked to Jona Marie Withrow-Austin by review of the surrounding branch; this entry returns to an earlier generation."
+    },
+    {
+      "person": "p1955",
+      "partner": "p1829",
+      "page": 44,
+      "reason": "Partner linked to Francis Louis \"Frank\" Steffen by review of the surrounding branch; this entry returns to an earlier generation."
+    }
+  ],
+  "issues": [
+    {
+      "id": "p0066",
+      "name": "Kyler Levi Klein",
+      "pages": [
+        2
+      ],
+      "issues": [
+        {
+          "code": "parent-age",
+          "message": "The reported birth years put Kevin Laurence Klein at age 1 when this person was born. This may be a date error or a step/adoptive relationship; the report is preserved."
+        },
+        {
+          "code": "parent-age",
+          "message": "The reported birth years put Delores Mills-Klein at age 2 when this person was born. This may be a date error or a step/adoptive relationship; the report is preserved."
+        }
+      ]
+    },
+    {
+      "id": "p0084",
+      "name": "Cooper Haynes Berrios",
+      "pages": [
+        2
+      ],
+      "issues": [
+        {
+          "code": "ambiguous-parent",
+          "message": "Multiple partners precede this child in the report. The other parent is unresolved; possible connections are listed separately."
+        }
+      ]
+    },
+    {
+      "id": "p0154",
+      "name": "Agnes Marie Thi Huong Gillen",
+      "pages": [
+        4
+      ],
+      "issues": [
+        {
+          "code": "unlabeled-detail",
+          "message": "The report gives a date without an event label; its meaning has not been assumed."
+        }
+      ]
+    },
+    {
+      "id": "p0198",
+      "name": "Shelby Rose Bell-Myers",
+      "pages": [
+        5
+      ],
+      "issues": [
+        {
+          "code": "parent-age",
+          "message": "The reported birth years put Jerry Michael Geraets at age 9 when this person was born. This may be a date error or a step/adoptive relationship; the report is preserved."
+        }
+      ]
+    },
+    {
+      "id": "p0355",
+      "name": "Michael David Severson",
+      "pages": [
+        9
+      ],
+      "issues": [
+        {
+          "code": "ambiguous-partner",
+          "message": "Rebekah Avery appears at the end of this branch, but the report does not clearly identify her partner."
+        }
+      ]
+    },
+    {
+      "id": "p0359",
+      "name": "Andrew Michael Severson",
+      "pages": [
+        9
+      ],
+      "issues": [
+        {
+          "code": "ambiguous-partner",
+          "message": "Rebekah Avery appears at the end of this branch, but the report does not clearly identify her partner."
+        }
+      ]
+    },
+    {
+      "id": "p0360",
+      "name": "Rebekah Avery",
+      "pages": [
+        9
+      ],
+      "issues": [
+        {
+          "code": "ambiguous-partner",
+          "message": "The position could refer to Michael David Severson or Andrew Michael Severson. No partner link has been asserted."
+        }
+      ]
+    },
+    {
+      "id": "p0381",
+      "name": "Jordan Elizabeth Steffen",
+      "pages": [
+        9
+      ],
+      "issues": [
+        {
+          "code": "ambiguous-parent",
+          "message": "Multiple partners precede this child in the report. The other parent is unresolved; possible connections are listed separately."
+        }
+      ]
+    },
+    {
+      "id": "p0384",
+      "name": "Mitchell James Steffen",
+      "pages": [
+        9
+      ],
+      "issues": [
+        {
+          "code": "ambiguous-parent",
+          "message": "Multiple partners precede this child in the report. The other parent is unresolved; possible connections are listed separately."
+        }
+      ]
+    },
+    {
+      "id": "p0401",
+      "name": "Kalli Rae Hubbard",
+      "pages": [
+        10
+      ],
+      "issues": [
+        {
+          "code": "ambiguous-parent",
+          "message": "Multiple partners precede this child in the report. The other parent is unresolved; possible connections are listed separately."
+        }
+      ]
+    },
+    {
+      "id": "p0588",
+      "name": "Suzanne Marie Rath-Creech",
+      "pages": [
+        14
+      ],
+      "issues": [
+        {
+          "code": "parent-age",
+          "message": "The reported birth years put Thomas Christopher Rath at age 2 when this person was born. This may be a date error or a step/adoptive relationship; the report is preserved."
+        },
+        {
+          "code": "parent-age",
+          "message": "The reported birth years put Catherine Dawn Rutledge-Rath at age 2 when this person was born. This may be a date error or a step/adoptive relationship; the report is preserved."
+        }
+      ]
+    },
+    {
+      "id": "p0630",
+      "name": "Mallory Colleen Clark",
+      "pages": [
+        15
+      ],
+      "issues": [
+        {
+          "code": "ambiguous-parent",
+          "message": "Multiple partners precede this child in the report. The other parent is unresolved; possible connections are listed separately."
+        }
+      ]
+    },
+    {
+      "id": "p0753",
+      "name": "Amanda Beth Paxton-Work",
+      "pages": [
+        18
+      ],
+      "issues": [
+        {
+          "code": "ambiguous-parent",
+          "message": "Multiple partners precede this child in the report. The other parent is unresolved; possible connections are listed separately."
+        }
+      ]
+    },
+    {
+      "id": "p0766",
+      "name": "Janine Hilley-Speiler-Leo",
+      "pages": [
+        18
+      ],
+      "issues": [
+        {
+          "code": "inconsistent-indent",
+          "message": "Al Leo is linked here from the surname and surrounding branch; his indentation is inconsistent. Please verify with family records."
+        }
+      ]
+    },
+    {
+      "id": "p0772",
+      "name": "Al Leo",
+      "pages": [
+        18
+      ],
+      "issues": [
+        {
+          "code": "inconsistent-indent",
+          "message": "The indentation points one generation too high. The connection to Janine follows her listed surname (Hilley-Speiler-Leo) and the surrounding branch; please verify with family records."
+        }
+      ]
+    },
+    {
+      "id": "p0776",
+      "name": "Jeffrey King Barrows",
+      "pages": [
+        18
+      ],
+      "issues": [
+        {
+          "code": "ambiguous-parent",
+          "message": "Multiple partners precede this child in the report. The other parent is unresolved; possible connections are listed separately."
+        }
+      ]
+    },
+    {
+      "id": "p0784",
+      "name": "Wanda Overstreet-Barrows",
+      "pages": [
+        18
+      ],
+      "issues": [
+        {
+          "code": "marriage-date",
+          "message": "The marriage year (2003) follows the reported death of Jeffrey King Barrows (2002). The dates are preserved and need verification."
+        }
+      ]
+    },
+    {
+      "id": "p0785",
+      "name": "Lori Jean Barrows",
+      "pages": [
+        19
+      ],
+      "issues": [
+        {
+          "code": "ambiguous-parent",
+          "message": "Multiple partners precede this child in the report. The other parent is unresolved; possible connections are listed separately."
+        }
+      ]
+    },
+    {
+      "id": "p0885",
+      "name": "Timothy Bruce Huntington",
+      "pages": [
+        21
+      ],
+      "issues": [
+        {
+          "code": "marriage-age",
+          "message": "The reported dates put Elizabeth Ann Metzger-Huntington at age 9 at this marriage. The dates are preserved and need verification."
+        }
+      ]
+    },
+    {
+      "id": "p0939",
+      "name": "Elizabeth",
+      "pages": [
+        22
+      ],
+      "issues": [
+        {
+          "code": "unlabeled-detail",
+          "message": "The report gives a date without an event label; its meaning has not been assumed."
+        }
+      ]
+    },
+    {
+      "id": "p1156",
+      "name": "Robert Anthony \"Tony\" Biegger",
+      "pages": [
+        27
+      ],
+      "issues": [
+        {
+          "code": "ambiguous-parent",
+          "message": "Multiple partners precede this child in the report. The other parent is unresolved; possible connections are listed separately."
+        }
+      ]
+    },
+    {
+      "id": "p1159",
+      "name": "Todd Michael Labus",
+      "pages": [
+        27
+      ],
+      "issues": [
+        {
+          "code": "ambiguous-parent",
+          "message": "Multiple partners precede this child in the report. The other parent is unresolved; possible connections are listed separately."
+        }
+      ]
+    },
+    {
+      "id": "p1164",
+      "name": "Michael Thomas \"Tommy\" Biegger",
+      "pages": [
+        27
+      ],
+      "issues": [
+        {
+          "code": "ambiguous-parent",
+          "message": "Multiple partners precede this child in the report. The other parent is unresolved; possible connections are listed separately."
+        }
+      ]
+    },
+    {
+      "id": "p1166",
+      "name": "Cassandra Leigh Biegger-Eller",
+      "pages": [
+        27
+      ],
+      "issues": [
+        {
+          "code": "parent-age",
+          "message": "The reported birth years put Brandy Meyer-Biegger at age 7 when this person was born. This may be a date error or a step/adoptive relationship; the report is preserved."
+        }
+      ]
+    },
+    {
+      "id": "p1173",
+      "name": "Lisa Ann Biegger-McMahon",
+      "pages": [
+        27
+      ],
+      "issues": [
+        {
+          "code": "ambiguous-parent",
+          "message": "Multiple partners precede this child in the report. The other parent is unresolved; possible connections are listed separately."
+        }
+      ]
+    },
+    {
+      "id": "p1175",
+      "name": "Melisssa Kaye Labus",
+      "pages": [
+        27
+      ],
+      "issues": [
+        {
+          "code": "ambiguous-parent",
+          "message": "Multiple partners precede this child in the report. The other parent is unresolved; possible connections are listed separately."
+        }
+      ]
+    },
+    {
+      "id": "p1327",
+      "name": "Jack Henry Page",
+      "pages": [
+        31
+      ],
+      "issues": [
+        {
+          "code": "ambiguous-parent",
+          "message": "Multiple partners precede this child in the report. The other parent is unresolved; possible connections are listed separately."
+        }
+      ]
+    },
+    {
+      "id": "p1328",
+      "name": "Sam McVay Page",
+      "pages": [
+        31
+      ],
+      "issues": [
+        {
+          "code": "ambiguous-parent",
+          "message": "Multiple partners precede this child in the report. The other parent is unresolved; possible connections are listed separately."
+        }
+      ]
+    },
+    {
+      "id": "p1329",
+      "name": "Charles Dean Page",
+      "pages": [
+        31
+      ],
+      "issues": [
+        {
+          "code": "ambiguous-parent",
+          "message": "Multiple partners precede this child in the report. The other parent is unresolved; possible connections are listed separately."
+        }
+      ]
+    },
+    {
+      "id": "p1694",
+      "name": "Elizabeth Anne McElmeel",
+      "pages": [
+        38
+      ],
+      "issues": [
+        {
+          "code": "ambiguous-parent",
+          "message": "Multiple partners precede this child in the report. The other parent is unresolved; possible connections are listed separately."
+        }
+      ]
+    },
+    {
+      "id": "p1695",
+      "name": "Megan Theresa McElmeel",
+      "pages": [
+        38
+      ],
+      "issues": [
+        {
+          "code": "ambiguous-parent",
+          "message": "Multiple partners precede this child in the report. The other parent is unresolved; possible connections are listed separately."
+        }
+      ]
+    },
+    {
+      "id": "p1696",
+      "name": "Peter Eugene McElmeel",
+      "pages": [
+        38
+      ],
+      "issues": [
+        {
+          "code": "ambiguous-parent",
+          "message": "Multiple partners precede this child in the report. The other parent is unresolved; possible connections are listed separately."
+        }
+      ]
+    },
+    {
+      "id": "p1829",
+      "name": "Francis Louis \"Frank\" Steffen",
+      "pages": [
+        42
+      ],
+      "issues": [
+        {
+          "code": "inconsistent-indent",
+          "message": "Clara’s entry is indented beside a descendant born in 2013, although her marriage is dated 1948. The branch ending and dates suggest Francis Louis \"Frank\" Steffen (1897–1988), whose first listed wife died in 1943. This interpreted connection needs verification."
+        }
+      ]
+    },
+    {
+      "id": "p1849",
+      "name": "Ava Digman",
+      "pages": [
+        42
+      ],
+      "issues": [
+        {
+          "code": "parent-age",
+          "message": "The reported birth years put Benjamin Paul Digman at age 0 when this person was born. This may be a date error or a step/adoptive relationship; the report is preserved."
+        }
+      ]
+    },
+    {
+      "id": "p1955",
+      "name": "Clara W Bussan-Tesmer",
+      "pages": [
+        44
+      ],
+      "issues": [
+        {
+          "code": "inconsistent-indent",
+          "message": "Clara’s entry is indented beside a descendant born in 2013, although her marriage is dated 1948. The branch ending and dates suggest Francis Louis \"Frank\" Steffen (1897–1988), whose first listed wife died in 1943. This interpreted connection needs verification."
+        }
+      ]
+    }
+  ]
+}
