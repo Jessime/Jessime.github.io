@@ -159,6 +159,12 @@ select { display: block; width: 100%; margin-top: 6px; padding: 9px 6px; border:
 .about-grid h3 { margin: 26px 0 10px; color: var(--ink); font-size: 15px; font-weight: 600; }
 .about-grid h3:first-child { margin-top: 0; }
 .about-grid p { margin: 0 0 12px; color: var(--muted); font-size: 13px; line-height: 1.85; }
+.about-grid a { overflow-wrap: anywhere; }
+.compilation-history { margin: 16px 0; font-size: 13px; line-height: 1.85; }
+.compilation-history summary { color: var(--ink); cursor: pointer; }
+.compilation-history summary + p { margin-top: 12px; }
+.compilation-history ul { margin: 12px 0; padding-left: 20px; color: var(--muted); }
+.compilation-history li + li { margin-top: 10px; }
 .download-links { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 20px; }
 
 .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
