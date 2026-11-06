@@ -26,12 +26,19 @@ In alphabetical order:
 
 {% include figure image_path="/assets/images/national_parks/black_canyon.webp" alt="Death Valley" caption="Zarina and I vacationed in Grand Junction for a week. We decided that being sick during the trip was going to make it a core memory." %}
 
-# Bryce Canyon,Utah
-# Canyonlands,Utah
-# Capitol Reef,Utah
-# Carlsbad Caverns,New Mexico
-# Channel Islands,California
-# Congaree,South Carolina
+# Bryce Canyon, Utah
+# Canyonlands, Utah
+# Capitol Reef, Utah
+# Carlsbad Caverns, New Mexico
+# Channel Islands, California
+
+# Chiricahua, Arizona
+
+**Date:** January, 2021
+
+{% include figure image_path="/assets/images/national_parks/chiricahua.jpg" alt="Chiricahua" caption="Completely by coincidence, Becca and Josh had planned a vacation to Arizona, and specifically to the Chiricahua, two weeks after I moved there. Getting to meet up with them felt so serendipitous during that transition period in my life. The timing couldn't have been better! %}
+
+# Congaree, South Carolina
 
 # Crater Lake, Oregon
 
