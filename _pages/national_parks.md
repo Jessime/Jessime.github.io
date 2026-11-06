@@ -36,7 +36,7 @@ In alphabetical order:
 
 **Date:** January, 2021
 
-{% include figure image_path="/assets/images/national_parks/chiricahua.jpg" alt="Chiricahua" caption="Completely by coincidence, Becca and Josh had planned a vacation to Arizona, and specifically to the Chiricahua, two weeks after I moved there. Getting to meet up with them felt so serendipitous during that transition period in my life. The timing couldn't have been better! %}
+{% include figure image_path="/assets/images/national_parks/chiricahua.jpg" alt="Chiricahua" caption="Completely by coincidence, Becca and Josh had planned a vacation to Arizona, and specifically to the Chiricahua, two weeks after I moved there. Getting to meet up with them felt so serendipitous during that transition period in my life. The timing couldn't have been better!" %}
 
 # Congaree, South Carolina
 
