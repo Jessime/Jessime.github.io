@@ -3,7 +3,7 @@ permalink: /national_parks/
 title: "Tracking National Parks I've Visited"
 ---
 
-I have a soft life goal of visiting every National Park in the US. I'm tracking my progress here. I'm currently at **17 of 63**.
+I have a soft life goal of visiting every National Park in the US. I'm tracking my progress here. I'm currently at **18 of 64**.
 
 In alphabetical order:
 

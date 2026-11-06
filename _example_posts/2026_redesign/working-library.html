@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <meta name="description" content="My Life in Bio — things Jessime has built and thought. A personal website design preview.">
+  <title>My Life in Bio — Design Preview</title>
+  <script src="theme.js"></script>
+  <link rel="stylesheet" href="shared.css">
+  <link rel="stylesheet" href="working-library.css">
+</head>
+<body id="top">
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div class="preview-bar">
+    <nav class="design-picker" aria-label="Design previews">
+      <span class="preview-label">Design studies</span>
+      <a href="working-library.html"><span class="design-number">02</span> <span>Working Library</span></a>
+      <a href="clay-and-paper.html"><span class="design-number">04</span> <span>Clay &amp; Paper</span></a>
+      <a href="under-glass.html"><span class="design-number">05</span> <span>Under Glass</span></a>
+    </nav>
+    <button class="theme-toggle" type="button" aria-label="Switch to dark mode" hidden>
+      <svg class="moon-icon" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M20.6 13.4A8.7 8.7 0 0 1 10.6 3.4a8.8 8.8 0 1 0 10 10Z"/></svg>
+      <svg class="sun-icon" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 1v3m0 16v3M1 12h3m16 0h3M4.2 4.2l2.1 2.1m11.4 11.4 2.1 2.1M4.2 19.8l2.1-2.1M17.7 6.3l2.1-2.1"/></svg>
+      <span>Dark mode</span>
+    </button>
+  </div>
+
+  <div class="site-shell">
+    <header class="site-header">
+      <a class="author-link" href="#top"><span class="author-monogram" aria-hidden="true">jk.</span> Jessime Kirk</a>
+      <nav class="site-nav" aria-label="Main navigation">
+        <a href="#writing">Writing</a>
+        <a href="#projects">Projects</a>
+        <a href="#about">About</a>
+      </nav>
+    </header>
+
+    <section class="masthead" aria-labelledby="site-title">
+      <div class="masthead-copy">
+        <p class="eyebrow">A personal record <span aria-hidden="true">/</span> Since 2014</p>
+        <h1 id="site-title">My Life <span>in Bio.</span></h1>
+        <p class="site-tagline">Things I've built and thought.</p>
+        <p class="site-description">Bioinformatics, side projects, and the interesting bits of being human.</p>
+      </div>
+      <div class="masthead-art" aria-hidden="true">
+        <img src="assets/fractal-tree.png" alt="" width="1000" height="1000">
+        <span class="art-caption">A little order. A little emergence.</span>
+      </div>
+    </section>
+
+    <main id="main">
+      <section class="reading-section" aria-labelledby="article-title">
+        <aside class="article-sidebar">
+          <p class="eyebrow">From the notebook</p>
+          <p class="sidebar-note">An excerpt from the intersection of biology and code.</p>
+          <nav aria-label="In this article">
+            <p class="small-label">On this page</p>
+            <a href="#question">The question</a>
+            <a href="#code">The code</a>
+            <a href="#assumptions">The assumptions</a>
+          </nav>
+          <a class="text-link original-link" href="https://jessime.github.io/blog/llm_bfx_interview/">Read the original <span aria-hidden="true">↗</span></a>
+        </aside>
+
+        <article class="article">
+          <header class="article-header">
+            <div class="article-meta"><time datetime="2025-02-02">February 2, 2025</time><span aria-hidden="true">·</span><a class="tag" href="#writing">Bioinformatics &amp; AI</a></div>
+            <h2 id="article-title">Reasoning LLM:<br>A Bioinformatics Coding Interview</h2>
+            <p class="article-deck">Here's the question I used to use at Invitae to interview bioinformatics engineering candidates, how it's solved by two reasoning LLMs, and a few conclusions.</p>
+          </header>
+
+          <div class="prose">
+            <h3 id="question">The interview question</h3>
+            <p>I have a FASTA file containing a collection of sequences. Each sequence has a name, and each is the same length. The task is to find sequences that are similar, then connect them in a graph.</p>
+            <p>It starts with a small question: <em>how different are these two sequences?</em> The <a href="#assumptions">Hamming distance</a> counts the positions where they disagree.</p>
+            <blockquote><p>You can assume that the FASTA file is well formatted and there is only one sequence line per header line.</p></blockquote>
+
+            <h3 id="code">A small piece of the problem</h3>
+            <p>Here is one function to fill in. The inputs are simple; the interesting part is deciding what “similar” should mean.</p>
+            <div class="code-block">
+              <div class="code-label"><span>Python</span><span>sequence_similarity.py</span></div>
+              <pre tabindex="0" aria-label="Python code sample"><code><span class="syntax-keyword">def</span> <span class="syntax-function">are_similar</span>(seq1, seq2, threshold=<span class="syntax-number">3</span>):
+    <span class="syntax-string">"""Return whether two sequences are similar."""</span>
+    distance = <span class="syntax-function">sum</span>(
+        a != b <span class="syntax-keyword">for</span> a, b <span class="syntax-keyword">in</span> <span class="syntax-function">zip</span>(seq1, seq2)
+    )
+    <span class="syntax-keyword">return</span> distance &lt;= threshold</code></pre>
+            </div>
+
+            <h3 id="assumptions">Make the assumptions visible</h3>
+            <p>For equal-length inputs, a few examples make the behavior easy to inspect. Here the reference sequence is <code>AGTCTGCT</code> and the threshold is <code>3</code>.</p>
+            <div class="table-scroll" role="region" aria-label="Sequence comparison examples" tabindex="0">
+              <table>
+                <caption>Comparing sequences against a reference</caption>
+                <thead><tr><th scope="col">Sequence</th><th scope="col">Differences</th><th scope="col">Similar?</th></tr></thead>
+                <tbody>
+                  <tr><th scope="row"><code>AGTCTGCT</code></th><td>0</td><td><span class="result-positive">Yes</span></td></tr>
+                  <tr><th scope="row"><code>AGTATGCA</code></th><td>2</td><td><span class="result-positive">Yes</span></td></tr>
+                  <tr><th scope="row"><code>TCAGACGA</code></th><td>8</td><td>No</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <p>Once that relationship is defined, the next steps are to build the graph and find second-degree neighbors. That's where a short coding exercise opens into a conversation about structure, testing, and judgment.</p>
+            <a class="read-more" href="https://jessime.github.io/blog/llm_bfx_interview/">Continue reading the original <span aria-hidden="true">↗</span></a>
+            <p class="demo-note">Shortened and adapted for this design preview; the example implementation and table are demo additions.</p>
+          </div>
+          <div class="article-end" aria-hidden="true"><span></span><span>✳</span><span></span></div>
+        </article>
+      </section>
+
+      <section class="elsewhere-section" aria-labelledby="elsewhere-title">
+        <div class="section-heading"><p class="eyebrow">Away from the keyboard</p><h2 id="elsewhere-title">A change of scenery.</h2></div>
+        <a class="photo-story" href="https://jessime.github.io/blog/sweden/">
+          <figure>
+            <img src="assets/stockholm.webp" alt="A wooden footbridge beside a lily-covered pond and forest near Stockholm." width="1824" height="1368" loading="lazy">
+            <figcaption><span>Stockholm, Sweden</span><time datetime="2026-08-30">August 30, 2026</time></figcaption>
+          </figure>
+          <div class="photo-story-copy"><span class="small-label">Travel notes</span><h3>Finding my own way around Stockholm.</h3><p>Almost three weeks of working, walking, and figuring out how to spend time in a new place.</p><span class="text-link">Read the story <span aria-hidden="true">↗</span></span></div>
+        </a>
+      </section>
+
+      <section id="writing" class="archive-section" aria-labelledby="archive-title">
+        <div class="section-heading"><p class="eyebrow">The ongoing record</p><h2 id="archive-title">Selected writing</h2></div>
+        <div class="archive-list">
+          <a class="archive-entry" href="https://jessime.github.io/blog/sweden/"><time datetime="2026-08-30">30 Aug 2026</time><h3>Stockholm, Sweden</h3><span class="archive-topic">Travel</span><span aria-hidden="true">↗</span></a>
+          <a class="archive-entry" href="https://jessime.github.io/blog/moving_and_memory/"><time datetime="2026-05-31">31 May 2026</time><h3>Memories and moving</h3><span class="archive-topic">Life</span><span aria-hidden="true">↗</span></a>
+          <a class="archive-entry" href="https://jessime.github.io/blog/llm_bfx_interview/"><time datetime="2025-02-02">02 Feb 2025</time><h3>Reasoning LLM: A Bioinformatics Coding Interview</h3><span class="archive-topic">AI</span><span aria-hidden="true">↗</span></a>
+          <a class="archive-entry" href="https://jessime.github.io/blog/4yrs_invitae/"><time datetime="2023-06-04">04 Jun 2023</time><h3>Four Years of Invitae</h3><span class="archive-topic">Work</span><span aria-hidden="true">↗</span></a>
+        </div>
+        <a class="text-link archive-more" href="https://jessime.github.io/posts/">Browse the full archive <span aria-hidden="true">↗</span></a>
+      </section>
+
+      <section id="projects" class="projects-section" aria-labelledby="projects-title">
+        <div class="section-heading"><p class="eyebrow">Made out of curiosity</p><h2 id="projects-title">A few things I've built</h2></div>
+        <div class="project-grid">
+          <a class="project-card" href="https://jessime.github.io/motw_hike/"><span class="small-label">01 / A pocket-sized adventure</span><h3>Micro RPG <span aria-hidden="true">↗</span></h3><p>A tiny offline RPG helper for playing while hiking.</p><span class="project-year">2026</span></a>
+          <a class="project-card" href="https://jessime.github.io/fractal_tree_logo/"><span class="small-label">02 / An experiment in emergence</span><h3>Fractal Tree <span aria-hidden="true">↗</span></h3><p>The story and code behind this site's branching little emblem.</p><span class="project-year">2020</span></a>
+          <a class="project-card" href="https://jessime.github.io/excision/"><span class="small-label">03 / Follow the clues</span><h3>Excision <span aria-hidden="true">↗</span></h3><p>A browser-based treasure hunt for learning computer skills.</p><span class="project-year">2015</span></a>
+        </div>
+      </section>
+    </main>
+
+    <footer id="about" class="site-footer">
+      <div><a class="footer-brand" href="#top">My Life in Bio.</a><p>I'm Jessime. I build things that make life sciences easier,<br class="desktop-break"> and write about what I find along the way.</p></div>
+      <nav aria-label="Elsewhere"><a href="https://github.com/Jessime">GitHub ↗</a><a href="mailto:jessime.kirk@gmail.com">Email ↗</a><a href="https://jessime.github.io/feed.xml">RSS ↗</a></nav>
+      <p class="footer-note">A personal corner of the internet. Since 2014.</p>
+    </footer>
+  </div>
+</body>
+</html>

@@ -1,0 +1,117 @@
+/* All surface, text, and syntax colors have paired reading modes. */
+:root {
+  color-scheme: light;
+  --page: #f8f6f0;
+  --surface: #fffdf8;
+  --surface-alt: #eeeae2;
+  --toolbar: #f1eee7;
+  --ink: #292722;
+  --muted: #686158;
+  --accent: #813d44;
+  --accent-soft: #eee0de;
+  --line: #d9d3c8;
+  --control-border: #a59b8d;
+  --focus: #984550;
+  --selection: #e5c9c6;
+  --code-bg: #f0ede6;
+  --positive: #426343;
+  --syntax-keyword: #803e58;
+  --syntax-function: #385d74;
+  --syntax-string: #53603c;
+}
+:root[data-mode="dark"] {
+  color-scheme: dark;
+  --page: #211f1d;
+  --surface: #292623;
+  --surface-alt: #322e2a;
+  --toolbar: #1b1917;
+  --ink: #eee7db;
+  --muted: #b6aa9c;
+  --accent: #e6a0a2;
+  --accent-soft: #422f31;
+  --line: #4a423a;
+  --control-border: #887a6c;
+  --focus: #f3b8b2;
+  --selection: #65414a;
+  --code-bg: #191817;
+  --positive: #aec7a0;
+  --syntax-keyword: #e5a6bd;
+  --syntax-function: #a3c6de;
+  --syntax-string: #bbc791;
+}
+/* Also honor the system preference when JavaScript is unavailable. */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-mode="light"]) {
+    color-scheme: dark;
+  --page: #211f1d;
+  --surface: #292623;
+  --surface-alt: #322e2a;
+  --toolbar: #1b1917;
+  --ink: #eee7db;
+  --muted: #b6aa9c;
+  --accent: #e6a0a2;
+  --accent-soft: #422f31;
+  --line: #4a423a;
+  --control-border: #887a6c;
+  --focus: #f3b8b2;
+  --selection: #65414a;
+  --code-bg: #191817;
+  --positive: #aec7a0;
+  --syntax-keyword: #e5a6bd;
+  --syntax-function: #a3c6de;
+  --syntax-string: #bbc791;
+  }
+}
+
+:root {
+  --font-ui: "Public Sans", Arial, sans-serif;
+  --font-body: Literata, Georgia, serif;
+  --font-display: Literata, Georgia, serif;
+}
+.site-shell { max-width: 1080px; }
+.site-header { border-bottom: 1px solid var(--line); }
+.author-monogram { background: none; border-bottom: 1px solid var(--accent); height: 28px; }
+.masthead { grid-template-columns: minmax(0, 1fr) 150px; padding-top: 54px; padding-bottom: 53px; }
+.masthead h1 { white-space: nowrap; font-size: clamp(52px, 7.2vw, 98px); letter-spacing: -.065em; }
+.masthead h1 span { color: var(--accent); }
+.masthead-art { width: 122px; align-self: center; }
+.masthead-art img { border-radius: 50%; filter: sepia(.65); }
+.masthead .art-caption { font-size: 8px; line-height: 1.8; }
+.site-tagline { font-size: 21px; }
+.reading-section { gap: 65px; grid-template-columns: 175px minmax(0, 1fr); }
+.article-header h2 { font-size: clamp(32px, 3.3vw, 44px); }
+.article-header { padding-bottom: 26px; border-bottom: 1px solid var(--line); }
+.prose h3 { font-size: 23px; }
+.article-deck { font-size: 17px; }
+.prose { font-size: 16px; line-height: 1.95; }
+.article-end { font-family: Georgia, serif; }
+.code-block { border-left: 2px solid var(--accent); }
+.project-card { background: none; padding-inline: 0; border: none; border-top: 2px solid var(--line); }
+.project-card h3 { font-size: 23px; }
+.project-card:hover { border-top-color: var(--accent); }
+.photo-story figure { padding: 8px; border: 1px solid var(--line); }
+.photo-story figcaption { padding: 0 2px 2px; }
+@media (max-width: 1000px) {
+  .reading-section { gap: 35px; grid-template-columns: 145px minmax(0, 1fr); }
+  .masthead { grid-template-columns: minmax(0, 1fr) 110px; }
+  .masthead-art { width: 100px; }
+}
+@media (max-width: 760px) {
+  .masthead { grid-template-columns: minmax(0, 1fr) 70px; padding-block: 34px; }
+  .masthead h1 { white-space: normal; font-size: clamp(43px, 7.6vw, 64px); }
+  .masthead h1 span { display: block; }
+  .masthead-art { width: 70px; }
+  .reading-section { grid-template-columns: minmax(0, 1fr); gap: 24px; }
+  .site-tagline { font-size: 18px; }
+  .article-header h2 { font-size: 32px; }
+  .project-card { padding: 20px 0; }
+}
+@media (max-width: 380px) {
+  .masthead h1 { font-size: 40px; }
+  .article-header h2 { font-size: 28px; }
+}
+@media print {
+  :root, :root[data-mode] { --page: white; --surface: white; --surface-alt: #f4f4f4; --ink: #111; --muted: #444; --accent: #333; --secondary: #333; --line: #ccc; --code-bg: #f4f4f4; --positive: #333; --syntax-keyword: #222; --syntax-function: #222; --syntax-string: #333; }
+  .read-more { background: none; color: #111; }
+}
+
